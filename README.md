@@ -36,7 +36,21 @@ source of edits.
 - **Players** get a static, read-only build generated from the subset of
   tiddlers that are Canon/Reference and not marked `gm-only`.
 
-## Running it locally
+## Reading the wiki (no install required)
+
+`.github/workflows/deploy.yml` builds a static export of this wiki and
+publishes it to GitHub Pages automatically on every push to `main`. Nobody
+needs Node, npm, or TiddlyWiki installed to *read* the wiki — just the
+published Pages URL, once Pages is turned on for this repo (Settings →
+Pages → Source → "GitHub Actions", a one-time setting).
+
+**Current scope:** the automated build publishes every tiddler as-is; it
+does not yet filter out `gates-visibility: gm-only` tiddlers or
+incomplete/Provisional content from the public build. Until that filtering
+is added, treat the published Pages site as a full mirror, not a
+player-safe cut — see "Migration status" below.
+
+## Running it locally (for editing/spot-checking, not required to read it)
 
 ```
 npm install -g tiddlywiki
@@ -44,17 +58,17 @@ tiddlywiki . --listen
 ```
 
 Then open `http://127.0.0.1:8080` to browse/edit in a real TiddlyWiki
-interface (useful for spot-checking the migration; ongoing edits still go
-through git as described above).
+interface. Ongoing edits still go through git as described above — this is
+just for previewing.
 
-To produce a static export:
+To produce a static export by hand instead of waiting on Actions:
 
 ```
 tiddlywiki . --build index
 ```
 
-This writes a self-contained `static/index.html` — the file a read-only
-GitHub Pages deploy would serve to players.
+This writes a self-contained `static/index.html` (gitignored — it's a
+build artifact, not a source file).
 
 ## Migration status
 
