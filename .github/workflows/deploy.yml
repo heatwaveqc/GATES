@@ -36,17 +36,22 @@ jobs:
         run: mkdir -p static
 
       - name: Build static export
-        run: tiddlywiki . --rendertiddler '$:/core/save/all' static/index.html text/plain
+        run: tiddlywiki . --build index
 
       - name: Verify output exists
         run: |
           if [ ! -s static/index.html ]; then
             echo "::error::static/index.html was not created or is empty. Check the 'Build static export' step's output above for TiddlyWiki warnings/errors."
+            echo "Repository root:"
+            ls -la
+            echo "static/:"
             ls -la static/ || true
+            echo "output/:"
+            ls -la output/ || true
             exit 1
           fi
           echo "Build output looks good:"
-          ls -la static/
+          ls -lh static/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

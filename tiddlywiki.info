@@ -9,9 +9,11 @@
     ],
     "build": {
         "index": [
-            "--rendertiddler",
+            "--output",
+            "static",
+            "--render",
             "$:/core/save/all",
-            "static/index.html",
+            "index.html",
             "text/plain"
         ]
     }
