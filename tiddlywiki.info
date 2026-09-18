@@ -1,8 +1,6 @@
 {
     "description": "GATES — GURPS Fourth Edition interdimensional setting wiki",
     "plugins": [
-        "tiddlywiki/tiddlyweb",
-        "tiddlywiki/filesystem",
         "tiddlywiki/markdown"
     ],
     "themes": [
