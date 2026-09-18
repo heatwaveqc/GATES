@@ -1,0 +1,134 @@
+title: GATES Enchanted Loot Reference
+tags: [[GATES]] [[Magic Items]] [[GM Reference]]
+type: text/x-markdown
+created: 20260918180137000
+modified: 20260918180137000
+gates-status: Reference
+gates-import-status: Complete
+gates-source: Google Drive: GATES/Markdown/GATES Enchanted Loot Reference — Validated GURPS Magic Items
+
+# GATES Enchanted Loot Reference — Validated GURPS Magic Items
+
+Status: Current GATES GM-facing rules reference for generating permanent enchanted loot from published GURPS Magic.
+
+## Purpose and Authority
+
+This document modernizes two legacy tools — Enchanting Cheat Sheet and the old Co-Op Fantasy Loot Spreadsheet — by checking their candidate enchantments and energy costs against the current GATES rules hierarchy and the published GURPS Magic Fourth Edition rules. The legacy files are useful source archaeology and weighting examples, but they are not rules authority.
+
+Use the normal GATES hierarchy: direct GM ruling, 00_GATES_Master_Design, current GATES subsystem rules, current Domain/Tradition rules, then published GURPS. GATES Magic System Rules keeps the approved published GURPS Magic spell list and normal colleges as the baseline unless a current source explicitly overrides them. No general GATES rule currently replaces the published enchanting-energy costs below.
+
+This reference governs GENERATED LOOT. A specific Tradition, dungeon, relic, Wild Loot result, or bespoke magic-item construction may use narrower rules.
+
+## Core Enchanted-Item Rules
+
+* Enchanting energy is the primary complexity/rarity measure in this reference. It is not automatically the item's market price, character-point value, or Wild Loot value.
+* An item may carry multiple spells; each is a separate enchantment unless the spell explicitly says otherwise.
+* For enchantments priced per pound, use the actual mundane item's finished physical weight before magical Lighten effects. Respect the spell's one-pound minimum where stated. Never copy a fixed legacy cost that silently assumed a three-pound sword.
+* Published weapon enchantments are normally permanent and require no energy from the user unless their own write-up says otherwise.
+* Published armor enchantments such as Fortify and Deflect are always on. If the physical item is penetrated often enough, the enchantment can be lost under the published armor-enchantment damage rules. Ordinary repair does not reset that penetration count; magical Repair does.
+* Quick and Dirty and Slow and Sure enchanting continue to use the normal published/GATES procedures unless a specific Tradition changes them. Tradition-specific ways of paying enchanting energy change production, not the listed energy requirement unless they explicitly say so.
+* Mundane quality and magical enchantment are separate. A Fine sword can also be enchanted; neither substitutes for the other.
+
+## Validated Standard Weapon Enchantment Pool
+
+* **Bane** — Enchantment, GURPS Magic p. 62 — 100 E plus a suitable relic/sample of the intended foe. Cast before the offensive enchantments it limits. The same enchanter must place the limited enchantments. Cost reductions: nation/religion/race ÷2; specific creature type or people of one city ÷3; one family ÷4; one specific foe ÷10. The limited offensive enchantments work only against that Bane.
+* **Graceful Weapon** — p. 63 — 150 E/lb, minimum 1 lb. Weapon/tool does not become unready after attacking or parrying, including on a critical miss.
+* **Loyal Sword** — p. 63 — 750 E/lb, minimum 1 lb. Returns to its owner after being dropped or thrown. LEGACY CORRECTION: the old Loot Spreadsheet's flat 750 E entry is only correct for a one-pound item; a three-pound sword costs 2,250 E.
+* **Quick-Draw** — p. 63 — 300 E/lb, minimum 1 lb. Leaps to its owner's hand and stays ready after attacks/parries.
+* **Penetrating Weapon** — p. 63 — Armor Divisor 2: 250 E; 3: 750 E; 5: 2,500 E; 10: 7,500 E. Hardened DR applies normally.
+* **Dancing Weapon** — pp. 63–64 — 1,000 E/lb, minimum 1 lb. Autonomous fighting weapon. Double energy for Speed 6 or skill 18; quadruple for both.
+* **Defending Weapon** — p. 64 — +1 Parry 500 E; +2 1,000 E; +3 2,000 E.
+* **Quick-Aim** — p. 65 — 100 E first level, 200 E stronger version. Half cost for a thrown missile where the spell permits.
+* **Accuracy** — p. 65 — +1 skill 250 E; +2 1,000 E; +3 5,000 E. Individual missiles cost one-tenth.
+* **Puissance** — p. 65 — +1 basic damage 250 E; +2 1,000 E; +3 5,000 E. Double on a missile weapon; one-tenth for an individual missile.
+* **Ghost Weapon** — p. 65 — 250 E/lb, minimum 1 lb. Affects insubstantial/ghostly targets.
+
+## Validated Standard Armor / Shield Enchantment Pool
+
+* **Fortify** — p. 66 — +1 DR 50 E; +2 200 E; +3 800 E; +4 3,000 E; +5 8,000 E for a full suit. Supernatural DR: scales with local SPAA; the armor's mundane base DR does not.
+* **Deflect** — p. 67 — +1 DB 100 E; +2 500 E; +3 2,000 E; +4 8,000 E; +5 20,000 E. Not a DR/ST/damage quantity — no SPAA multiplier.
+* **Lighten** — p. 67 — 100 E for 25% lighter while worn; 500 E for half weight while worn. True weight unchanged when not worn.
+* **Dancing Shield** — p. 67 — 250 E/lb, minimum 1 lb. Independent invisible shield-bearer. Cannot combine with Defending Shield.
+* **Defending Shield** — p. 67 — +1 Block 500 E; +2 1,000 E; +3 2,000 E. Cannot combine with Dancing Shield.
+* **Power** — p. 57 — Power 1: 500 E; 2: 1,000 E; 3: 2,000 E; 4: 4,000 E; double again per further level. Reduces cast/maintenance energy for built-in spells.
+
+## Validated Spell-Item Effects
+
+Not all Enchantment College spells — these are ordinary GURPS spells with published Item sections that create permanent magic items.
+
+* **Flaming Weapon** — Fire, p. 75 — 750 E + $400 ruby. Flaming Missiles: 1,000 E + $500 ruby.
+* **Icy Weapon** — Water, p. 185 — 750 E + sapphire requirement. Icy Missiles: 1,000 E + sapphire.
+* **Lightning Weapon** — Weather/Air, p. 198 — 750 E + $300 platinum/opal. Lightning Missiles: 1,000 E + $400 platinum/opal.
+* **Missile Shield** — Protection, p. 168 — wand/staff/weapon/armor, 400 E.
+* **Reverse Missiles** — Protection, p. 168 — wand/staff/weapon/armor, 600 E.
+* **Bladeturning** — Protection, p. 168 — wand/staff/jewelry/weapon/armor, 300 E. Correct persistent-item entry for "Blade Turning" (not the Blocking spell Turn Blade).
+* **Slow Healing** — Necromancy, p. 153 — cursed weapon item: 100 E per point of healing penalty; double for missile; one-tenth for individual missile.
+* **Steelwraith** — Metal/Earth, p. 182 — niche counter-item; 250 E/lb, minimum 1 lb.
+
+## Special / Bespoke Items
+
+* **Weapon Spirit (VH)** — p. 64 — always bespoke; variable energy formula. Do not roll as an anonymous minor enchantment. Current GATES Prodigy rules exclude creating Weapon Spirits through the shortcut.
+* **Flaming Armor / Lightning Armor** — valid but tactically complex; generate only when explicitly built.
+* Deferred pending exact item-build audit: Magic Resistance, Throw Spell, Rear Vision, Distant Blow, Winged Knife, Catch Missile, Iron Arm, Weapon Self.
+
+## Legacy Corrections
+
+* Loyal Sword 750 E was a hidden one-pound assumption; use 750 E/lb.
+* Quick-Draw 900 E, Dancing 3,000 E, Ghost Weapon 750 E are correct only for a three-pound weapon.
+* "Penetrating Cosmic — 25,000 E" is an inactive legacy house extension, not a published level.
+* Normalize "Blade Turning/Turn Blade" to the published persistent Bladeturning Item effect.
+* Record whether a result is an Enchantment or a Spell-Item — don't conflate the two.
+
+## GATES SPA Interaction
+
+Apply current SPA rules to the supernatural component only, never the mundane object beneath it.
+
+* Fortify: multiply only the Fortify-granted DR.
+* Flaming/Icy/Lightning Weapon or Missiles: multiply only the magical added damage/injury component.
+* Deflect, Defending Weapon/Shield, Accuracy, Quick-Aim, Lighten, and return/ownership effects: no generic SPA multiplier.
+* Scale any granted supernatural ST/DR/healing component; never double an SPA multiplier.
+
+## Provisional Default Enchanted-Loot Generation Calibration
+
+Provisional — not a rewrite of underlying spells, not yet locked universal GATES rule.
+
+Rarity bands by enchanting energy:
+* Minor: up to 250 E
+* Common: 251–750 E
+* Strong: 751–2,000 E
+* Major: 2,001–5,000 E
+* Exceptional: 5,001–10,000 E
+* Artifact / Bespoke: over 10,000 E, intelligent items, mechanically complex self-powered constructions, or effects explicitly placed in the bespoke category
+
+Default highest ordinary band by Treasure Rank 1–5: Minor / Common / Strong / Major / Exceptional. A Major/Boss chest may produce one band above the floor's ordinary ceiling. Artifact/Bespoke results are never produced by a generic roll.
+
+**Generation procedure:**
+1. Choose the mundane host item first (real weight, quality, material, base value).
+2. Determine the permitted enchantment band from the treasure source.
+3. Build the candidate list from validated effects that legally apply to the host and fit the energy ceiling.
+4. Choose an effect, favoring lower-energy candidates within the band.
+5. Add required material components, Bane, Power, or other support enchantments only when the construction calls for them.
+6. Record: mundane host; mundane value/weight/quality; enchantment name(s); individual and total enchanting energy; required components; activation/Power rules; SPA-scaled quantities; source page.
+7. An unvalidated or bespoke effect result: reroll/choose another validated effect, or stop and build the item explicitly before it enters play.
+
+**Example weight correction — 3-lb Nordic sword:** Graceful Weapon 450 E; Loyal Sword 2,250 E; Quick-Draw 900 E; Dancing Weapon 3,000 E before speed/skill upgrades; Ghost Weapon 750 E. Fixed-level Accuracy, Puissance, Defending Weapon, and Penetrating Weapon use their listed energy rather than weapon weight.
+
+## Primary Sources
+
+* 00_GATES_Master_Design — current GATES hierarchy, equipment behavior, and SPA component-separation principles.
+* GATES Magic System Rules — current shared spell/enchantment framework and GATES invention/enchanting context.
+* Foundational Magics GATES — current Tradition-specific use of normal Quick and Dirty / Slow and Sure enchanting and exceptions.
+* Supernatural Power Abundance (SPA) — current supernatural scaling rules.
+* GURPS Magic, Fourth Edition — published enchantment and spell-item effects and energy costs (Magic Items, Enchantment Spells pp. 56–71, and cited spell Item entries).
+* Enchanting Cheat Sheet — legacy candidate catalog audited by this document.
+* Co-Op Fantasy Loot Spreadsheet — legacy random-loot weighting model audited by this document.
+
+## Audit Status
+
+**Validated standard pool:** Bane; Graceful Weapon; Loyal Sword; Quick-Draw; Penetrating Weapon; Dancing Weapon; Defending Weapon; Quick-Aim; Accuracy; Puissance; Ghost Weapon; Fortify; Deflect; Lighten; Dancing Shield; Defending Shield; Power.
+
+**Validated spell-item pool:** Flaming Weapon/Missiles; Icy Weapon/Missiles; Lightning Weapon/Missiles; Missile Shield; Reverse Missiles; Bladeturning; Slow Healing weapon item; Steelwraith counter-item.
+
+**Validated but bespoke:** Weapon Spirit; tactically complex armor spell-items.
+
+**Legacy/unapproved:** Penetrating Cosmic. **Deferred pending audit:** Magic Resistance, Throw Spell, Rear Vision, Distant Blow, Winged Knife, Catch Missile, Iron Arm, Weapon Self, and any other candidate not explicitly listed as validated above.

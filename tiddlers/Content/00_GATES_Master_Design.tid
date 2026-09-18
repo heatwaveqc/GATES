@@ -1,0 +1,124 @@
+title: 00_GATES_Master_Design
+tags: [[GATES]] [[Authority]] [[Master Document]]
+type: text/x-markdown
+created: 20260918180137000
+modified: 20260918180137000
+gates-status: Canon
+gates-import-status: Partial (seed pass — full 15-section body pending)
+gates-source: Google Drive: GATES/Markdown/00_GATES_Master_Design
+
+# GATES Master Design Document
+
+
+
+**Status:** Living authority document, first consolidation pass
+
+**Last consolidated:** 2026-09-15 (America/Phoenix)
+
+**System:** GURPS Fourth Edition
+
+**Purpose:** Establish the current GATES rules hierarchy, consolidate campaign-wide custom rules and rulings, identify authoritative subsystem documents, and prevent superseded drafts from being treated as active rules.
+
+
+
+> This document is the first place to check for a GATES ruling. Detailed subsystem documents remain authoritative for their own procedures unless this document explicitly overrides them.
+
+
+
+---
+
+
+
+## 1. Authority and Editing Policy
+
+
+
+### 1.1 Rules hierarchy
+
+
+
+When sources disagree, use the following order:
+
+
+
+1. **A direct, dated GM ruling**, with the newest ruling winning unless it was explicitly tentative.
+
+2. **This master document.**
+
+3. **A current subsystem document** listed as Canon below.
+
+4. **A current Domain or Tradition document** for rules specific to that Domain or Tradition.
+
+5. **Published GURPS Fourth Edition rules.**
+
+6. **Provisional design notes.**
+
+7. **Archived or deprecated files.** These are not rules.
+
+
+
+A newer file date is evidence, not proof, that a document is authoritative. A recently copied old draft is still an old draft.
+
+
+
+### 1.2 Status labels
+
+
+
+- **Canon:** Active rules unless superseded by this document or a later ruling.
+
+- **Canon, incomplete:** The existing material is active, but blank sections grant nothing and should not be filled by inference.
+
+- **Provisional:** Usable for testing, but not a campaign-wide precedent.
+
+- **Reference:** Setting, examples, catalogs, or calculations that do not establish general rules.
+
+- **Deprecated:** Replaced by a newer system. Do not use for rulings.
+
+- **Archive:** Kept only for design history.
+
+- **Conflict:** Two active-looking sources disagree and this document has not yet resolved the issue.
+
+
+
+### 1.3 Editing rules
+
+
+
+- New campaign-wide rulings should be added here first or immediately afterward.
+
+- Detailed mechanics should live in a focused Markdown file and be summarized here.
+
+- Do not duplicate a full subsystem in several active files. Link to the subsystem instead.
+
+- Empty placeholders are not rules.
+
+- Brainstorming should be visibly labeled and kept outside the active reference path.
+
+- When replacing a rule, mark the old rule Deprecated rather than silently leaving two versions active.### 1.4 Drive information architecture
+
+
+
+Folder placement follows [02_GATES_Drive_Information_Architecture](https://docs.google.com/document/d/1exfAZoO5qCoXj8uCca8op54fjuKUX23rykv9DFnbP0I/edit). The primary distinction is functional and audience-based:
+
+
+
+- Player- and GM-facing rules remain in the root system structure or an appropriate active subsystem folder.
+
+- Design contains creator-only instructions for building, maintaining, auditing, formatting, or editing GATES.
+
+- Setting contains stable fictional canon.
+
+- Campaigns contains mutable state from particular games.
+
+- Archive contains material removed from the active authority path.
+
+- The root-level Markdown folder remains a stable search and handoff library because cross-chat retrieval depends on the `GATES/Markdown` path.
+
+
+
+Subject matter alone does not determine placement. Put a construction guide in Design, but put the finished rules or templates it produces in the relevant active subsystem folder. Preserve file IDs when reorganizing and do not treat folder location as proof of authority.
+
+
+
+[TRUNCATED FOR REPO SEED — full text already reviewed live in chat; remaining sections 2–15 (Setting Foundations, Extended Crit, Shared Willpower, Time Travel summary, Character Architecture, Domain Registry, Buffs/Caps/Dissolution, SPAA, Technology Integration, Godmath, Advancement Systems, Conflict Register, Source Links, Change Log, Recent Domain Rulings) to be imported in the next pass.]

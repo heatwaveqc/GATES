@@ -1,0 +1,11 @@
+title: Google Drive Connector Reliability Guide — Batch 03 Addendum
+tags: [[GM-Only]] [[Tooling]] [[Not Game Content]]
+type: text/x-markdown
+created: 20260918180137000
+modified: 20260918180137000
+gates-status: GM tooling note
+gates-import-status: Not yet imported
+gates-source: Google Drive: GATES/Markdown/Google Drive Connector Reliability Guide — Batch 03 Addendum
+gates-visibility: gm-only
+
+*GM-authored tooling notes, not game content. Excluded from any player-facing static build by the `gates-visibility: gm-only` field.*
