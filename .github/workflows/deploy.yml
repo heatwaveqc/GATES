@@ -29,8 +29,24 @@ jobs:
       - name: Install TiddlyWiki
         run: npm install -g tiddlywiki
 
+      - name: Show TiddlyWiki version (diagnostic)
+        run: tiddlywiki --version
+
+      - name: Prepare output directory
+        run: mkdir -p static
+
       - name: Build static export
-        run: tiddlywiki . --build index
+        run: tiddlywiki . --rendertiddler '$:/core/save/all' static/index.html text/plain
+
+      - name: Verify output exists
+        run: |
+          if [ ! -s static/index.html ]; then
+            echo "::error::static/index.html was not created or is empty. Check the 'Build static export' step's output above for TiddlyWiki warnings/errors."
+            ls -la static/ || true
+            exit 1
+          fi
+          echo "Build output looks good:"
+          ls -la static/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
