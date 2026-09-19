@@ -1,4 +1,4 @@
-title: Word Engine — A Word Tradition may use one architecture or combine several when their interaction is explicit
+title: Word Engine — Common Architectures
 type: text/x-markdown
 gates-audience: player
 gates-section: System
@@ -7,12 +7,14 @@ gates-parent: Word Engine
 source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
 source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
-source-start-index: 105683
+source-start-index: 105585
 source-end-index: 106672
-gates-order: 0003
+gates-order: 0002
 gates-component: yes
-caption: A Word Tradition may use one architecture or combine several when their interaction is explicit
-engine-rule: a-word-tradition-may-use-one-architecture-or-combine-several-when-their-interaction-is-explicit
+caption: Common Architectures
+engine-rule: common-architectures
+
+### A Word Tradition may use one architecture or combine several when their interaction is explicit:
 
 - Direct Expression. The practitioner assembles and resolves the expression as part of the casting. Spoken High Magic and Dovahzul are current examples.
 

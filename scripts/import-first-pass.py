@@ -38,7 +38,7 @@ def md(ps, key=None):
         if not t: continue
         if t.startswith('• '): t='- '+t[2:]
         style=p.get('namedStyleType','')
-        if style.startswith('HEADING_') and len(t)<140: t='### '+t
+        if style.startswith('HEADING_') and len(t)<140 and not t.startswith('- '): t='### '+t
         out.append(t)
     return '\n\n'.join(out)
 
@@ -74,7 +74,7 @@ def root(title,section,kind,description,key=None,parent=None,refs=None,tags=None
     return put(title,section,kind,body,audience,parent,key,fields=ff,wiki=True)
 
 def sections(key,start,end,parent,section,kind,base=0,subtype=None,audience='player',manual=None):
-    ps=DATA[key]['paragraphs']; cuts=manual or [i for i in range(start,end) if ps[i].get('namedStyleType','').startswith('HEADING_') and 0<len(ps[i]['text'].strip())<120]
+    ps=DATA[key]['paragraphs']; cuts=manual or [i for i in range(start,end) if ps[i].get('namedStyleType','').startswith('HEADING_') and 0<len(ps[i]['text'].strip())<120 and not ps[i]['text'].strip().startswith('• ')]
     cuts=sorted(set([start]+[i for i in cuts if start<=i<end]+[end])); names=[]
     for order,(a,b) in enumerate(zip(cuts,cuts[1:]),base):
         head=ps[a]['text'].strip()
@@ -133,14 +133,6 @@ home.write_text('title: GATES Home\ntype: text/vnd.tiddlywiki\ngates-audience: p
 
 # Universal mastery: current authority expressly overrides conflicting local numbers.
 root('Mastery Standards','System','rule-hub','Shared numerical Mastery standards. These govern conflicting local numerical benchmarks; local nonnumerical requirements still apply.',key='engine')
-# Long first paragraphs are data, never titles.
-for i,label in enumerate(['Scope and Precedence','Tier 2','Tier 3','Qualifying Investment','Relevant Governing Traits','Skill-Cap Exception','Preserved Requirements']):
-    # replace the auto-split above with stable, concise atoms
-    pass
-for t in list(CREATED):
-    if t.startswith('Mastery Standards —'):
-        (ROOT/CREATED[t]['path']).unlink(); del CREATED[t]
-RECORDS[:]=[r for r in RECORDS if not r['title'].startswith('Mastery Standards —')]
 for n,(i,label) in enumerate(zip(range(343,350),['Scope and Precedence','Tier 2','Tier 3','Qualifying Investment','Relevant Governing Traits','Skill-Cap Exception','Preserved Requirements'])):
     atom('engine',i,i+1,'Mastery Standards — '+label,'System','rule','Mastery Standards',n)
 engine_defs={'Regular':(398,425,353),'Ritual':(457,490,355),'Word':(612,699,359),'Psi Talented':(777,821,362),'Atavistic':(1000,1035,371),'Jutsu':(1260,1308,380),'Wuxia':(1308,1389,381)}
@@ -148,7 +140,13 @@ for name,(a,b,m) in engine_defs.items():
     title=name+' Engine'
     root(title,'System','engine','Shared '+name+' rules and requirements.',key='engine',refs=['Mastery Standards'])
     # Preserve operational text and construction requirements in separate reader units.
-    sections('engine',a+1,b,title,'System','engine-rule')
+    cuts=[614,618,625,628,631,634,637,649,659,669,678,685] if name=='Word' else None
+    made=sections('engine',a+1,b,title,'System','engine-rule',manual=cuts)
+    for t in made:
+        v=CREATED[t]; caption=v['fields'].get('caption','').lower()
+        if caption.startswith('every ') or caption in ['intentional variation and review','self-contained player rules','lexicon and grammar','complete use procedure','reference implementations']:
+            v['fields']['gates-audience']='gm'
+            (ROOT/v['path']).write_text('\n'.join(k+': '+str(x) for k,x in v['fields'].items())+'\n\n'+v['body']+'\n')
     atom('engine',m,m+1,title+' — Numerical Mastery','System','rule',title,900)
 root('Hybrid Tradition Rules','System','rule-hub','Complete and partial Engine composition.',key='engine')
 sections('engine',1656,1670,'Hybrid Tradition Rules','System','rule')

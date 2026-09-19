@@ -200,14 +200,14 @@
     "sha256": "0a36263c81dca086d9bcff28585c4d7927c4f48ae08086c8a14df86b83867369"
   },
   {
-    "title": "Word Engine — A Word Tradition may use one architecture or combine several when their interaction is explicit",
+    "title": "Word Engine — Common Architectures",
     "source": "engine",
     "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
-    "startIndex": 105683,
+    "startIndex": 105585,
     "endIndex": 106672,
-    "sha256": "6825c6890c9b0dfc33caf0f359faa7d9af84a42ef40c39bbcd0fd1c8604f6ce4"
+    "sha256": "b58e2421c67ab43f403b47e9854b93d22a0db4dc862023c62ab6f04ccfe2df66"
   },
   {
     "title": "Word Engine — Intentional Variation and Review",
@@ -250,34 +250,24 @@
     "sha256": "20cd7f0f55720efc5dd34bb02f16d6ffd0ad0fdc21c1ceaf45b21008f13f844c"
   },
   {
-    "title": "Word Engine — • Resolving attacks, defenses, resistance, contests, transformations, partial expressions, and multiple targets.",
+    "title": "Word Engine — Complete Use Procedure",
     "source": "engine",
     "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
-    "startIndex": 110683,
-    "endIndex": 110856,
-    "sha256": "9899e40f623e71eee4788f1ecfe91453917485a0c76ee5f8dc8631bad9e5c0fc"
+    "startIndex": 109978,
+    "endIndex": 110957,
+    "sha256": "723595667bdedfad6ec808912fc2088245c5359e71cfdb2b8ca61f190c33bf6f"
   },
   {
-    "title": "Word Engine — • Buying off recurring penalties through techniques, phrases, rotes, affinities, or other bounded specializations.",
+    "title": "Word Engine — Progression",
     "source": "engine",
     "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
-    "startIndex": 111321,
-    "endIndex": 111617,
-    "sha256": "695898e2fbc8641c04972b6df26ff2cc7b3579b1fbe559bdfb070474392a72d4"
-  },
-  {
-    "title": "Word Engine — • Developing the Tradition's distinctive Mastery branches or specializations.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 111782,
+    "startIndex": 110971,
     "endIndex": 112119,
-    "sha256": "6ffe335163b6fff5e03fbd6261480a028487a3081806416e8c7b18cd0a354240"
+    "sha256": "550f976d146d5c1e7aa28fb559ae4a0fc66733856cab639221f24a82961cfd33"
   },
   {
     "title": "Word Engine — Default Mastery Shape",
@@ -286,28 +276,8 @@
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
     "startIndex": 112144,
-    "endIndex": 112919,
-    "sha256": "7bb1d3e591456bc473d00d918eed98c402c7feb5b0d3fa67319ba7ffcc133492"
-  },
-  {
-    "title": "Word Engine — • Consequential use of several materially different legal expressions rather than repeated use of one optimized phrase.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 113160,
-    "endIndex": 113579,
-    "sha256": "7d9090f22e34b784344efb0a6fcfead2519877d982c3d48631afe6e50d1c6a08"
-  },
-  {
-    "title": "Word Engine — • One Tradition-specific demonstration proving command of its theme and blind spots.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 113666,
     "endIndex": 113930,
-    "sha256": "bc5b34fcb1a9b12f7a17c808942a29338672fedfdb4e71e83bee89a53fb072f9"
+    "sha256": "fa9155962c8ac97e84b3c7e7f72f5006ddf8933bbab7dfcf513a8b162cbc938b"
   },
   {
     "title": "Word Engine — Tier 3 Authorship and Mastery Benefits",
@@ -316,68 +286,28 @@
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
     "startIndex": 113971,
-    "endIndex": 114225,
-    "sha256": "70326eb8ff4fe096cbd6bab69e895461fbf6c21b1883edd7a6679bfa79d8091c"
-  },
-  {
-    "title": "Word Engine — • Creating or discovering new Words, correspondences, clauses, idioms, or legal expression forms.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 114325,
-    "endIndex": 114455,
-    "sha256": "28ee057227c9d1a9a20c1043145a9b268b9baaeb6b5261713a725af3e2fe3bb6"
-  },
-  {
-    "title": "Word Engine — • Teaching or recording a body of syntax that survives the creator.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 114524,
-    "endIndex": 114665,
-    "sha256": "f6dadcda50620711bd83102986f8b54c40b8dee9805400c85ac9564770e158b6"
-  },
-  {
-    "title": "Word Engine — • Permanently changing Mana, Sanctity, metaphysical correspondences, or another setting-facing condition.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 114772,
     "endIndex": 115323,
-    "sha256": "8ac7afbb0090b2ec1fff42308e5ed5980060c0961d2f08e57423d180de8fe595"
+    "sha256": "29db811d5d9097c7ad23014b16fe556b0a0b8423f7f5e4d81547ec8c4efd5119"
   },
   {
-    "title": "Word Engine — These examples establish design roles, not lateral inheritance",
+    "title": "Word Engine — Reference Implementations",
     "source": "engine",
     "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
-    "startIndex": 115416,
+    "startIndex": 115351,
     "endIndex": 116400,
-    "sha256": "8ead75cd93080ec5859d91ca065de037e1d7ef04bbdce78a6ba09e893b5fc9f0"
+    "sha256": "b3dbf396b754c0bf974fcca2e5249f2d4a309e0e48303560a2060048711912b0"
   },
   {
-    "title": "Word Engine — • The complete Word or element categories and the complete available lexicon or objective discovery procedure.",
+    "title": "Word Engine — Every Word Tradition Defines",
     "source": "engine",
     "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
     "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
     "tabId": "t.0",
-    "startIndex": 116542,
-    "endIndex": 116850,
-    "sha256": "192c724539a2c9affe4db8a73963254b8a134e03d29b4938d0e4d8ed173dde30"
-  },
-  {
-    "title": "Word Engine — • Its Instancing category and every access-defining field when it is not Non-Instanced.",
-    "source": "engine",
-    "driveId": "1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4",
-    "revisionId": "ANLCKQkC3tfn0tYSjknoRw9QcdPML3KcDzIhmUaDkUooiN4yTA1w-Yt65tVmValV84tkGbpV4gejMlyViYZRYe-gug3-I51hpHGNPL2bK2I",
-    "tabId": "t.0",
-    "startIndex": 116939,
+    "startIndex": 116431,
     "endIndex": 118657,
-    "sha256": "8348375ff3742bcdb6a21cec3b6003002b19729d3fd26701a9ff64886e753af1"
+    "sha256": "edb735a56ba5797ac58772e2d4947dafe672a9327bd883d70afc742102d6f0e6"
   },
   {
     "title": "Word Engine — Numerical Mastery",

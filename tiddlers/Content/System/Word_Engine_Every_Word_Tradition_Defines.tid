@@ -1,18 +1,26 @@
-title: Word Engine — • Its Instancing category and every access-defining field when it is not Non-Instanced.
+title: Word Engine — Every Word Tradition Defines
 type: text/x-markdown
-gates-audience: player
+gates-audience: gm
 gates-section: System
 gates-kind: engine-rule
 gates-parent: Word Engine
 source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
 source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
-source-start-index: 116939
+source-start-index: 116431
 source-end-index: 118657
-gates-order: 0038
+gates-order: 0012
 gates-component: yes
-caption: • Its Instancing category and every access-defining field when it is not Non-Instanced.
-engine-rule: its-instancing-category-and-every-access-defining-field-when-it-is-not-non-instanced.
+caption: Every Word Tradition Defines
+engine-rule: every-word-tradition-defines
+
+- The complete Word or element categories and the complete available lexicon or objective discovery procedure.
+
+- The grammar, legal combinations, order of elements, repeated elements, modifiers, inversions, transformations, ambiguity rules, and invalid expressions.
+
+- Word costs, learning requirements, purchase structure, governing skills, defaults, caps, governing Talent, and how Magery or Power Investiture applies.
+
+- Its Instancing category and every access-defining field when it is not Non-Instanced.
 
 - The exact casting or construction-roll structure, including which rolls are made, their order, how multiple margins combine, and what happens when only part of an expression succeeds.
 

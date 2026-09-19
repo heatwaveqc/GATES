@@ -1,18 +1,20 @@
-title: Word Engine — These examples establish design roles, not lateral inheritance
+title: Word Engine — Reference Implementations
 type: text/x-markdown
-gates-audience: player
+gates-audience: gm
 gates-section: System
 gates-kind: engine-rule
 gates-parent: Word Engine
 source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
 source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
-source-start-index: 115416
+source-start-index: 115351
 source-end-index: 116400
-gates-order: 0035
+gates-order: 0011
 gates-component: yes
-caption: These examples establish design roles, not lateral inheritance
-engine-rule: these-examples-establish-design-roles-not-lateral-inheritance
+caption: Reference Implementations
+engine-rule: reference-implementations
+
+### These examples establish design roles, not lateral inheritance:
 
 - Ogham is the published narrow worked syntactic reference. It demonstrates symbolic overlap, contextual meaning, inscriptions, and a localized vocabulary.
 

@@ -177,7 +177,7 @@
   {
     "title": "Regular Engine — Every Regular Tradition defines",
     "path": "tiddlers/Content/System/Regular_Engine_Every_Regular_Tradition_defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Regular Engine"
   },
@@ -226,7 +226,7 @@
   {
     "title": "Ritual Engine — Every Ritual Tradition defines",
     "path": "tiddlers/Content/System/Ritual_Engine_Every_Ritual_Tradition_defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Ritual Engine"
   },
@@ -252,8 +252,8 @@
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — A Word Tradition may use one architecture or combine several when their interaction is explicit",
-    "path": "tiddlers/Content/System/Word_Engine_A_Word_Tradition_may_use_one_architecture_or_combine_several_when_their_interaction_is_explicit.tid",
+    "title": "Word Engine — Common Architectures",
+    "path": "tiddlers/Content/System/Word_Engine_Common_Architectures.tid",
     "audience": "player",
     "kind": "engine-rule",
     "parent": "Word Engine"
@@ -261,14 +261,14 @@
   {
     "title": "Word Engine — Intentional Variation and Review",
     "path": "tiddlers/Content/System/Word_Engine_Intentional_Variation_and_Review.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
   {
     "title": "Word Engine — Self-Contained Player Rules",
     "path": "tiddlers/Content/System/Word_Engine_Self-Contained_Player_Rules.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
@@ -282,27 +282,20 @@
   {
     "title": "Word Engine — Lexicon and Grammar",
     "path": "tiddlers/Content/System/Word_Engine_Lexicon_and_Grammar.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — • Resolving attacks, defenses, resistance, contests, transformations, partial expressions, and multiple targets.",
-    "path": "tiddlers/Content/System/Word_Engine_Resolving_attacks_defenses_resistance_contests_transformations_partial_expressions_and_multiple_targets..tid",
-    "audience": "player",
+    "title": "Word Engine — Complete Use Procedure",
+    "path": "tiddlers/Content/System/Word_Engine_Complete_Use_Procedure.tid",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — • Buying off recurring penalties through techniques, phrases, rotes, affinities, or other bounded specializations.",
-    "path": "tiddlers/Content/System/Word_Engine_Buying_off_recurring_penalties_through_techniques_phrases_rotes_affinities_or_other_bounded_specializations..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — • Developing the Tradition's distinctive Mastery branches or specializations.",
-    "path": "tiddlers/Content/System/Word_Engine_Developing_the_Tradition_s_distinctive_Mastery_branches_or_specializations..tid",
+    "title": "Word Engine — Progression",
+    "path": "tiddlers/Content/System/Word_Engine_Progression.tid",
     "audience": "player",
     "kind": "engine-rule",
     "parent": "Word Engine"
@@ -315,20 +308,6 @@
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — • Consequential use of several materially different legal expressions rather than repeated use of one optimized phrase.",
-    "path": "tiddlers/Content/System/Word_Engine_Consequential_use_of_several_materially_different_legal_expressions_rather_than_repeated_use_of_one_optimized_phrase..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — • One Tradition-specific demonstration proving command of its theme and blind spots.",
-    "path": "tiddlers/Content/System/Word_Engine_One_Tradition-specific_demonstration_proving_command_of_its_theme_and_blind_spots..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
     "title": "Word Engine — Tier 3 Authorship and Mastery Benefits",
     "path": "tiddlers/Content/System/Word_Engine_Tier_3_Authorship_and_Mastery_Benefits.tid",
     "audience": "player",
@@ -336,44 +315,16 @@
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — • Creating or discovering new Words, correspondences, clauses, idioms, or legal expression forms.",
-    "path": "tiddlers/Content/System/Word_Engine_Creating_or_discovering_new_Words_correspondences_clauses_idioms_or_legal_expression_forms..tid",
-    "audience": "player",
+    "title": "Word Engine — Reference Implementations",
+    "path": "tiddlers/Content/System/Word_Engine_Reference_Implementations.tid",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
   {
-    "title": "Word Engine — • Teaching or recording a body of syntax that survives the creator.",
-    "path": "tiddlers/Content/System/Word_Engine_Teaching_or_recording_a_body_of_syntax_that_survives_the_creator..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — • Permanently changing Mana, Sanctity, metaphysical correspondences, or another setting-facing condition.",
-    "path": "tiddlers/Content/System/Word_Engine_Permanently_changing_Mana_Sanctity_metaphysical_correspondences_or_another_setting-facing_condition..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — These examples establish design roles, not lateral inheritance",
-    "path": "tiddlers/Content/System/Word_Engine_These_examples_establish_design_roles_not_lateral_inheritance.tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — • The complete Word or element categories and the complete available lexicon or objective discovery procedure.",
-    "path": "tiddlers/Content/System/Word_Engine_The_complete_Word_or_element_categories_and_the_complete_available_lexicon_or_objective_discovery_procedure..tid",
-    "audience": "player",
-    "kind": "engine-rule",
-    "parent": "Word Engine"
-  },
-  {
-    "title": "Word Engine — • Its Instancing category and every access-defining field when it is not Non-Instanced.",
-    "path": "tiddlers/Content/System/Word_Engine_Its_Instancing_category_and_every_access-defining_field_when_it_is_not_Non-Instanced..tid",
-    "audience": "player",
+    "title": "Word Engine — Every Word Tradition Defines",
+    "path": "tiddlers/Content/System/Word_Engine_Every_Word_Tradition_Defines.tid",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Word Engine"
   },
@@ -422,7 +373,7 @@
   {
     "title": "Psi Talented Engine — Every Talented Tradition defines",
     "path": "tiddlers/Content/System/Psi_Talented_Engine_Every_Talented_Tradition_defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Psi Talented Engine"
   },
@@ -499,7 +450,7 @@
   {
     "title": "Atavistic Engine — Every Atavistic Tradition defines",
     "path": "tiddlers/Content/System/Atavistic_Engine_Every_Atavistic_Tradition_defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Atavistic Engine"
   },
@@ -548,7 +499,7 @@
   {
     "title": "Jutsu Engine — Every Jutsu Tradition defines",
     "path": "tiddlers/Content/System/Jutsu_Engine_Every_Jutsu_Tradition_defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Jutsu Engine"
   },
@@ -653,7 +604,7 @@
   {
     "title": "Wuxia Engine — Every Wuxia Tradition Defines",
     "path": "tiddlers/Content/System/Wuxia_Engine_Every_Wuxia_Tradition_Defines.tid",
-    "audience": "player",
+    "audience": "gm",
     "kind": "engine-rule",
     "parent": "Wuxia Engine"
   },

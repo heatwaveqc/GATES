@@ -9,7 +9,7 @@ source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
 source-start-index: 108532
 source-end-index: 109255
-gates-order: 0006
+gates-order: 0005
 gates-component: yes
 caption: Instancing
 engine-rule: instancing

@@ -1,6 +1,6 @@
 title: Word Engine — Self-Contained Player Rules
 type: text/x-markdown
-gates-audience: player
+gates-audience: gm
 gates-section: System
 gates-kind: engine-rule
 gates-parent: Word Engine
@@ -9,7 +9,7 @@ source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
 source-start-index: 107575
 source-end-index: 108519
-gates-order: 0005
+gates-order: 0004
 gates-component: yes
 caption: Self-Contained Player Rules
 engine-rule: self-contained-player-rules

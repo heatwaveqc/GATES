@@ -8,8 +8,8 @@ source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
 source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
 source-tab-id: t.0
 source-start-index: 112144
-source-end-index: 112919
-gates-order: 0026
+source-end-index: 113930
+gates-order: 0009
 gates-component: yes
 caption: Default Mastery Shape
 engine-rule: default-mastery-shape
@@ -17,3 +17,17 @@ engine-rule: default-mastery-shape
 A completed Word Tradition defines objective Mastery requirements appropriate to its own grammar. Word Mastery has no separate 100/300-point investment floor. Every Word, element, or equivalent purchasable syntactic skill in the Tradition's complete Mastery lexicon must be at effective 16+ at Tier 2 or effective 20+ at Tier 3, unless the explicit skill-cap exception in Section 5.6 requires the lower effective cap. A non-skill Word does not acquire a new skill from this requirement; complete any actual Word or category purchases required by the Tradition. The benchmark should also include:
 
 - Completion of the Tradition's required Word, lexicon, skill, technique, or comparable syntactic advancement structure, without an additional standardized character-point floor.
+
+- High competence in the governing skill and in a representative breadth of the Tradition's major syntactic categories.
+
+- Consequential use of several materially different legal expressions rather than repeated use of one optimized phrase.
+
+- Successful use of at least one complex multi-element expression that engages the system's defining grammar or preparation procedure.
+
+- Demonstrated command of the Tradition's defining resource, failure risk, preparation burden, or other limiting play pattern.
+
+- Creation of at least one durable, transferable, teachable, institutional, environmental, or historically consequential result appropriate to the Tradition.
+
+- One Tradition-specific demonstration proving command of its theme and blind spots.
+
+A Tradition may require mastery of every Word, specified skill levels, investment in every parameter technique, a major permanent construction, creation of a Very High Mana region, or another exact achievement. Those are local benchmarks, not universal Word rules.
