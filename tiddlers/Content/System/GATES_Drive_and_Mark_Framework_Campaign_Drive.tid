@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Campaign Drive
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 3217
+source-end-index: 3381
+gates-order: 0009
+gates-component: yes
+caption: Campaign Drive
+rule: campaign-drive
+
+A Drive created or selected by the GM to reward the campaign's intended style, priorities, themes, or table behavior. Campaign Drives are not universal GATES rules.

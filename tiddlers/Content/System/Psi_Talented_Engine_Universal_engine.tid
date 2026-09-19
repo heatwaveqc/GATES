@@ -1,0 +1,33 @@
+title: Psi Talented Engine — Universal engine
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Psi Talented Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 138849
+source-end-index: 141248
+gates-order: 0000
+gates-component: yes
+caption: Universal engine
+engine-rule: universal-engine
+
+Psi Talented is Personally Instanced by default. The Tradition defines the legal scope of Power Talents available through it. That scope may be a closed list, a named published source-bounded catalog, or explicit construction rules. When a character gains access, they normally select two different legal Power Talents as the initial contents of their personal instance. A Tradition may require particular selections, restrict pairings, or explicitly use a different starting count.
+
+Each selected Psi Power Talent costs 5 character points per level unless a more specific published or Tradition rule says otherwise. Both selected Talents begin with Advanced access. The practitioner may purchase legal abilities assigned to those Talents without separate ability-by-ability instruction unless the Domain or Tradition explicitly requires it.
+
+Each ability is assigned to one governing Talent. A second Talent does not add to rolls or caps merely because it could also describe the ability. A Tradition may create an explicit interaction procedure, such as Revelator's Conjunction Powers.
+
+The contents of a personal instance cannot be replaced through ordinary advancement, instruction, or Tradition Mastery unless the Tradition explicitly permits it. An explicit Tier 3 Tradition, Greater Wish, reality alteration, mutation, psychic reconstruction, or comparable extraordinary effect may alter a personal instance, but the effect must define how former Talent levels, previously purchased abilities, refunds, suppression, and future purchase permissions are handled.
+
+A Tradition may explicitly expand the same personal instance as a unique benefit. Gifted Mind's third Talent at Mastery is the reference example; it enlarges that practitioner's personal instance rather than creating a second instance or invoking Talent Upgrade.
+
+The character may buy only Power Talents contained in the personal instance and abilities assigned to those Talents, plus Basic or secondary access granted by Domain rules.
+
+All traits use the required Psionic modifier and limitations.
+
+The Tradition states the starting access band for every available Talent.
+
+Tradition Mastery grants Master access to the initial selected Talents and their associated abilities. A Talent added by a Tradition-specific Mastery benefit uses the access band stated by that benefit; absent a stated exception, it also gains Master access.

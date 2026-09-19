@@ -1,0 +1,33 @@
+title: Jutsu Engine — Every Jutsu Tradition defines
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Jutsu Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 226688
+source-end-index: 227298
+gates-order: 0004
+gates-component: yes
+caption: Every Jutsu Tradition defines
+engine-rule: every-jutsu-tradition-defines
+
+Its Potence-governing trait and advancement.
+
+At least one Mastery-eligible initial tree, its institutional-instance fields, and the rules by which legal later authorship extends that same tree.
+
+Every Jutsu advantage, prerequisite, parameter value, and point cost.
+
+The energy source, recovery, activation conventions, and action economy.
+
+The rule applying the two-times-Potence cap separately to every parameter.
+
+Teaching, recording, inheritance, awakening, or other transmission procedures.
+
+Any uninstructed-access exception.
+
+Mastery requirements and benefits.
+
+Its associated Jutsu Author continuation, if any.

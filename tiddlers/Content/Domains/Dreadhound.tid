@@ -1,0 +1,19 @@
+title: Dreadhound
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+gates-index: yes
+gates-description: Dreadhounds learn the psychic pattern of things that should not exist, take a physical piece of their prey, and use that piece as a psychic repository from which they configure specialized negation abilities. A Dreadhound does not copy the prey's powers. The prey sample instead acts as the key that lets the hunter build abilities specifically useful for finding, understanding, resisting, suppressing, penetrating, escaping, countering, or destroying that Current Prey.
+gates-inherits: [[Mastery Standards]] [[Eldritch Gifts — Domain Core]] [[Eldritch Gifts — Basic Origin Benefits]] [[Eldritch Gifts — Revelations]] [[Eldritch Gifts — Expressing a Revelation]] [[Eldritch Gifts — Required Revelations]] [[Eldritch Gifts — Gifts]] [[Eldritch Gifts — Gift Value]] [[Eldritch Gifts — Power Stunts from Latent Gifts]] [[Eldritch Gifts — Demonstrated Eldritch Manifestations]] [[Eldritch Gifts — Eldritch Reserve]] [[Eldritch Gifts — Eldritch Universal Traits]] [[Eldritch Gifts — General Origin Rules]] [[Eldritch Gifts — Eldritch Modifier]] [[Eldritch Gifts — Eldritch Limitations]] [[Eldritch Gifts — Class Path]] [[Hybrid Tradition Rules]]
+gates-engine: Hunter
+gates-tier: 2
+gates-origin: Psionic + Super
+gates-instancing: personal
+
+Dreadhounds learn the psychic pattern of things that should not exist, take a physical piece of their prey, and use that piece as a psychic repository from which they configure specialized negation abilities. A Dreadhound does not copy the prey's powers. The prey sample instead acts as the key that lets the hunter build abilities specifically useful for finding, understanding, resisting, suppressing, penetrating, escaping, countering, or destroying that Current Prey.
+
+{{||$:/GATES/Assembly}}

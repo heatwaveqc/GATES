@@ -1,0 +1,31 @@
+title: Ritual Engine — Universal engine
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 87984
+source-end-index: 89124
+gates-order: 0001
+gates-component: yes
+caption: Universal engine
+engine-rule: universal-engine
+
+The default model is:
+
+One shared Domain governing skill, designated once by the Domain.
+
+College skills defaulting from and capped by the shared Domain governing skill.
+
+Individual spells treated as techniques of their College.
+
+The spell’s prerequisite count determines its default penalty.
+
+Characters may buy off penalties for signature spells as techniques.
+
+A narrow Tradition may explicitly use a Direct model in which spells default straight from the shared Domain governing skill without separate College skills.
+
+Class Tradition access: When a Ritual Tradition is selected as a Class Tradition, choose two Colleges accessible through that Tradition. Those two Colleges may be studied without an instructor, and the character may cast and improve prerequisite spells or techniques from those Colleges without obtaining further instructional materials. This does not expand the Tradition’s legal spell scope or waive ordinary character-point costs, casting rules, prerequisite penalties, energy costs, or failure rules. An individual Tradition may explicitly narrow, broaden, replace, or otherwise alter this Class Tradition access rule.

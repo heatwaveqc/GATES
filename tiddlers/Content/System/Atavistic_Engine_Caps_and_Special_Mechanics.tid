@@ -1,0 +1,19 @@
+title: Atavistic Engine — Caps and Special Mechanics
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 176163
+source-end-index: 176933
+gates-order: 0006
+gates-component: yes
+caption: Caps and Special Mechanics
+engine-rule: caps-and-special-mechanics
+
+The universal Atavistic Engine grants no Power Talent, governing Talent, Strong/Tough/Fast emphasis, attribute formula, DR, Extra Attack, movement allowance, natural attack, Super-Effort, Alternate Form, Morph, ATR, Unkillable, Regeneration, or other generic advantage. Those are implementation-specific permissions.
+
+Each Atavistic Tradition must state every relevant attribute cap, Size Modifier limit, DR cap, Extra Attack cap, movement cap, natural-attack cap, major leveled-trait cap, mandatory modifier, visible feature, weakness, prerequisite, and exception needed by its own Source system. A Domain-specific Talent, Path, transformation, equipment host, acquisition rule, or other mechanic may modify those permissions only when the Tradition explicitly says so.

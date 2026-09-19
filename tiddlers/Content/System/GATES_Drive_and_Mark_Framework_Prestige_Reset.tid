@@ -1,0 +1,19 @@
+title: GATES Drive and Mark Framework — Prestige Reset
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 13691
+source-end-index: 14037
+gates-order: 0024
+gates-component: yes
+caption: Prestige Reset
+rule: prestige-reset
+
+After Prestiging, reset the character's value to the campaign's Prestige Reset Value and increase Prestige Count by the number of levels completed.
+
+Marks awarded before the reset retain their historical earned value but do not re-add spent pre-Prestige character points after the reset. Marks awarded afterward use the new Mark Value progression.

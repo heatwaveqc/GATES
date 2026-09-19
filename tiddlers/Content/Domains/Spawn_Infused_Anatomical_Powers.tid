@@ -1,0 +1,23 @@
+title: Spawn — Infused — Anatomical Powers
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Spawn
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.nh8w91hcqnxj
+source-start-index: 10397
+source-end-index: 12271
+gates-order: 0013
+gates-component: yes
+caption: Infused — Anatomical Powers
+tradition-component: infused-anatomical-powers
+
+An Infused Spawn may associate any Super or Psi ability with one discrete physical body part other than the brain. The body part must be at least as large as the character's eye and must display a visible sign that makes it reasonably apparent that the part is responsible for the supernatural effect. The sign may be strange anatomy, visible energy, motion, opening structures, glowing tissue, unusual coloration, or another persistent or activation-linked physical tell; it cannot be purely invisible or purely internal with no outward indication.
+
+The associated body part must be a real mechanical vulnerability. Record where it is located and how it can be crippled, severed, amputated, destroyed, or otherwise rendered nonfunctional. Use an existing hit location's normal rules when possible; a novel organ uses the closest appropriate ordinary targeting and crippling model unless a separately purchased construction says otherwise. If the body part is disabled, every ability associated with it stops functioning until the part is restored.
+
+Once an ability is anatomically associated in this way, the character may buy off any Costs Fatigue and any form of Backlash on that ability, paying the normal character-point difference. This permission explicitly allows those limitations to be removed even when they would otherwise be part of the ordinary Psi operating burden or minimum-discount structure. It does not automatically remove Requires Will Roll, Costs HP, Limited Use, Accessibility, Emergencies Only, or unrelated limitations.
+
+An Infused ability still follows the Eldritch Gifts Universal Origin Rule. The Path changes where the operating burden lives: psychic strain and fatigue can be replaced by a vulnerable supernatural organ. Instead of the power giving the character a headache or consuming FP, the organ that performs it can be injured or amputated.

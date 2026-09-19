@@ -1,0 +1,19 @@
+title: Eldritch Gifts — General Origin Rules
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 12433
+source-end-index: 13479
+gates-order: 0011
+gates-component: yes
+caption: General Origin Rules
+domain-rule: general-origin-rules
+
+Before the relevant Tradition is mastered, every non-Talent trait granted or purchased through Eldritch Gifts must have both Psionic, -10%, and Super, -10%. Talents do not take either modifier. When an Eldritch Gifts Tradition is mastered, every non-Talent trait purchased through that Tradition becomes eligible to replace both modifiers with Eldritch, -5%, by paying the normal character-point difference. New non-Talent traits purchased through that mastered Tradition may use Eldritch, -5%, from the time of purchase. Traits purchased through an unmastered Eldritch Gifts Tradition retain both Psionic and Super. Domain-wide Eldritch Gifts traits that are not purchased through a specific Tradition become eligible for Eldritch, -5%, once the character has mastered at least one Tier 2 Eldritch Gifts Tradition.
+
+This rule applies even when the Tradition instantiates an Engine from only one structural Origin. Eldritch Gifts Traditions are Domain-specific Psi/Super expressions rather than imports from Riven, Innate Super, or another Domain.

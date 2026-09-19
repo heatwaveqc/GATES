@@ -1,0 +1,19 @@
+title: Atavistic Engine — Embodiment
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 174529
+source-end-index: 175348
+gates-order: 0004
+gates-component: yes
+caption: Embodiment
+engine-rule: embodiment
+
+By default, traits purchased through Atavistic are properties of the practitioner. Persistent anatomical or structural changes are continuously present and cannot take Switchable merely to disappear or restore the original body. Active functions such as venom discharge, camouflage, breath weapons, sensors, or supernatural organs may still operate according to their own trait constructions.
+
+A specific Atavistic Tradition may explicitly place some or all Source traits behind Alternate Form, Morph, a transformation package, powered armor, an environmental state, a cycle, or another defined access condition. This does not change the Engine when the fixed Source still determines the legal intrinsic trait universe and the Tradition fully defines the access condition, accounting, continuity, and suppression rules.

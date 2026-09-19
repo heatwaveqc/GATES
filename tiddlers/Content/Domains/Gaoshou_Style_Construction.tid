@@ -1,0 +1,27 @@
+title: Gaoshou — Style Construction
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Gaoshou
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.6l21kqrp54lg
+source-start-index: 475
+source-end-index: 1623
+gates-order: 0002
+gates-component: yes
+caption: Style Construction
+tradition-component: style-construction
+
+A Gaoshou Style records:
+
+One complete mundane martial art: Primary Skills, Mundane Techniques, Cinematic Skills, Cinematic Techniques, Style Weapons, and Style Armor.
+
+Five fixed Style Shido. The first is the Kung Fu Core Shido and is the Style's Duan Wei 1 Shido; Duan Wei 2-5 grant the other four. An institutional school fixes this first Shido as part of the Style.
+
+One additional Affinity Attribute, chosen from ST, DX, IQ, or HT, gained at Duan Wei 2. The prerequisite Mundane Martial Art supplies the first Affinity and therefore limits that inherited Affinity to ST or HT. The Gaoshou Affinity must be different. Together they are the character's two Martial Affinity Attributes; the final pair may not be DX + IQ in either order, while ST + HT is legal.
+
+Exactly two different Supernatural Unlock families, their order at Duan Wei 3 and 5, and every choice required by those families.
+
+Two Style-defined Advanced Supernatural Unlocks: one keyed to Fourth Zongshi Dan and one keyed to Fifth Zongshi Dan. These are Gaoshou Style benefits, not Zongshi benefits, and remain dormant until a practitioner of that Style reaches the keyed Zongshi Dan.

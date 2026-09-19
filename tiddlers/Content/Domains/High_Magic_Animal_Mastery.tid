@@ -1,0 +1,47 @@
+title: High Magic — Animal Mastery
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 25708
+source-end-index: 28788
+gates-order: 0029
+gates-component: yes
+caption: Animal Mastery
+tradition-component: animal-mastery
+
+Cost: 10 points
+
+Requirements: Magery 1, Thaumatology 15
+
+You have focused and mastered a single High Magic animal. You reduce the energy cost of effects using that animal by 2 and the time cost by 1 second. Additionally, you gain a specific benefit to all effects using that animal. You may only buy this advantage once for every level you have in Magery.
+
+Ferret: Effects created by Ferret have no display.
+
+Ox: Effects gain Anchored. Targets inside the circle get +3 vs knockback, and Ox effects halve Maintenance energy (round down). Wards keyed to Ox get +5 ST to resist being forced open.
+
+Tiger: All damaging effects do one die of damage per point of margin of success.
+
+Cat: Success by 20 or more creates a permanent, absolute effect.
+
+Dragon: Can take a -10 to all casting rolls when using Dragon. If you do, the working’s margin of success is multiplied by 5. You may take this penalty multiple times; each -10 multiplies the margin of success by another factor of 5.
+
+Snake: Add Analytical to divinations; Snake Analyze/Occlude/Poisons impose an extra −2 to resist. Your Heal under Snake removes one additional affliction level (poison/disease) on success.
+
+Horse: While you are moving ≥ 2 yards this turn, Horse effects reduce casting time by 1 second (min 0) and gain +2 to range bands/Move bonuses. Your Horse Translate/Travel ignores difficult terrain penalties.
+
+Alicorn: Damaging effects are “Holy”, doing double damage and cutting in half the DR of demons, devils, undead, and aberrations. All healing is doubled.
+
+Monkey: Monkey can grant skills directly, rather than attributes or advantages, up to four times the number of points the High Mage has in that skill. A High Mage can, at a -10 penalty, pull a skill from the aether, granting themselves one point in the skill per margin of success and ignoring prerequisites.
+
+Phoenix: Can “burn” for 1d6 damage that bypasses all forms of DR and injury tolerance and add 1 to a single skill for a single roll. This can be done any number of times, but the damage does not heal by any means until a day has passed. Magic using Phoenix never takes penalties from Shock. Can bring someone back from the dead with a margin of success of at least 10 plus the time distance modifier.
+
+Wolf: Can use Wolf to create magical oaths bound by pacts; treat as a disadvantage with a Mitigator in the form of a mental disadvantage tied to a code of honor or Vow. Breaking the vow imposes the disadvantage, which can be anything from Blindness to Terminally Ill. Such effects are “permanent” if the target willingly swears the oath, and otherwise use normal duration rules.
+
+Boar: You ignore Shock penalties while casting Boar; damaging Boar effects gain Cyclic 3×1s (no additional cost) against inanimate barriers and DR (it chews through). Weaken with Boar gets +2 MoS for breaking objects.
+
+Crane: Success by 20 or more allows granted abilities to have a duration of Instant. The new advantage can either have Mana Sensitive or be attached to a Pact that the caster names. Targets get experience debt, but the effect does not count as a buff.

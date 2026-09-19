@@ -1,0 +1,17 @@
+title: Revelator — Universal Origin Rule
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Revelator
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.pa2zqov1g1be
+source-start-index: 4152
+source-end-index: 4345
+gates-order: 0005
+gates-component: yes
+caption: Universal Origin Rule
+tradition-component: universal-origin-rule
+
+Every non-Talent trait purchased through Revelator follows the Eldritch Gifts Universal Origin Rule. Before an explicit Mastery conversion, it therefore has both Psionic, -10%, and Super, -10%.

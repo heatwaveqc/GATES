@@ -1,0 +1,17 @@
+title: Eldritch Gifts — Expressing a Revelation
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 4783
+source-end-index: 5395
+gates-order: 0003
+gates-component: yes
+caption: Expressing a Revelation
+domain-rule: expressing-a-revelation
+
+A character may invoke the Eldritch Core only when the ordinary circumstances of one of their Latent or Realized Revelations apply. For a Realized Revelation, use the actual disadvantage normally: the character must either fail any applicable self-control roll or voluntarily decline to resist. For a Latent Revelation, the character must voluntarily behave exactly as though the defined disadvantage controlled them under those same circumstances. No additional test of sincerity, severity, meaningfulness, harm, loss, or consequence is required beyond satisfying the ordinary scope of the defined disadvantage.

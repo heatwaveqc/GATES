@@ -1,0 +1,53 @@
+title: High Magic — Animal Embodiment
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 28807
+source-end-index: 32837
+gates-order: 0030
+gates-component: yes
+caption: Animal Embodiment
+tradition-component: animal-embodiment
+
+Cost: 100 points
+
+Prerequisites: Occult Mastery (High Magic), Animal Mastery for the embodied Animal
+
+Requirements: Magery 5, Thaumatology 30
+
+You have internalized one of the thirteen High Magic animals. This is an Animal Path, and you may possess only one Animal Embodiment. All High Magic effects using your embodied Animal are free, while the energy cost of High Magic effects using any other Animal is doubled. You may purchase up to a total of four times your Magery in levels of Extra Attribute, distributed among ST, DX, IQ, and HT as you choose. These levels are purchased normally, do not count against any other cap on Extra Attribute or those attributes, and stack with other legal increases.
+
+When you cast High Magic on yourself using your embodied Animal, you may declare the working an Embodied Self-Buff. An Embodied Self-Buff has indefinite duration and lasts until you choose to end it or it is otherwise removed. You may maintain a number of Embodied Self-Buffs at once equal to your Magery. Each qualifying casting occupies one Embodied Self-Buff slot regardless of how many traits it grants; all traits granted by that casting together must fit within the normal single-buff potency and point-value caps unless a more specific rule says otherwise. These use a separate Animal Embodiment buff track: they do not count against the normal Temporary or Permanent Spiritual buff limits, do not provoke Dissolution solely for their indefinite duration, and explicitly stack with other legal temporary or permanent magical buffs.
+
+Anyone with Thaumatology skill 3+ can automatically tell which Animal you embody. You may never purchase Animal Mastery for any other Animal, nor benefit from it for any Animal other than the one you embody.
+
+Ferret: Embodied Self-Buffs appear intrinsic rather than magical to ordinary supernatural detection. Detecting that they are active magic requires Analytical detection or an equivalent effect.
+
+Ox: Ox High Magic Wards and Barriers gain +50% HP.
+
+Tiger: Your unarmed attacks may deal cutting damage, and you add your Magery to unarmed damage per die.
+
+Cat: While actively using Stealth, observers whose Per is less than 10 + your Magery automatically fail to notice you unless you perform an obviously revealing action or someone who detected you actively points you out.
+
+Dragon: For 1 FP, you may breathe a cone innate attack with a range equal to twice your magery, a width at max range equal to your Magery. This does not count as an action, does dice of damage equal to four times your Magery that cycles once per second for Magery seconds. It can be any type of GURPS damage, and fatigue or toxic can have contact agent.
+
+Snake: For Snake divination, analysis, scrying, and occlusion effects, increase the working’s margin of success by 50%, rounded up, for calculating the effect.
+
+Horse: While concentrating on a Horse High Magic working, you may move up to your full Move instead of the movement normally permitted while Concentrating.
+
+Alicorn: Alicorn High Magic may return a dead subject to life as a true resurrection effect. Treat resurrection as a legal Alicorn healing working rather than animation, a construct, or merely removal of a condition.
+
+Monkey: When using Animal Mastery to pull a skill from the aether, the penalty is -5 instead of -10.
+
+Phoenix: If killed, you reincarnate one week later at a natural source of fire, restored to the prime of your life. Only an effect that destroys or permanently captures your soul prevents this return.
+
+Wolf: You immediately know whenever someone breaks a willing Wolf oath you created, who broke it, and the approximate direction and distance to them. When making a roll to directly fulfill a Wolf oath you are willingly bound by, treat your Magery as an equal number of levels of Higher Purpose.
+
+Boar: Once per scene, while at 0 HP or below, ignore the first failed HT roll to remain conscious.
+
+Crane: You ignore cumulative penalties to active defenses caused solely by making repeated active defenses during the same turn.

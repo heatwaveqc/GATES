@@ -1,0 +1,19 @@
+title: High Magic — Enchanting
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 3215
+source-end-index: 3869
+gates-order: 0004
+gates-component: yes
+caption: Enchanting
+tradition-component: enchanting
+
+High Magic may be used for symbolic enchantment. The energy cost to enchant a High Magic working is 100 times that working’s normal casting energy cost. Use the standard Quick and Dirty or Slow and Sure Enchantment procedures.
+
+Magic items created with High Magic resolve their workings as though the activation roll were 15. The working’s margin of success is therefore the item’s effective skill after mana and other modifiers minus 15; calculate damage, healing, granted traits, and other parameters normally from that margin. If effective skill is below 15, activation fails. Low Mana applies its normal -5 to effective skill before this calculation.

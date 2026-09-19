@@ -1,0 +1,19 @@
+title: Eldritch Gifts — Required Revelations
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 5417
+source-end-index: 6121
+gates-order: 0004
+gates-component: yes
+caption: Required Revelations
+domain-rule: required-revelations
+
+When an Eldritch Gifts rule permits one or more Realized Revelations to function as Required Disadvantages, use the normal Required Disadvantage value and construction rules unless the granting rule says otherwise. A Latent Revelation never provides a Required Disadvantage discount.
+
+Before the character has mastered a Tier 3 Eldritch Gifts Tradition, no single ability may apply more than eight Realized Revelations as Required Disadvantages. Once the character masters a Tier 3 Eldritch Gifts Tradition, this Eldritch-specific numerical limit is removed. The character remains limited by the Realized Revelations they actually possess and by all normal modifier, compatibility, and construction rules.

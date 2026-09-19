@@ -1,0 +1,21 @@
+title: Eldritch Gifts — Gifts
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 6128
+source-end-index: 8050
+gates-order: 0005
+gates-component: yes
+caption: Gifts
+domain-rule: gifts
+
+A Gift is a supernatural capability written into the character's intrinsic nature. Gifts are the Super-facing half of the Eldritch Core rather than psychic access categories. A Gift is defined as a concise capability and its special effects rather than as one fixed GURPS build, and must be specific enough to establish what kinds of abilities are and are not part of it. Examples include “long, flexible tentacles that emerge from my mouth” or “corrosive acid sprayed in a cone from random pustules on my body.” Psi Traditions normally interact instead with Revelations, Wild Talent, and legitimately possessed Psi Power Talents unless a specific Tradition says otherwise.
+
+All Gifts are Super-facing for Eldritch Core purposes. They do not receive a separate Psi/Super designation when defined.
+
+When the character enters Eldritch Gifts, define exactly four Latent Gifts. These are the first four of at most ten Gifts the character can reveal through the normal Eldritch Core. A Latent Gift is not yet represented by a permanent ability on the character sheet and may be used as an Eldritch Core Power Stunt source. A Gift becomes Realized once a permanent ability representing that Gift is actually on the character sheet. The rule that grants the permanent purchase determines what build is sufficient to represent the Gift. A Realized Gift remains a Gift for rules that refer to Realized Gifts, but it is no longer Latent and is not an Eldritch Core Gift-stunt source unless another rule explicitly says otherwise. If fewer than ten Gifts have been revealed when a Gift becomes Realized, immediately reveal and define one new Latent Gift. After the tenth Gift has been revealed, Realization no longer reveals another. The character therefore normally maintains four Latent Gifts through the first six Realizations; after all ten have been revealed, the Latent Gift pool decreases as the remaining Gifts become Realized.

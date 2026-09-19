@@ -1,0 +1,19 @@
+title: Word Engine — Intentional Variation and Review
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 106707
+source-end-index: 107545
+gates-order: 0004
+gates-component: yes
+caption: Intentional Variation and Review
+engine-rule: intentional-variation-and-review
+
+Once a Word Tradition presents a complete and internally consistent system, departures from common syntactic designs are presumed intentional. The player-facing document states its grammar directly without describing it as an exception to an unseen standard.
+
+A system or balance review should identify important deviations from common Word baselines, including unusual lexicon breadth, permissive grammar, low complexity costs, favorable multi-Word resolution, uncapped parameters, rapid casting, weak resistance, easy storage, transferable prepared effects, inexpensive permanence, or easy invention. These may be intended features, but they must be visible during review because they change flexibility, efficiency, scaling, overlap, stockpiling, and abuse risk. Missing, contradictory, or undefined rules remain completeness problems.

@@ -1,0 +1,23 @@
+title: Low Magic — Tradition Paths
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 4516
+source-end-index: 6252
+gates-order: 0006
+gates-component: yes
+caption: Tradition Paths
+tradition-component: tradition-paths
+
+A Low Mage may purchase exactly one of the following 20-point Tradition Paths. The Paths are permanently mutually exclusive: a character may never purchase or benefit from more than one, even after mastering Low Magic.
+
+Spell Virtuoso (20 points): You may apply Low Magic Flourishes to any magical effect you create, regardless of Tradition or Domain, as long as the effect already has the relevant parameter or function and could legally benefit from that Flourish. When you spend Insight as a Flourish, you may apply up to five eligible Flourishes to that effect instead of one. This Path allows that Insight expenditure on non-Foundational magic for this purpose. The ordinary Overcharge advantage remains separate and functions normally.
+
+Determined Mind (20 points): You may apply Durable Magic to any magical effect you create that has a meaningful duration, not only Low Magic spells. Pay each Durable Magic surcharge in the energy normally used by that magic; Universal Power may substitute FP or Magic Energy Reserve when its rules allow. In addition, you may spend Insight on any such magical effect to advance its duration by one step on the Durable Magic cascade without paying the additional energy surcharge for that step. This is an alternative use of Insight and counts against the normal one-Insight-per-effect limit.
+
+Font of Power (20 points): When you spend Insight for Efficiency, each level of Wellspring of Power doubles the amount of energy supplied by that Insight. With N levels of Wellspring of Power, the Insight supplies 5 × 2^N energy. This can reduce the final cost below 0. Any excess energy after paying the effect's cost restores Magic Energy Reserve, up to its normal maximum; excess beyond that is lost.

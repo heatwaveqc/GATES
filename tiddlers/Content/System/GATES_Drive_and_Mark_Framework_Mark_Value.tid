@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Mark Value
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 3621
+source-end-index: 3829
+gates-order: 0011
+gates-component: yes
+caption: Mark Value
+rule: mark-value
+
+The number of character points earned by each Drive Mark. Mark Value is set at the campaign level. If a subsystem such as Prestige changes Mark Value, each Mark retains the value in effect when it was earned.

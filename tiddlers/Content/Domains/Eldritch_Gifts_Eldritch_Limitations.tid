@@ -1,0 +1,23 @@
+title: Eldritch Gifts — Eldritch Limitations
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 14871
+source-end-index: 16834
+gates-order: 0013
+gates-component: yes
+caption: Eldritch Limitations
+domain-rule: eldritch-limitations
+
+Every non-Talent ability constructed, purchased, granted, loaded, or temporarily manifested through Eldritch Gifts must include one or more Eldritch Limitations totaling at least -5%, in addition to its required source modifier. This includes permanent purchases, Power Stunts, Modular Ability configurations, abilities placed into Granted or Gifted templates, and comparable temporary Eldritch constructions. An Eldritch Limitation is a Nuisance Effect or equivalent priced limitation whose operation makes the ability's impossible nature materially apparent or inconvenient whenever the ability is used or capable of providing its benefit.
+
+A qualifying Eldritch Limitation must do at least one of the following: impose a reaction penalty on witnesses who perceive the manifestation; produce an obvious manifestation that reveals the use or substantially interferes with stealth or concealment; or cause a strange physical, bodily, sensory, or environmental side effect that creates a meaningful in-play inconvenience. Cosmetic description with no practical consequence does not qualify.
+
+For an always-on or passive ability, the Eldritch Limitation must likewise be persistent whenever the trait can provide its benefit. Different abilities may have different manifestations, and a character may use recurring motifs without being required to do so. A larger ordinary limitation may satisfy this requirement if its actual operation meets the Eldritch Limitation test; the Psionic, Super, or Eldritch source modifier itself never counts.
+
+Eldritch Limitations represent the fact that contact with the impossible cannot be made completely normal. They cannot normally be bought off through Eldritch Gifts advancement or Mastery. A specific Tradition, extraordinary reconstruction effect, or other explicit rule may replace one Eldritch Limitation with another, but the ability must continue to satisfy the minimum requirement unless an explicit rule says otherwise.

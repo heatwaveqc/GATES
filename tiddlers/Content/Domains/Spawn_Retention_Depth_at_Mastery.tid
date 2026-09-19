@@ -1,0 +1,17 @@
+title: Spawn — Retention Depth at Mastery
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Spawn
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.nh8w91hcqnxj
+source-start-index: 15921
+source-end-index: 16270
+gates-order: 0021
+gates-component: yes
+caption: Retention Depth at Mastery
+tradition-component: retention-depth-at-mastery
+
+Spawn Mastery does not turn the Tradition into Expanded Core. Gift Traits and Growth-Axis Root Traits still produce at most one retainable Spawn-trait generation. Spawn Traits may still produce temporary Manifestations, but those descendants cannot be permanently retained through Spawn unless another Tradition independently grants purchase access.

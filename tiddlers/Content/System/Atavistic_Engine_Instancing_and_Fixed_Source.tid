@@ -1,0 +1,19 @@
+title: Atavistic Engine — Instancing and Fixed Source
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 171177
+source-end-index: 172002
+gates-order: 0001
+gates-component: yes
+caption: Instancing and Fixed Source
+engine-rule: instancing-and-fixed-source
+
+Atavistic is Personally Instanced by default. When the Tradition is entered, the practitioner fixes one Source according to the Tradition's written procedure. The Source may be a published GURPS creature or racial template, a Tradition-supplied Source Profile, a selection from a closed menu, or a result produced by an objective construction procedure. The Source and every access-defining choice used to establish it are stored in the personal instance and cannot be exchanged, broadened, or reinterpreted through ordinary advancement or Mastery.
+
+A Tradition may explicitly override the personal default when the Source belongs to an institution, lineage, doctrine, suit design, or other shared instance. The override must follow the normal Instancing rules and state exactly what is transmitted and what remains personal.

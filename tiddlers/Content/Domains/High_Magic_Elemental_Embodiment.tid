@@ -1,0 +1,33 @@
+title: High Magic — Elemental Embodiment
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 22579
+source-end-index: 25673
+gates-order: 0027
+gates-component: yes
+caption: Elemental Embodiment
+tradition-component: elemental-embodiment
+
+Cost: 100 points
+
+Prerequisites: Occult Mastery (High Magic), Elemental Master
+
+Requirements: Magery 5, Thaumatology 30
+
+You internalize an element, making it a part of yourself. You may take this Path for only a single element, and once you choose an element to embody, you lose all of the benefits of other copies of Elemental Master you have. You no longer take damage from that element, and the cost and time to cast using that element are reduced to zero, but the cost and time to cast for all other elements is multiplied by five. Each element also grants a secondary benefit. Elemental Embodiment is very obvious, with the color of your eyes, skin, and hair adjusting to reflect the element you have internalized. You gain DR against most forms of damage equal to your Magery, though this does not apply to the element previous in the cycle: fire is vulnerable to water, metal to fire, wood to metal, etc. You also gain a Vulnerability (2x damage before DR) to the element previous in the cycle.
+
+Fire: You are hot to the touch, dangerously so when angered. Your unarmed attacks have an additional elemental follow-up of fire of an intensity equal to your Magery (add Magery dice of burning damage as a follow up to all attacks). Nonmagical metal armor provides zero DR against your unarmed attacks and cannot defend against the fire follow-up either. Nonmagical metal objects striking you are melted, rendering the attack ineffective and exposing the wielder to your fire attack. You can no longer wear metal armor in combat, as it too will melt. Occult buffs whose only benefits are increases to your DX, Dodge, Basic Speed, or Move do not count against your applicable buff limit for determining whether a Dissolution roll is required or the penalty to that roll.
+
+Metal: Your unarmed attacks do cutting or impaling damage, as you choose, and you add your Magery per die to the damage of all unarmed attacks. DR provided by this Embodiment is quadrupled. Against your unarmed attacks, wood objects have an effective DR of 0.
+
+Wood: So long as you are touching dirt, you recover HP and FP each second equal to one quarter your Magery, rounded down, minimum 1. This recovery rate does not scale with your maximum HP or FP. You are permanently immune to mundane poisons and diseases, and will not die of old age. Occult buffs whose only benefit is an increase to your HT do not count against your applicable buff limit for determining whether a Dissolution roll is required or the penalty to that roll.
+
+Earth: In addition to not taking damage from stone or earth, you do not suffocate; you effectively no longer need to breathe. You can no longer swim, but you are not hindered at all when walking or fighting underwater. Occult buffs whose only benefit is an increase to your ST do not count against your applicable buff limit for determining whether a Dissolution roll is required or the penalty to that roll.
+
+Water: You can breathe underwater, and swim at your full move without it being tiring. When attacking unarmed you gain Armor Divisor 3 and you benefit from the Homogenous advantage.

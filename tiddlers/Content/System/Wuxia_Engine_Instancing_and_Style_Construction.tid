@@ -1,0 +1,45 @@
+title: Wuxia Engine — Instancing and Style Construction
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Wuxia Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 227723
+source-end-index: 232324
+gates-order: 0001
+gates-component: yes
+caption: Instancing and Style Construction
+engine-rule: instancing-and-style-construction
+
+Wuxia is Institutionally Instanced by default. A practitioner learning through ordinary instruction receives an existing Style exactly. A character whose Class grants access and therefore replaces the absent instructor may construct one original legal Style before purchasing or learning anything from the Tradition. An institutional Style cannot later be edited; a remix is a new Style instance.
+
+Style Compatibility for Additional Instances
+
+Before a practitioner may begin learning a second or later institutional Wuxia Style, they must be compatible with that Style's fixed Shido package. They must already possess, or be legally able and willing to add to their character sheet, the Core Shido governing that Style and at least three of the Style's five fixed Style Shido in total. The Core Shido counts toward the three. This is a compatibility test only: it does not grant any Shido early or for free, and the Style still grants its Shido at the normal Duan Wei stages.
+
+A Shido counts as legally acceptable only if the character could actually carry it under the applicable Domain rules and Shido cap, and it does not contradict another fixed oath, code, Sense of Duty, Intolerance, or similar self-imposed mental disadvantage in a way that makes simultaneous observance impossible. A practitioner who cannot meet this threshold cannot begin instruction in that Style, even if they otherwise meet access, instructor, and sequential Mastery requirements. This compatibility threshold is part of the Wuxia Engine: individual Wuxia Traditions may impose stricter requirements, but may not waive or loosen it without an explicit GM ruling.
+
+A Wuxia Tradition is mechanically complete when it defines a complete legal Style-construction engine, the five-stage Duan Wei progression, at least five meaningfully distinct optional Supernatural Unlock families, complete Tradition-level Mastery rules, and all other applicable Tier 2 completeness requirements. A Tier 2 Wuxia Tradition does not require an associated Sage or any other Tier 3 continuation to be mechanically complete. A Wuxia Tradition also does not need to publish a finished Style to be playable or mechanically complete. Finished Styles are worked examples and play aids, not completion requirements.
+
+Every Style records:
+
+- One complete mundane martial Style. Legal foundations are one published GURPS Martial Arts Style; a coherent, reasonable GM-approved combination of published GURPS Martial Arts Styles treated as one fixed curriculum; or one specific Style from another source explicitly approved by the GM. An approved GATES Style writeup counts as the third category. A combined foundation is fixed when the institutional Style is created and may not later cherry-pick curriculum elements to satisfy progression or advantage prerequisites.
+
+- Primary Skills, Mundane Techniques, Cinematic Skills, and Cinematic Techniques.
+
+- Style weapons and armor limits.
+
+- The one Wuxia Affinity Attribute gained at Duan Wei 2, unless the Tradition explicitly replaces normal Affinity progression with another fixed benefit.
+
+- Exactly five fixed Style Shido selected and recorded when the institutional Style is created, using the Domain and Tradition's legal Shido procedure. Practitioners inherit those exact Shido at the normal Duan Wei stages rather than selecting personal replacements. Where the Domain uses a Core Shido, it occupies the Style's first Shido slot and is supplied through the prerequisite Tier 1 progression.
+
+- Exactly two different Supernatural Unlock families.
+
+- Which selected family opens at Duan Wei 3 and which opens at Duan Wei 5.
+
+- Every Talent, form, weapon list, loop, resource, ability menu, template, College, or other variable required by those two family implementations and, when an associated Sage Tradition exists, the Style's two Advanced Supernatural Unlocks: one keyed to Fourth Sage Dan and one keyed to Fifth Sage Dan.
+
+Wuxia Affinity Pair Rule. Under normal Wuxia progression, the prerequisite Tier 1 Martial Tradition supplies the first Martial Affinity Attribute and the Wuxia Style supplies the second at Duan Wei 2. When the prerequisite is Mundane Martial Art, Martial Attribute Development makes ST or HT the first Affinity. The Wuxia Affinity must be a different attribute. The final pair may not be DX + IQ in either order; that pairing is prohibited under the current Affinity construction. ST + HT is legal, as are mixed pairs containing one of ST or HT and one of DX or IQ. A Wuxia Tradition that explicitly replaces its normal Duan Wei 2 Affinity benefit uses that replacement instead.

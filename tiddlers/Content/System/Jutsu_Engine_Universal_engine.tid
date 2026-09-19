@@ -1,0 +1,51 @@
+title: Jutsu Engine — Universal engine
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Jutsu Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 216701
+source-end-index: 224174
+gates-order: 0001
+gates-component: yes
+caption: Universal engine
+engine-rule: universal-engine
+
+Every Jutsu Tradition defines one central Potence-governing trait, such as Talent, Magery, Power Investiture, Essence, Higher Purpose, or another Domain-appropriate rank.
+
+A Jutsu tree is one institutional instance by default. A tree is an ordered prerequisite graph that may continue to grow after it becomes sufficient for Mastery; it is never permanently finished merely because a practitioner has mastered it. When a new Jutsu is added, record its ordinal position N as the total number of Jutsu in the tree after that addition. Its Tree-Depth Potence Requirement is ceil(N/4): Jutsu 1-4 require at least Potence 1 from tree depth, 5-8 require 2, 9-12 require 3, 13-16 require 4, and 17-20 require 5, continuing in four-Jutsu bands. Independently, count every distinct prerequisite Jutsu required for that node, direct or indirect, once; its Prerequisite Potence Requirement is ceil(total prerequisite count/2). The Jutsu's minimum Potence requirement is at least the higher of those two values, subject to any still-higher requirement imposed by its parameters or specific design. A tree is Mastery-eligible once it contains at least one Jutsu with minimum Potence 4 or higher. Adding later Jutsu extends the same institutional tree and does not revoke prior tree Mastery.
+
+Tree Profiles
+
+Every institutional Jutsu tree records a fixed Tree Profile as part of the institutional instance. The profile records the tree's Style Weapons and weapon requirements, Style Armor and armor restrictions, any other required implements or free-hand/body requirements, and the Tree Advantages for which that tree can grant purchase access. These fields are transmitted with the tree and are not chosen separately by each student. Changing a profile field creates a distinct institutional tree instance unless the governing Jutsu Author Tradition explicitly provides a revision procedure.
+
+Style Weapons identify the weapons, unarmed modes, or natural attacks recognized by the lineage. The profile must state whether those weapons are required for the entire tree or only for Jutsu whose written delivery uses them. A tree may also require paired weapons, a free hand, ammunition, a shield, a focus, or another implement. Listing a Style Weapon does not silently change an individual Jutsu's authored delivery: a Jutsu that says dagger, unarmed strike, bow, or another exact carrier still requires that carrier unless its own text explicitly permits alternatives.
+
+Style Armor states one of three things: unrestricted armor; no armor; or a fixed compatible armor category or restriction. A tree-wide armor restriction applies to every Jutsu in the tree unless a Jutsu is explicitly stricter. A Jutsu may narrow the tree profile but may not silently broaden it. Weapon, armor, and implement restrictions are operational requirements, not automatic pricing limitations: they do not reduce Raw Effect Penalty, Final Jutsu Penalty, or Tier 2 CP cost unless the governing Jutsu Author Tradition contains an explicit pricing rule for that restriction.
+
+Tree Advantages
+
+A Jutsu Tradition may define a closed Tree Advantage catalog or a deterministic rule for deriving Tree Advantages from a tree's Jutsu and Tree Profile. Tree Advantages are ordinary point-purchased traits associated with one institutional tree; they are not Jutsu and do not occupy positions in the prerequisite graph. The governing Jutsu Tradition must define their legal constructions, prerequisites, caps, and when they become purchasable. A Jutsu Author may record only Tree Advantages permitted by that governing rule and cannot create arbitrary advantage access merely by adding an entry to a tree.
+
+A purchased Tree Advantage uses the normal Origin, source, Shido/Pact, and other modifier rules of its Jutsu Tradition. Its character-point cost after modifiers counts as investment in that institutional tree when the Tradition's Mastery requirement calls for tree investment. A purchased trait's character points may count toward only one institutional tree's Mastery, even if the same trait is legal through several trees or Traditions. Pre-existing traits do not retroactively become tree investment; only points actually purchased or upgraded through that tree count. Tree Advantages do not alter Jutsu ordinal position, prerequisite count, or Potence requirements.
+
+Any Jutsu with minimum Potence 5 or higher is a Secret Master Technique. It may be authored only by a master of the corresponding Jutsu Author Tradition and may be learned or purchased through Tier 2 only by a master of the corresponding Jutsu Tradition. This gate applies even if the effect's parameters would otherwise be legal. Secret Master Techniques may be appended to a tree that was mastered earlier.
+
+Each Jutsu is a separately written custom activated trait with explicit prerequisites, Potence requirements, action economy, activation cadence, energy use, fixed effects, legal variable effects, targeting, resistance, duration, and failure rules where applicable. These fields are assigned by the Jutsu Author procedure rather than represented through standard GURPS enhancements and limitations.
+
+Tier 2 Jutsu do not require an activation roll unless the individual Jutsu explicitly introduces one as an exceptional drawback or interaction. Their character-point purchase represents complete reliable command of the written effect.
+
+Jutsu Cadence — One Jutsu per Action. Between the start of one of the character's actions and the start of their next action, the character may select only one Jutsu for activation. Once a Jutsu has been selected in that action cycle, the character may activate that same Jutsu again if its written cadence permits repeated use, such as a defensive Jutsu responding to several incoming attacks, but may not activate a different Jutsu until their next action begins. An action containing multiple attacks, including attacks from Extra Attack, Rapid Strike, or another multiattack sequence, still provides only one Jutsu selection; additional attacks do not create additional Jutsu selections. A specific Jutsu, Tradition, advantage, or other explicit rule may override this limit.
+
+The Tier 2 point cost of a Jutsu is derived from the final penalty calculated by the corresponding Jutsu Author design procedure. Because the design is treated as a Hard technique, the Jutsu costs the number of points required to buy off that penalty completely: absolute penalty plus 1 point. This custom price replaces standard GURPS advantage pricing. Published advantage costs, enhancements, and limitations do not determine the Jutsu's price unless the specific Jutsu Author procedure explicitly uses one as an input or benchmark.
+
+Permanent, continuously operating, or purely passive traits are Tradition Advantages rather than Jutsu.
+
+Every Jutsu Tradition defines an energy source and recovery procedure. A Jutsu may have a fixed cost or may spend additional energy only on variable effects explicitly written into its design. A zero-energy Jutsu is unusual but legal; it still requires its stated maneuver, uses its activation opportunity, and obeys all other Jutsu action-economy restrictions.
+
+Each individual authored parameter is capped at twice the practitioner's Potence. A practitioner cannot purchase or use a Jutsu whose written parameter values exceed the applicable caps.
+
+A Tier 2 practitioner cannot improvise new effects, alter a Jutsu's written parameters, add nodes, create branches, or author trees.

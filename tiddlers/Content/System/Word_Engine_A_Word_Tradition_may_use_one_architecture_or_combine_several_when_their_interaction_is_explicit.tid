@@ -1,0 +1,25 @@
+title: Word Engine — A Word Tradition may use one architecture or combine several when their interaction is explicit
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 105683
+source-end-index: 106672
+gates-order: 0003
+gates-component: yes
+caption: A Word Tradition may use one architecture or combine several when their interaction is explicit
+engine-rule: a-word-tradition-may-use-one-architecture-or-combine-several-when-their-interaction-is-explicit
+
+- Direct Expression. The practitioner assembles and resolves the expression as part of the casting. Spoken High Magic and Dovahzul are current examples.
+
+- Prepared Expression. The practitioner composes, inscribes, draws, carves, programs, or otherwise constructs the expression before activation. Circle Magic is the current geometric reference.
+
+- Stored or Productive Expression. Preparation accumulates magical value in runes, items, organisms, charges, locations, or other persistent media that can later release or reproduce effects. Gaian Magic is the current strategic reference.
+
+- Fixed-Expression Overlay. A flexible grammar also permits idioms, rotes, phrases, songs, formulae, or other predesigned constructions that receive defined efficiencies without replacing free construction.
+
+These architectures describe play patterns rather than mandatory rules. Casting time, number of rolls, storage, activation, permanence, and who may use a prepared result remain Tradition-defined.

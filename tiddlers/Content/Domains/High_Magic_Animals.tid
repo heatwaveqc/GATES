@@ -1,0 +1,127 @@
+title: High Magic — Animals
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 8766
+source-end-index: 15013
+gates-order: 0011
+gates-component: yes
+caption: Animals
+tradition-component: animals
+
+The Animal Word list is fixed. Every Animal Word is an IQ/Very Hard skill with a base energy cost of 2.
+
+Ferret: Forthright, tenacious, systematic, meticulous, charismatic, sensitive, hardworking, industrious, charming, eloquent, sociable, artistic, shrewd. Can be manipulative, vindictive, mendacious, venal, selfish, obstinate, critical, over-ambitious, ruthless, intolerant, scheming. Base casting time of 1.
+
+Good At: Investigation, persistence, trickery, rooting out hidden things
+
+Bad At: Noble or “high” works (honor, grandeur, divine law)
+
+Exclusive: Ferret is the only animal that can have a subtle display; Ferret magic is not always extremely obvious.
+
+Forbidden: Cannot inspire awe or majesty; no positive morale effects
+
+Ox: Dependable, calm, methodical, born leader, patient, hardworking, ambitious, conventional, steady, modest, logical, resolute, tenacious. Can be stubborn, narrow-minded, materialistic, rigid, demanding. Base casting time of 3
+
+Good At: Endurance, strength, stability, protection, slow but unstoppable force
+
+Bad At: Deception, trickery, sudden change
+
+Forbidden: Cannot create illusions or shapeshift
+
+Tiger: Unpredictable, rebellious, colorful, powerful, passionate, daring, impulsive, vigorous, stimulating, sincere, affectionate, humanitarian, generous. Can be restless, reckless, impatient, quick-tempered, obstinate, selfish, aggressive. Base casting time of 2
+
+Good At: Bold offense, intimidation, inspiring courage, sudden decisive action, rebellion.
+
+Bad At: Patient, constructive work (crafting, sustained healing, long rituals).
+
+Forbidden: Cannot create lasting structures or works of craftsmanship (Tiger destroys, it does not build)
+
+Rabbit/Cat: Luckiest of all, Gracious, good friend, kind, sensitive, soft-spoken, amiable, elegant, reserved, cautious, artistic, thorough, tender, self-assured, shy, astute, compassionate, flexible. Can be moody, detached, superficial, self-indulgent, opportunistic, stubborn. Base casting time of 1.
+
+Good At: Luck, agility, stealth, friendship, graceful combat
+
+Bad At: Direct destructiveness (enhancing combat prowess is fine)
+
+Exclusive: Only Rabbit/Cat can bring supernatural luck
+
+Forbidden: Cannot conjure raw destruction (fireballs, explosions)
+
+Dragon: Magnanimous, stately, vigorous, strong, self-assured, proud, noble, direct, dignified, zealous, eccentric, intellectual, fiery, passionate, decisive, pioneering, ambitious, artistic, generous, loyal. Can be tactless, arrogant, imperious, tyrannical, demanding, intolerant, dogmatic, violent, impetuous, brash. Base casting time of 2.
+
+Good At: Majesty, elemental command, leadership, fire and storm
+
+Bad At: Subtlety, concealment, humility
+
+Forbidden: Cannot hide itself or act quietly
+
+Snake: Deep thinker, wise, mystic, graceful, soft-spoken, sensual, creative, prudent, shrewd, ambitious, elegant, cautious, responsible, calm, strong, constant, purposeful. Can be loner, bad communicator, possessive, hedonistic, self-doubting, distrustful, mendacious, suffocating, cold. Base casting time of 1.
+
+Good At: Wisdom, insight, charm, divination, poison, healing
+
+Bad At: Open warfare, raw strength, brash directness
+
+Forbidden: Cannot inspire or lead
+
+Horse: Cheerful, popular, quick-witted, changeable, earthy, perceptive, talkative, agile - mentally and physically, magnetic, intelligent, astute, flexible, open-minded. Can be fickle, arrogant, childish, anxious, rude, gullible, stubborn. Base casting time of 3.
+
+Good At: Speed, freedom, charisma, celebration, inspiration
+
+Bad At: Stealth, patience, subtle plotting
+
+Forbidden: Cannot cloak or conceal
+
+Alicorn (Ram/Unicorn): Righteous, sincere, sympathetic, mild-mannered, shy, artistic, creative, gentle, compassionate, understanding, mothering, determined, peaceful, generous, seeks security. Can be moody, indecisive, over-passive, worrier, pessimistic, over-sensitive, complainer, weak-willed. Base casting time of 3.
+
+Good At: Purity, compassion, healing, nurturing, artistry
+
+Bad At: Deception, cruelty, destructive rage
+
+Exclusive: Holy effects; damaging Alicorn effects do double damage against demons, aberrations, and undead
+
+Forbidden: Cannot curse or corrupt
+
+Monkey: Inventor, motivator, improviser, quick-witted, inquisitive, flexible, innovative, problem solver, self-assured, sociable, artistic, polite, dignified, competitive, objective, factual, intellectual. Can be egotistical, vain, selfish, reckless, snobbish, deceptive, manipulative, cunning, jealous, suspicious. Base casting time of 2, but can trade casting time for base cost, or vice versa, so long as neither go below 0.
+
+Good At: Skill, improvisation, cunning, invention, agility
+
+Bad At: Formal ritual, solemnity, patience
+
+Forbidden: All Monkey effects are immediate; they cannot be delayed, and all enchantments must be constant.
+
+Phoenix: Radiant, transformative, proud, passionate, sacrificial, regenerative, and impossible to keep down. Phoenix governs fire, purification, rebirth, renewal, self-sacrifice, and hope rising from catastrophe. Base casting time 3.
+
+Good At: Rebirth, renewal, purification, sacrificial power, inspiration, fire
+
+Bad At: Concealment, cold preservation, stagnation
+
+Forbidden: Cannot create undead or preserve a living thing in an unchanging state
+
+Wolf: Loyal, communal, watchful, relentless, territorial, intuitive, and bound by obligation. Wolf governs packs, oaths, hunting, cooperation, protection, and punishment for betrayal. Base casting time 3.
+
+Good At: Loyalty, oaths, hunting, teamwork, protection, tracking
+
+Bad At: Isolation, betrayal, indiscriminate chaos
+
+Forbidden: Cannot compel betrayal of a willingly sworn oath
+
+Boar: Honest, gallant, sturdy, sociable, peace-loving, patient, loyal, hard-working, trusting, sincere, calm, understanding, thoughtful, scrupulous, passionate, and tenacious. Boar can also be naïve, over-reliant, self-indulgent, gullible, fatalistic, or materialistic. Base casting time 2.
+
+Good At: Courage, honesty, endurance, plenty, festivity, breaking barriers
+
+Bad At: Subtle maneuvering, elegance, refinement
+
+Forbidden: Cannot create delicate, intricate, or fine works
+
+Crane: Base casting time 2.
+
+Good At: Longevity, meditation, grace, travel between heights (sky/earth)
+
+Bad At: Rage, destructiveness, chaos
+
+Forbidden: No damaging effects

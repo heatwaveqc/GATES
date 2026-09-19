@@ -1,0 +1,25 @@
+title: Ritual Engine — Default Mastery shape
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 89358
+source-end-index: 90082
+gates-order: 0003
+gates-component: yes
+caption: Default Mastery shape
+engine-rule: default-mastery-shape
+
+Ritual Mastery has no minimum character-point investment requirement.
+
+The shared Domain governing skill at 20+.
+
+Several spell penalties substantially or fully bought off.
+
+For broad Ritual Traditions using the standard vanilla spell corpus, all 27 vanilla GURPS Magic College skills at 16+; narrower Ritual Traditions should require every College skill in their legal scope or an explicitly equivalent breadth benchmark. This requirement is intended to establish broad ritual competence rather than impose a major point sink; mature Ritual practitioners are normally expected to have enough IQ and Magery that many College skills require only minimal point investment.
+
+A major working, grimoire, order, or other defining use.

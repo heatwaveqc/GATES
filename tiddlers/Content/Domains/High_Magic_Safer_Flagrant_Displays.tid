@@ -1,0 +1,21 @@
+title: High Magic — Safer Flagrant Displays
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 16582
+source-end-index: 17082
+gates-order: 0018
+gates-component: yes
+caption: Safer Flagrant Displays
+tradition-component: safer-flagrant-displays
+
+Cost: 5 points/level
+
+Requirements: Magery 5, Thaumatology 30
+
+You are better at not tearing holes in the world with your magic. Each level of Safer Flagrant Displays allows one High Magic casting per scene that would otherwise trigger a mana surge to occur without triggering that surge. Once you have used all such safe displays in a scene, later castings in that scene that qualify for a mana surge trigger it normally. You may purchase this advantage up to a number of levels equal to your Magery.

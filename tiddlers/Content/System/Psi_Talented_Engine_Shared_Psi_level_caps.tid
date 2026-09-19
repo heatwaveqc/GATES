@@ -1,0 +1,29 @@
+title: Psi Talented Engine — Shared Psi level caps
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Psi Talented Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 141929
+source-end-index: 143531
+gates-order: 0002
+gates-component: yes
+caption: Shared Psi level caps
+engine-rule: shared-psi-level-caps
+
+Enhanced Defenses are a shared exception: Enhanced Dodge, Enhanced Parry, and Enhanced Block are each capped at ceil(governing Psi Talent or Talent-equivalent / 2) levels. This replaces the ordinary Buff or low-base-cost leveled-trait cap for those traits and is not doubled by Master Psionic. A stricter Domain, Tradition, ability, or bespoke restricted-defense cap controls.
+
+Innate Attack damage is capped at Talent × 2 dice. Binding is capped at Talent × 4 levels. Affliction is capped at Talent levels.
+
+A Buff is a leveled trait that increases a primary attribute, secondary attribute, or Damage Resistance. Buffs are capped at (Talent × 2) - 1 without Master Psionic and Talent × 2 with Master Psionic.
+
+A non-attack, non-Buff leveled trait with an unmodified base cost of 25 points or less per level uses the Buff cap. A higher-base-cost leveled trait is capped at Talent.
+
+Telekinesis, Create, Control, Temperature Control, Binding, and Penetrating Vision use the campaign-wide exceptional level caps in GATES Enhancement Limitations when those Advantages are otherwise legal. Psi Basic-access Telekinesis retains its stricter Basic cap; Advanced and Master Telekinesis use the universal Telekinesis formula.
+
+Access band and category Mastery are separate. Tradition Mastery may grant Master access to the Tradition's Talents and abilities. Master Psionic governs applicable Talent 5+, the Will/5 Talent cap, the Psi IQ allowance, and the Mastery-dependent increase to shared level caps.
+
+These shared Psi access and cap rules are inherited unless a Domain or Tradition explicitly changes them.

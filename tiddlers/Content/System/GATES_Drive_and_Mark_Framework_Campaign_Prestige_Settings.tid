@@ -1,0 +1,31 @@
+title: GATES Drive and Mark Framework — Campaign Prestige Settings
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 12823
+source-end-index: 13239
+gates-order: 0022
+gates-component: yes
+caption: Campaign Prestige Settings
+rule: campaign-prestige-settings
+
+A campaign using Prestige records:
+
+Starting Character Value.
+
+Prestige Reset Value.
+
+Pre-Prestige Mark Value.
+
+The post-Prestige Mark Value progression.
+
+The Prestige cost progression.
+
+Any retained world, Caliber, or other legacy campaign fields.
+
+The legacy Isekai preset uses 0.5 character points per Mark before the first Prestige and, after at least one Prestige, a Mark Value equal to the character's Prestige Count.

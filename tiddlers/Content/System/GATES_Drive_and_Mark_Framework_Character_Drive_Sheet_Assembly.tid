@@ -1,0 +1,39 @@
+title: GATES Drive and Mark Framework — Character Drive Sheet Assembly
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 6313
+source-end-index: 7385
+gates-order: 0016
+gates-component: yes
+caption: Character Drive Sheet Assembly
+rule: character-drive-sheet-assembly
+
+At campaign start, assemble each character's active Drive sheet from:
+
+The campaign's Campaign Drives.
+
+The first N Drives from every active Domain source.
+
+The first N Drives from every active World source.
+
+The first N Drives from every active Pantheon source.
+
+The first N Drives from every active Culture source.
+
+The first N Drives from any additional active source categories.
+
+Any required Secondary Choice attached to an active Drive.
+
+The campaign decides whether N is the same for every source category or differs by category.
+
+A character may be eligible for several possible sources while using only the number permitted by the campaign. The player selects the active source or sources.
+
+Active sources and Secondary Choices persist until the player voluntarily changes them under the campaign's change rules. No fictional event, loss of membership, loss of powers, death of a patron, collapse of a nation, magical compulsion, or GM declaration automatically changes them.
+
+Drive internalization is an Isekai-specific legacy mechanic and is not assumed by this framework.

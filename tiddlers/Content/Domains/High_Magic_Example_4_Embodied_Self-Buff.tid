@@ -1,0 +1,17 @@
+title: High Magic — Example 4 — Embodied Self-Buff
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 35713
+source-end-index: 36367
+gates-order: 0035
+gates-component: yes
+caption: Example 4 — Embodied Self-Buff
+tradition-component: example-4-embodied-self-buff
+
+A High Mage with Dragon Animal Embodiment and Magery 6 casts a legal self-targeted High Magic working using Dragon as its Animal Word to grant a package of draconic traits, such as Flight and additional DR. She may declare the working an Embodied Self-Buff. If the combined package fits within the normal single-buff potency and point-value caps, the entire casting occupies one of her six Embodied Self-Buff slots and lasts indefinitely until dismissed or otherwise removed. A second qualifying self-casting occupies another slot. These buffs stack with other legal temporary or permanent magical buffs because Animal Embodiment uses its own buff track.

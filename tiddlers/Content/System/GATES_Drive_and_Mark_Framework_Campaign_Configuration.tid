@@ -1,0 +1,49 @@
+title: GATES Drive and Mark Framework — Campaign Configuration
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 4132
+source-end-index: 5286
+gates-order: 0014
+gates-component: yes
+caption: Campaign Configuration
+rule: campaign-configuration
+
+Before play, the GM records the following campaign choices:
+
+The Drive-source categories used by the campaign.
+
+The number of active Drives taken from each source, from one to five.
+
+The campaign's ordered Campaign Drives, if any.
+
+The eligibility rules for selecting each source or Secondary Choice.
+
+The maximum number of active sources permitted within each source category.
+
+Which Drives require Secondary Choices and the legal options for those choices.
+
+Whether each source category or Secondary Choice may be changed voluntarily.
+
+The Mark or narrative requirements for an allowed change.
+
+Whether Old Marks are archived in one universal field or separately by source.
+
+The campaign's Mark Value.
+
+Starting Character Value.
+
+Prestige Reset Value, if Prestige is used.
+
+Whether the optional Isekai Prestige module is used and which Prestige settings apply.
+
+How fractional character-point progress is displayed.
+
+Any campaign ruling about one event satisfying several Drives.
+
+All characters in the same campaign should normally use the same campaign settings. Character-specific exceptions require an explicit subsystem rather than an unannounced sheet exception.

@@ -1,0 +1,33 @@
+title: Dreadhound — Prey Countermeasure Array — Super-Memorization
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 4636
+source-end-index: 5984
+gates-order: 0008
+gates-component: yes
+caption: Prey Countermeasure Array — Super-Memorization
+tradition-component: prey-countermeasure-array-super-memorization
+
+The Prey Countermeasure Array is purchased as Super-Memorization. Dreadhound imposes no additional capacity ceiling: the character may buy as much legal Super-Memorization capacity as they can afford.
+
+For a prey-derived negation configuration, each loaded ability must:
+
+be directly useful for detecting, analyzing, tracking, resisting, suppressing, penetrating, escaping, countering, or harming the Current Prey;
+
+be genuinely supported by a governing Talent the Dreadhound possesses at Basic level;
+
+use Only Against Current Prey, -20%;
+
+use the Dreadhound Universal Origin modifiers before Mastery; and
+
+obey all other applicable Psi, campaign, and trait caps.
+
+The repository does not need to contain or resemble the loaded ability. A vampire's blood might support a specialized resistance to its domination, a countermeasure against its supernatural movement, or an attack that exploits a demonstrated vulnerability. What matters is that the build is a legal countermeasure against the Current Prey, not an imitation of the prey.
+
+Before Dreadhound Mastery, loaded negation abilities may use Advanced Psi construction rules. After Dreadhound Mastery, they may use Master Psi construction rules. Changing a configuration requires access to an appropriate physical Prey Repository and follows the normal Super-Memorization reconfiguration procedure.

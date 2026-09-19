@@ -1,0 +1,17 @@
+title: High Magic — Example 3 — Multi-Set Transmutation
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 34642
+source-end-index: 35680
+gates-order: 0034
+gates-component: yes
+caption: Example 3 — Multi-Set Transmutation
+tradition-component: example-3-multi-set-transmutation
+
+Selene wants to turn a steel door into living wood. The GM agrees that this genuinely requires two distinct symbolic operations: unmaking and rewriting the metal, then establishing living wood. Selene therefore uses two complete sets, Yin-Metal-Snake and Yang-Wood-Monkey, and must roll all six Words. Base energy is (0 + 3 + 2) + (0 + 2 + 2) = 9 FP. Base casting time is (1 + 1 + 1) + (0 + 0 + 2) = 5 seconds. If the six final margins are 8, 7, 6, 9, 5, and 4, the entire working uses margin 4 for its applicable parameters. Multiple sets are not permission to repeat symbolic sets merely to fish for critical successes, multiply output, or bypass an Animal's Forbidden effects; every additional set must represent a genuinely distinct operation. If three of Selene's Word rolls are critical successes but another required Word fails, the entire casting fails, she loses the full 9 FP, and no mana surge occurs. If every required Word succeeds and at least three are critical successes, the casting triggers the normal single mana surge.

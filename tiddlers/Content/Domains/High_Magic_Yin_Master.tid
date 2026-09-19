@@ -1,0 +1,21 @@
+title: High Magic — Yin Master
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 17114
+source-end-index: 17670
+gates-order: 0020
+gates-component: yes
+caption: Yin Master
+tradition-component: yin-master
+
+Cost: 50 points
+
+Requirements: Magery 1, Thaumatology 15
+
+You are a master of the cool, dark aspects of High Magic. You no longer suffer from specifying limits on your casting, even when using Yang as the aspect, and the cost to cast all High Magic is reduced by one quarter your Magery, rounded down, minimum 1 FP, when casting using Yin; this cannot reduce the final casting cost below 0 FP. You will no longer die of old age, and can age at the normal rate in either direction at will. You may not purchase Yang Master until you have mastered High Magic.

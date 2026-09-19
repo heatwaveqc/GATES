@@ -1,0 +1,31 @@
+title: Low Magic — Mastery Unlocks
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 6627
+source-end-index: 8887
+gates-order: 0008
+gates-component: yes
+caption: Mastery Unlocks
+tradition-component: mastery-unlocks
+
+Universal Power (100): The Low Mage can use FP or Magic Energy Reserve to pay the energy-equivalent cost of any form of Occult spell magic. Use the equivalencies defined by that magic. Universal Power can replace unusual costs when those costs function as the magic’s power cost, including material components, blood, tally, preparation or casting time, and enchanting costs. It replaces only the cost-equivalent portion of the working, not prerequisites, required knowledge, legal targets, tools that are not consumed as a cost, metaphysical permissions, approval requirements, side effects, failure consequences, or other non-cost restrictions. Only apply cost reductions once.
+
+Inner Power (10): The Low Mage can cast, maintain, and enchant spells in no mana. Such workings cost five times their normal final energy cost and suffer -5 to skill. A final cost of 0 remains 0. Use of this trait negates stealth; the mage appears to ignite in brilliant white flame for the duration of the casting or enchantment.
+
+Expanded Flourishes (10): The Low Mage gains three additional Flourish options.
+
+Reach: Double the spell’s range.
+
+Magnitude: Multiply the mass or weight affected by 10.
+
+Rush: Halve the spell’s casting time, rounding up, to a minimum of one second.
+
+Reach and Magnitude may be earned normally through margin of success or purchased through Overcharge. Rush can only be purchased through Overcharge, must be declared before casting begins, and its 5 FP cost is paid even if the spell fails. Multiple Rush Flourishes halve the casting time repeatedly.
+
+Lasting Work (50): The Low Mage gains greater control over spells extended with Durable Magic. Months become years for 200 FP, and years become decades for 500 FP. Extending a spell through multiple duration categories requires paying every intervening surcharge. A spell tied off with Durable Magic no longer automatically loses contests to dispel it; it resists using the effective skill of the original casting. The Low Mage may give a tied-off spell a simple activation, suppression, or termination condition established when the spell is cast. Lasting Work cannot make a spell truly permanent; permanent magic still requires enchantment or another effect specifically capable of permanent results.

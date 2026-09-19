@@ -1,0 +1,19 @@
+title: High Magic — Casting High Magic
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 579
+source-end-index: 1828
+gates-order: 0002
+gates-component: yes
+caption: Casting High Magic
+tradition-component: casting-high-magic
+
+Every High Magic Word is an IQ/Very Hard skill. Magery adds normally, and no Word skill may exceed Thaumatology. The Word list is fixed and new Words cannot be invented. Every working combines one or more complete symbolic sets, each consisting of one Aspect, one Element, and one Animal. Yin and Yang define the working’s flavor and color palette, while the Element and Animal define its substance and expression.
+
+A normal working uses exactly one Aspect, one Element, and one Animal. A transmutation or another effect that genuinely combines distinct symbolic operations may use additional complete sets. Roll separately against every Word used. The working’s margin of success is the lowest margin of success among those rolls. Its energy cost is the sum of the base energy costs of every Word used; high skill does not reduce this cost. Its casting time is the sum of their base casting times after modifiers, to a minimum of 0 seconds. High Magic is an exception to the normal Foundational limit on Insight spending: a single casting may spend up to three Insight. Unless High Magic specifically says otherwise, use ordinary GURPS casting procedures for concentration, distraction, injury, interruption, mana, and similar casting circumstances.

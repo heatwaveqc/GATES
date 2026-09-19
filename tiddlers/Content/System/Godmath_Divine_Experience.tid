@@ -1,0 +1,24 @@
+title: Godmath — Divine Experience
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Godmath
+source-drive-id: 19-zr0zLjEEanMedfv-lxCbrIByik7-vByLafg4rqU98
+source-drive-title: Godmath
+source-tab-id: t.0
+source-start-index: 15553
+source-end-index: 18639
+gates-order: 0055
+gates-component: yes
+caption: Divine Experience
+
+Worship: Gods gain one experience for every 10,000 hours of individual worship they receive. This occurs to everyone, but any experience gained by those without the Godsoul advantage goes towards that. Once a character has that advantage, the experience can be spent on any trait in this document, including abilities from their power talent and other divine traits, including attributes.
+
+Torment: Torment is what happens to a soul when it is tortured in its afterlife. This extracts a form of involuntary worship, which gives the god a small trickle of power. However, more potent souls provide more potent torment, and thus greater rewards, granting incentives to gods to torment those champions of opposing gods that are sacrificed to them. Torment grants a number of experience points to the god equal to the character point value of the soul in life once every five thousand years, though the experience reward is evenly distributed across that time. Purchasing the facilities to torment a soul costs the God 20 experience, though actual security and escape prevention has to be purchased or set up separately.
+
+Rapture: In a non-stressful, relaxing and beautiful afterlife, souls experience Rapture, which is similar to worship, but it can be done by non-living souls. It is significantly slower than regular worship, but can be a potent secondary source of power that is, arguably, far more secure than any other. Gods gain one experience for every million soul-hours of Rapture the spirits in their afterlifes experience, or about one every 46 years per so per soul. Creating the necessities for a soul to be enraptured costs 50 points per soul, and an afterlife that contains enraptured souls must contain all enraptured souls or tormented souls for any to count as enraptured.
+
+Sacrifice: Normally, a God only gets the souls of their worshippers. However, when someone is sacrificed by a priest of a God, that soul is stolen and given to the god of the priest. In addition to getting the soul itself, the God also gains a number of character points equal to 1% of the overall character point value of the sacrifice. This only works on beings with higher souls; animal souls have a chance of granting a single experience point equal to their maximum Hit Points. Only animals of size modifier -7 or higher count as sufficient sacrifice. Soldiers that dedicate themselves to their god before battle and then fight with the certainty that their death brings reward count as having sacrificed themselves to their god when they die on the battlefield. After the sacrifice, higher souls go to the god they were sacrificed to while lower souls are destroyed.
+
+Consumption: A god can eat a soul, instead of sending it to an afterlife, when it comes to them. Doing so is usually inefficient, but can be used as an emergency source of power. The God gains 1% of the character value of the soul had when it was alive (in its last life, if it has been reincarnated). For potent souls, especially those belonging to other gods that the god got through sacrifice, it is arguably a better plan.

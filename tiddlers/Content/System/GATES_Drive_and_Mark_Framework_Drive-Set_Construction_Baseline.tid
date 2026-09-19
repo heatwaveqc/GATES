@@ -1,0 +1,41 @@
+title: GATES Drive and Mark Framework — Drive-Set Construction Baseline
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 10523
+source-end-index: 12609
+gates-order: 0020
+gates-component: yes
+caption: Drive-Set Construction Baseline
+rule: drive-set-construction-baseline
+
+Drives are behavior-control tools. The GM and source designer may deliberately make a Drive broad, narrow, easy, difficult, frequent, rare, overlapping, or highly rewarding in practice.
+
+GATES does not impose a universal balance target for Drive breadth, difficulty, frequency, or expected Mark yield.
+
+The relevant design question is what behavior the Drive rewards and how strongly the GM wants the campaign to encourage that behavior.
+
+Every required five-Drive set must still meet the following minimum baseline:
+
+Each Drive is understandable and can be assessed at the end of a session.
+
+Each Drive describes something a character can do, pursue, choose, protect, create, investigate, or express during play.
+
+A Drive should be primarily player- or character-initiated: the character must be able to choose behavior that advances it without requiring the GM to introduce a source-specific trigger.
+
+Generic adventuring situations such as conflict, combat, danger, discovery, exploration, social interaction, and problems to solve may be assumed. Source-specific recognition or validation may not; a Drive should not require outsiders to know or react appropriately to the character's species, religion, culture, faction, reputation, or other identity unless the campaign guarantees that context.
+
+The list order reflects centrality: the most identity-defining Drives appear first.
+
+Any overlap or redundancy is intentional rather than accidental.
+
+A Drive states an incentive, not a compulsory rule or automatic moral judgment.
+
+Mechanical requirements, access permissions, Oaths, and penalties are documented separately from the Drive text.
+
+A Drive must be fulfillable through play without spending character points. It may reward the use of traits or abilities the character already possesses, but fulfillment cannot require buying a new trait, purchasing an upgrade, or otherwise spending character points. For reusable source Drives, fulfillment also should not depend on an optional Tradition, Path, or other capability that is not guaranteed to every character eligible for that source.

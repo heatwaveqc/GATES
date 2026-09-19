@@ -1,0 +1,16 @@
+title: Mastery Standards — Skill-Cap Exception
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Mastery Standards
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 67069
+source-end-index: 67669
+gates-order: 0005
+gates-component: yes
+caption: Skill-Cap Exception
+
+Explicit skill-cap exception. If a Tradition explicitly caps a required Mastery skill below the normal central or secondary threshold as a direct function of its required governing-trait ratings, including Magery or Power Investiture where applicable, Mastery requires that skill at the effective written cap produced by those required ratings rather than at an impossible higher value. This exception applies only to an actual written skill ceiling, such as capped Draconic or Wyld magic; a low current skill, ordinary prerequisite, or optional self-limitation does not reduce the Mastery threshold.

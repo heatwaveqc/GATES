@@ -1,0 +1,17 @@
+title: Eldritch Gifts — Domain Core
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 1280
+source-end-index: 2200
+gates-order: 0000
+gates-component: yes
+caption: Domain Core
+domain-rule: domain-core
+
+The Eldritch Core is the alien pattern carried by the character. When a character enters Eldritch Gifts, define exactly four Revelations and four Gifts. These begin Latent. Latent Revelations and Gifts are possibilities the character has not yet permanently placed on the character sheet; Realized Revelations and Gifts are those that have become actual disadvantages or abilities on the sheet. The Core is bounded: through ordinary Eldritch Gifts progression, a character can reveal at most ten Revelations and ten Gifts in total. Whenever a Latent Revelation or Gift becomes Realized, if fewer than ten entries of that kind have been revealed, immediately reveal and define one new Latent entry of the same kind. Once the tenth Revelation or tenth Gift has been revealed, later Realization of that kind does not create another replacement. Realized entries remain part of the character's Core and are no longer Latent.

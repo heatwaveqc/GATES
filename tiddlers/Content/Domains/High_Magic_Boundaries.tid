@@ -1,0 +1,17 @@
+title: High Magic — Boundaries
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 36380
+source-end-index: 36989
+gates-order: 0036
+gates-component: yes
+caption: Boundaries
+tradition-component: boundaries
+
+A normal High Magic working uses exactly one Aspect, one Element, and one Animal. Additional complete sets are allowed only for genuinely distinct symbolic operations. A Forbidden effect remains impossible regardless of skill, margin of success, Insight, Mastery, or additional sets. Declared parameter maxima are hard caps even when the resulting margin would allow more. Range in Time permits sensory effects and future triggers only; High Magic cannot perform time travel. Rolled attacks and constructs use ordinary attack, defense, and DR procedures unless the effect independently qualifies as Resisted.

@@ -1,0 +1,19 @@
+title: Eldritch Gifts — Class Path
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 16847
+source-end-index: 17447
+gates-order: 0014
+gates-component: yes
+caption: Class Path
+domain-rule: class-path
+
+An Eldritch Gifts Class selects four Tier 2 Traditions and two Tier 3 Traditions. As a Hybrid Class, its Tradition unlocks must include at least one Psi Tradition and at least one Super Tradition at each Tier where the Class grants multiple Tradition unlocks. Beyond that minimum representation, the distribution is unrestricted; the four Tier 2 selections may therefore be 1/3, 2/2, or 3/1 between Psi and Super, while the two Tier 3 selections remain one of each.
+
+Class selection counts do not define the Domain roster. The active target remains eight Tier 2 Traditions and seven Tier 3 Traditions.

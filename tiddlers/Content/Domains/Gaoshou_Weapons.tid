@@ -1,0 +1,23 @@
+title: Gaoshou — Weapons
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Gaoshou
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.6l21kqrp54lg
+source-start-index: 15974
+source-end-index: 16857
+gates-order: 0018
+gates-component: yes
+caption: Weapons
+tradition-component: weapons
+
+The Style defines its Style Weapons and fixes one construction:
+
+Weapon Discipline: Permits Weapon Master for the exact Style Weapon list at full cost, Signature Gear, up to two levels of weapon-limited Extra Attack, Telekinesis (Manufactured Muscle-Powered Weapons Only), and armor-limited DR. Extra Attack requires Multi-Strike. Armor-limited DR functions only in Style Armor and cannot exceed that armor's actual DR. No Striking ST or Follow-Up.
+
+Conjured Weapon: Permits Strength-Based Innate Attacks reproducing Style Weapons and using their normal weapon skills, plus DR with Can't Wear Armor. This DR may reach twice the normal Gaoshou DR cap and provides no protection while armor is worn. Conjured ranged weapons are limited to RoF 3. No Weapon Master.
+
+Weapon Master never receives Shido discounts. Selecting Weapons does not make an otherwise unarmed Style an Armsman Style.

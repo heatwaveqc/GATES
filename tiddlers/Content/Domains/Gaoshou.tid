@@ -1,0 +1,19 @@
+title: Gaoshou
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition
+gates-parent: Kung Fu
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+gates-index: yes
+gates-description: Gaoshou turns a complete mundane martial art into a supernatural discipline built from practiced technique, internal development, personal codes, and embodied mastery. Styles may be unarmed, armed, or mixed. Each Style is an institutional instance: learning a school gives its fixed Style, while Class access may create one original legal Style.
+gates-inherits: [[Wuxia Engine]] [[Kung Fu — Core Shido]] [[Kung Fu — Accelerated Training]] [[Kung Fu — Learning Rate]] [[Kung Fu — Training Balance]] [[Kung Fu — Training Traits]] [[Martial Mastery Baseline]]
+gates-engine: Wuxia
+gates-tier: 2
+gates-origin: Martial
+gates-instancing: institutional
+
+Gaoshou turns a complete mundane martial art into a supernatural discipline built from practiced technique, internal development, personal codes, and embodied mastery. Styles may be unarmed, armed, or mixed. Each Style is an institutional instance: learning a school gives its fixed Style, while Class access may create one original legal Style.
+
+{{||$:/GATES/Assembly}}

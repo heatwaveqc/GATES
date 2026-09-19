@@ -1,0 +1,43 @@
+title: Hybrid Tradition Rules — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Hybrid Tradition Rules
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 300235
+source-end-index: 302703
+gates-order: 0000
+gates-component: yes
+caption: Overview
+rule: overview
+
+A Hybrid Tradition combines mechanics from one Engine of each Origin of a Hybrid Domain. Hybrid Traditions are either Full Hybrid or Partial Hybrid. A Full Hybrid Tradition contains the complete functional chassis of both contributing Engines: all mandatory mechanics, progression, costs, limits, Tradition Paths, and Mastery requirements of each Engine apply, in addition to explicit rules for how the two Engines interact. Its Mastery burden is cumulative. Identical requirements shared by both Engines need only be satisfied once, but distinct investments, demonstrations, progression requirements, and other burdens from both Engines remain required; one event may satisfy more than one requirement only when it independently fulfills each. At any Tier used for Class-path selection, a Full Hybrid Tradition counts as two selection-equivalents at that Tier. Thus a Full Hybrid Tier 2 fills two Tier 2 Class slots and, once mastered, counts as two mastered Tier 2 selection-equivalents for Tier 3 qualification; a Full Hybrid Tier 3 fills two Tier 3 Class slots. A Partial Hybrid Tradition uses one complete Engine plus explicitly named qualities from the other Engine, or otherwise omits part of one contributing Engine. A Partial Hybrid or single-Origin Tradition counts as one selection at its Tier, and a mastered Partial Hybrid Tier 2 counts as one mastered Tier 2 selection-equivalent.
+
+It must state:
+
+For each component, state whether the Tradition uses the complete Tradition Engine or only a named subset. A Tradition may be labeled Full Hybrid only when both components use their complete Engines.
+
+Origin and Engine of each component.
+
+Which governing Talents and Mastery Advantages apply.
+
+Which resource pays for each component.
+
+Whether the components activate separately or together.
+
+Which cap governs a combined effect.
+
+What counts toward Mastery.
+
+Whether abilities from the two Engines may be freely mixed.
+
+A combined label is not sufficient by itself.
+
+Inspired/Weapons Expert means a complete Inspired spell engine plus a complete Weapons Expert engine, followed by explicit rules for using spells through, on, or with the chosen weapons.
+
+Huntsman (Knacky/Weapons Expert) uses Knacky as its primary power engine and borrows only the named Weapons Expert permissions stated on the Tradition page. It does not gain the rest of the Weapons Expert engine by implication.
+
+A Tech Tradition must identify the Origin and Engine underneath the technology.

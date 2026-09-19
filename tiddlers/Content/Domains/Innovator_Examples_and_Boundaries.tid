@@ -1,0 +1,23 @@
+title: Innovator — Examples and Boundaries
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Innovator
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.nxqbpf88h8nd
+source-start-index: 7292
+source-end-index: 9118
+gates-order: 0007
+gates-component: yes
+caption: Examples and Boundaries
+tradition-component: examples-and-boundaries
+
+Enhanced Spell Example: Suppose Adjustable Spells permits a particular Enhancement on a spell the Innovator knows. The Innovator may learn that spell-and-Enhancement combination as a technique, pay the normal enhancement energy and other casting consequences, and formalize that exact combination as a separate teachable spell. Formalizing the variant does not invent a new underlying magical function and does not waive any restriction Adjustable Spells places on the Enhancement.
+
+Spellwright Example: An Innovator working on a new Occult spell scores a natural critical success during the project and gains Project Insight. They may save that Project Insight for a later invention or prototyping roll, or spend it after successful prototyping to clean an actual hidden bug. Project Insight from that project cannot be carried over to a different invention.
+
+Metamagician Example: An Innovator who has fully bought off an allowed Enhancement technique for one spell may buy the corresponding Metamagic Principle. Thereafter, they may use that Enhancement up to the purchased level on other spells where Adjustable Spells permits it, without separately buying off the technique for each spell. The Principle does not make an Enhancement legal for a spell that could not normally take it.
+
+Reconstructor Example and Boundary: After successfully analyzing a discrete Occult ability, a Reconstructor may learn the specific observed effect as a technique of an appropriate Reconstructed College. Reconstructing a fire blast reproduces that fixed fire blast; it does not grant the source Power Talent, a Realm, a Word, a menu of related attacks, or the source Tradition's invention, Mastery, character-point generation, or other progression rules. Reconstructed Colleges contain only effects the Innovator has actually reconstructed.

@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Active Source
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 2728
+source-end-index: 2985
+gates-order: 0007
+gates-component: yes
+caption: Active Source
+rule: active-source
+
+The source currently selected to contribute Drives where a character has more than one eligible option. Possessing, knowing, or having belonged to several possible sources does not make all of them active unless the campaign permits multiple active sources.

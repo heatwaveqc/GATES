@@ -1,0 +1,17 @@
+title: High Magic — Example 2 — Resisted Direct Effect
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 33865
+source-end-index: 34604
+gates-order: 0033
+gates-component: yes
+caption: Example 2 — Resisted Direct Effect
+tradition-component: example-2-resisted-direct-effect
+
+Orin uses Yin-Water-Snake to impose unnatural calm and passivity on a hostile guard. Before rolling, he declares maxima for the parameters he cares about, avoiding Yin's penalty for leaving those maxima undeclared. Base energy is 0 + 2 + 2 = 4 FP and base casting time is 1 + 0 + 1 = 2 seconds. His final margins are 9 for Yin, 5 for Water, and 7 for Snake, so the working's margin is 5. Read the effect's legal parameters from margin 5, never exceeding the declared maxima. Because this directly alters the target's mind, it is Resisted. Use the lowest-margin required Word roll as the caster's side of the normal syntactic resistance contest. Parameter multipliers such as Yang Master's doubled margin never improve this resistance roll.

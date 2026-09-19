@@ -1,0 +1,43 @@
+title: Psi Talented Engine — Shared Psi purchase bands
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Psi Talented Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 141277
+source-end-index: 141905
+gates-order: 0001
+gates-component: yes
+caption: Shared Psi purchase bands
+engine-rule: shared-psi-purchase-bands
+
+Basic
+
+No Innate Attack, Affliction, or Binding.
+
+Buffs require at least -60% in limitations.
+
+Other abilities require at least -30%.
+
+An ability with a base cost above 25 may not be purchased above one level. No trait with a base cost above 75 is legal; a trait with a base cost exactly 75 must meet the -60% limitation requirement.
+
+Advanced
+
+Attacks are permitted.
+
+Traits normally require at least -20%.
+
+Traits over 75 base points normally require at least -40%.
+
+No trait with base cost over 100.
+
+Master
+
+Any appropriate trait may be purchased.
+
+Only the Origin modifier is universally required.
+
+SPAA Enhanced becomes available.

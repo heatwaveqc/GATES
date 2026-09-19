@@ -1,0 +1,19 @@
+title: Shadow Arts — Hundred Schools
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 9509
+source-end-index: 10602
+gates-order: 0009
+gates-component: yes
+caption: Hundred Schools
+tradition-component: hundred-schools
+
+The practitioner may begin learning an additional institutional Jutsu tree whenever they gain legitimate access to that tree, without first mastering any earlier Jutsu tree. This explicitly overrides the universal sequential-tree Mastery requirement and applies to every Jutsu Tradition the character can legally enter. It does not create access by itself: each new tree still requires Class-granted access or legitimate instruction into that institutional instance.
+
+After the practitioner has learned at least three Jutsu from a particular tree, they have absorbed enough of that lineage's underlying curriculum to continue without a living instructor. From that point onward, they may self-teach any non-Secret-Master Jutsu in that same institutional tree once they know that Jutsu exists, provided they satisfy every prerequisite, Potence requirement, character-point cost, and other purchase condition. This permission does not reveal unknown Jutsu, does not permit authorship or alteration of the tree, and does not bypass the Shadow Arts Mastery requirement for Secret Master Techniques.

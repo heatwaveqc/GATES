@@ -1,0 +1,24 @@
+title: Supernatural Power Abundance — Bane Bridge
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Supernatural Power Abundance
+source-drive-id: 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc
+source-drive-title: Supernatural Power Abundance (SPA)
+source-tab-id: t.0
+source-start-index: 6386
+source-end-index: 8479
+gates-order: 0015
+gates-component: yes
+caption: Bane Bridge
+
+Vulnerability normally applies after DR, per the ordinary GURPS rule. To preserve meaningful supernatural banes at high SPAA without double-dipping, use the following Bane Bridge rule.
+
+SPA Bane Bridge: If a target’s HP are positively SPA-scaled and an attack triggers one of that target’s Vulnerabilities, determine the attack’s damage and all applicable DR normally. If the penetrating damaging component has not already received positive SPA scaling, multiply that penetrating damage by the current SPAA exactly once, then apply the target’s Vulnerability and ordinary GURPS wounding modifiers. If that damaging component has already received positive SPA scaling, do not multiply it again. An attack completely stopped by DR has no penetrating damage to bridge. Vulnerability does not itself bypass DR.
+
+Resolve these effects in this order: attack damage → applicable DR → Bane Bridge, if needed → Vulnerability → ordinary wounding modifiers.
+
+This means a qualifying magical or innate attack that already scales with SPAA simply uses Vulnerability normally. A muscle-powered bane attack from an attacker whose ST already scales with SPAA also uses Vulnerability normally. A mundane-ST silver sword or mundane silver projectile that penetrates DR receives the Bane Bridge because the damaging component has not otherwise scaled. Technological scale is not positive SPA scaling; a technologically powerful silver projectile may still receive the Bane Bridge if it triggers the Vulnerability and has not already received positive SPA scaling from another source.
+
+Armor remains meaningful. Mundane armor subtracts from damage before the Bane Bridge, so each point of mundane DR continues to reduce the final relative injury by the same amount at high SPAA that it would at SPAA 1. SPA-scaled armor can stop an otherwise mundane bane attack completely; Vulnerability is not an automatic armor bypass. If a supernatural creature’s innate SPA-scaled DR is specifically inapplicable to its bane, omit that DR normally and then apply the Bane Bridge to whatever penetrates the remaining defenses.

@@ -1,0 +1,23 @@
+title: Eldritch Gifts — Basic Origin Benefits
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 2223
+source-end-index: 3214
+gates-order: 0001
+gates-component: yes
+caption: Basic Origin Benefits
+domain-rule: basic-origin-benefits
+
+Eldritch Gifts is a hybrid Psi/Super Domain and grants the following baseline Origin-facing purchase permissions in addition to its Tradition-specific rules.
+
+Basic Psionics: The character may purchase Basic/secondary Psi Power Talents and abilities under the shared Psi Origin rules. Secondary Psi Power Talents are normally capped at 2, and the character may normally maintain up to Will/5 such Talents. These Talents grant Basic access unless a Tradition explicitly grants broader access or changes either cap.
+
+Super Attributes: The character may purchase ST, DX, IQ, and HT up to the character's natural Species cap +20% for that attribute. Attribute levels above 20 may use Super Attribute, +25%, from GURPS Supers to increase defaults beyond the Rule of 20. These are cap increases and purchase permissions, not free attribute levels.
+
+Unless a more specific Tradition says otherwise, non-Talent traits purchased through these permissions follow the Eldritch Gifts Universal Origin Rule.

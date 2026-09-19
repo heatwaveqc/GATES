@@ -1,0 +1,19 @@
+title: Low Magic
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition
+gates-parent: Foundational
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+gates-index: yes
+gates-description: Low Mages are the tinkerers and street magicians of the arcane world — hedge wizards, sorcerer’s apprentices who never graduated, village witches with a few battered grimoires. Their magic is dismissed as “low” by Wizards and High Mages, but that reputation is deceptive. What Low Mages lack in prestige and structure, they make up for with raw creativity: they push too much energy through spells, stretch effects beyond their safe parameters, and make do with what they have. Low Magic isn’t elegant, but it works — and sometimes it surprises even its practitioners.
+gates-inherits: [[Regular Engine]] [[Foundational — Domain Core Mechanic: Insight]] [[Foundational — Critical Failures and Casting Resources]]
+gates-engine: Regular
+gates-tier: 2
+gates-origin: Occult
+gates-instancing: non-instanced
+
+Low Mages are the tinkerers and street magicians of the arcane world — hedge wizards, sorcerer’s apprentices who never graduated, village witches with a few battered grimoires. Their magic is dismissed as “low” by Wizards and High Mages, but that reputation is deceptive. What Low Mages lack in prestige and structure, they make up for with raw creativity: they push too much energy through spells, stretch effects beyond their safe parameters, and make do with what they have. Low Magic isn’t elegant, but it works — and sometimes it surprises even its practitioners.
+
+{{||$:/GATES/Assembly}}

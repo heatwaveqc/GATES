@@ -1,0 +1,19 @@
+title: Word Engine — Lexicon and Grammar
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 109277
+source-end-index: 109953
+gates-order: 0007
+gates-component: yes
+caption: Lexicon and Grammar
+engine-rule: lexicon-and-grammar
+
+Every Word system must objectively determine which elements exist and how they combine. The Tradition may publish a closed lexicon, define a bounded discovery procedure, or combine a stable core vocabulary with explicitly governed invention.
+
+The grammar must answer which categories may occupy each role, how many elements are required or permitted, whether order matters, whether elements may repeat, how modifiers attach, how negation or inversion works, how multiple subjects or actions are expressed, and what makes an expression invalid or ambiguous. The GM may adjudicate genuinely novel meanings, but ordinary grammar cannot depend on inventing a new rule during play.

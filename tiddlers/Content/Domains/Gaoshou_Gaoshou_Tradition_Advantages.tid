@@ -1,0 +1,27 @@
+title: Gaoshou — Gaoshou Tradition Advantages
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Gaoshou
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.6l21kqrp54lg
+source-start-index: 19829
+source-end-index: 21186
+gates-order: 0021
+gates-component: yes
+caption: Gaoshou Tradition Advantages
+tradition-component: gaoshou-tradition-advantages
+
+Aura of Badass — Code of Honor (Xia) Shido; Cultivation; HT is an Affinity Attribute. DR (Force Field +20%; Can't Wear Armor -40%) [4/level].
+
+Silent Blade Strike — Unseen Hand; Knife; Fast-Draw (Knife). Silence (Dynamic +40%) [7/level]; Obscure (Hearing; Stealthy +100%) [4/level], optionally Defensive +50% [5/level].
+
+Obsidian Finger — ST is an Affinity Attribute; Knife; Invisibility Art. Claws (Talons) [8]; may add Armor Divisor (2) and No Signature to Talon attacks under Modifying ST-Based Damage.
+
+Cowboy Quiver [1] — Weapons (Weapon Discipline); Bow; DX is an Affinity Attribute. Style bow has Infinite Ammunition for ordinary mundane arrows; special ammunition remains tracked and no saleable stockpile is created.
+
+Crane's Grace [20] — Transformation; Karate; IQ is an Affinity Attribute. Each successful parry against a genuinely injurious attack restores 1 FP. Safe or staged attacks do not qualify.
+
+Phoenix Fortitude Maneuver [20] — Transformation; Breath Control; HT is an Affinity Attribute. Start turn: spend 5 FP, choose Burn up to basic HP, and All-Out Attack. Delay HT rolls caused by fatigue, death, or unconsciousness until next turn. If hostile injury during the interval is at least Burn, heal up to 2 × Burn of that injury; otherwise heal none and suffer Burn minus hostile injury as additional injury, then resolve delayed HT rolls.

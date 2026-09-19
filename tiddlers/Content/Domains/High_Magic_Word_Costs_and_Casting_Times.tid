@@ -1,0 +1,38 @@
+title: High Magic — Word Costs and Casting Times
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 15047
+source-end-index: 15347
+gates-order: 0012
+gates-component: yes
+caption: Word Costs and Casting Times
+tradition-component: word-costs-and-casting-times
+
+| Word | Cost | Time |
+| --- | --- | --- |
+| Yin | 0 | 1 |
+| Yang | 0 | 0 |
+| Metal | 3 | 1 |
+| Wood | 2 | 0 |
+| Earth | 3 | 1 |
+| Water | 2 | 0 |
+| Fire | 3 | -1 |
+| Ferret | 2 | 1 |
+| Ox | 2 | 3 |
+| Tiger | 2 | 2 |
+| Rabbit/Cat | 2 | 1 |
+| Dragon | 2 | 2 |
+| Snake | 2 | 1 |
+| Horse | 2 | 3 |
+| Alicorn | 2 | 3 |
+| Monkey | 2 | 2* |
+| Phoenix | 2 | 3 |
+| Wolf | 2 | 3 |
+| Boar | 2 | 2 |
+| Crane | 2 | 2 |

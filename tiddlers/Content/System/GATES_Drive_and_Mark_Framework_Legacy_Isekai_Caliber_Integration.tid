@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Legacy Isekai Caliber Integration
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 14078
+source-end-index: 14343
+gates-order: 0025
+gates-component: yes
+caption: Legacy Isekai Caliber Integration
+rule: legacy-isekai-caliber-integration
+
+In an Isekai campaign that still uses Caliber, Prestiging resets Caliber advancement except for one chosen Prestige World. The retained value is a campaign-sheet field, not a rule of the forward GATES framework. New GATES campaigns should not assume Caliber exists.

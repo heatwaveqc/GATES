@@ -1,0 +1,14 @@
+title: Regular Engine
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: System
+gates-kind: engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+gates-index: yes
+gates-description: Shared Regular rules and requirements.
+gates-inherits: [[Mastery Standards]]
+
+Shared Regular rules and requirements.
+
+{{||$:/GATES/Assembly}}

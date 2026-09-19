@@ -1,0 +1,31 @@
+title: Foundational — Domain Core Mechanic: Insight
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Foundational
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.0
+source-start-index: 536
+source-end-index: 2006
+gates-order: 0000
+gates-component: yes
+caption: Domain Core Mechanic: Insight
+domain-rule: domain-core-mechanic-insight
+
+Foundational magic rewards extraordinary skill with brief flashes of understanding that can immediately be turned into greater magical performance.
+
+Whenever a Foundational Mage naturally critically succeeds on a roll to cast a spell or create a magical effect, they gain 1 Insight. Luck, rerolls, or abilities that turn an ordinary success into a critical success do not generate Insight. Each qualifying natural critical success generates its own Insight.
+
+A Foundational Mage can hold a maximum number of Insight equal to their Magery. Each point of Insight expires one minute after it is gained.
+
+Before resolving a Foundational spell or magical effect, the mage may spend 1 Insight to choose one of the following benefits. By default, no more than 1 Insight may be spent on a single spell or effect:
+
+Precision: Increase effective skill by 5 for that spell or effect.
+
+Efficiency: Reduce its energy cost by 5, to a minimum of 0.
+
+Breakthrough: Increase its critical-success threshold by 1, but only if the mage's effective skill would otherwise support that threshold under the Extended Critical Success rules.
+
+An Insight benefit applies exactly once to the spell or effect for which it was spent. It does not apply to maintenance, later activations, the Power of an enchanted object, or other continuing consequences unless a specific Tradition rule says otherwise. A spell or effect on which any Insight was spent cannot generate Insight from that same spell or effect.

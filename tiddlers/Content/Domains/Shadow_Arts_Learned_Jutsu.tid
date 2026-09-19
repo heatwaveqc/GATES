@@ -1,0 +1,21 @@
+title: Shadow Arts — Learned Jutsu
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 2283
+source-end-index: 3504
+gates-order: 0005
+gates-component: yes
+caption: Learned Jutsu
+tradition-component: learned-jutsu
+
+A practitioner who has legal access to a Shadow Arts instance may learn its authored Jutsu under the universal Jutsu Engine. The Jutsu's Tier 2 CP cost is based on its Final Jutsu Penalty after prerequisite discounts, using the normal Hard-technique pricing rule. Learning a Jutsu does not require Kung Fu Jutsu.
+
+Once a Shadow Art is learned, its use requires no Jutsu Anchor roll. The practitioner still pays all written FP costs and obeys the Jutsu's maneuvers, attack rolls, active defenses, resistance rolls, targeting, duration, and other written rules. Removing the Anchor roll does not remove those ordinary resolution rolls.
+
+A Shadow Doyen who also has legal access to the relevant Shadow Arts instance does not pay twice for the same Jutsu. Fully buying off the authored Jutsu as a Hard technique counts as purchasing that Jutsu through Shadow Arts once every prerequisite Jutsu has likewise been purchased or fully bought off. The resulting fixed Jutsu may then be used without a Kung Fu Jutsu roll. A Doyen without Shadow Arts access still rolls Kung Fu Jutsu even for a fully bought-off authored technique, and improvising a new technique or changing the authored construction always requires Kung Fu Jutsu.

@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Prestige Reset Value
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 3952
+source-end-index: 4104
+gates-order: 0013
+gates-component: yes
+caption: Prestige Reset Value
+rule: prestige-reset-value
+
+The campaign's character-point value immediately after a character Prestiges. It may equal Starting Character Value but is a separate campaign decision.

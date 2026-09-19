@@ -1,0 +1,17 @@
+title: Shadow Arts — Tradition Paths
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 7972
+source-end-index: 8326
+gates-order: 0007
+gates-component: yes
+caption: Tradition Paths
+tradition-component: tradition-paths
+
+When a character first gains Shadow Arts, choose one Shadow Arts Path. The choice costs no character points, is mutually exclusive, and cannot be retrained, abandoned, or combined through ordinary advancement. A Path applies to every legal Jutsu the character uses when its text says so, not merely to Jutsu from the character's current Shadow Arts tree.

@@ -1,0 +1,27 @@
+title: Regular Engine — Universal engine
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Regular Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 84178
+source-end-index: 85134
+gates-order: 0001
+gates-component: yes
+caption: Universal engine
+engine-rule: universal-engine
+
+Every spell is an individual skill.
+
+The character must know all prerequisites before learning a spell normally.
+
+A Class may bypass the instructor and Domain-entry requirements, but does not grant unknown prerequisite spells for free.
+
+Class Tradition access: When a Regular Tradition is selected as a Class Tradition, the character may learn without an instructor any spell accessible through that Tradition that has both a prerequisite count of 1 or less and a Magery or Power Investiture requirement of 1 or less. This does not expand the Tradition’s legal spell scope, grant prerequisite spells for free, or waive ordinary character-point costs, casting rules, energy costs, or failure rules. An individual Tradition may explicitly narrow, broaden, replace, or otherwise alter this Class Tradition access rule.
+
+The Tradition defines which colleges or spells are legal.
+
+Casting otherwise uses normal spell rules plus the Domain’s energy and failure rules.

@@ -1,0 +1,39 @@
+title: GATES Drive and Mark Framework — Voluntary Source and Secondary-Choice Changes
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 8249
+source-end-index: 9621
+gates-order: 0018
+gates-component: yes
+caption: Voluntary Source and Secondary-Choice Changes
+rule: voluntary-source-and-secondary-choice-changes
+
+The campaign determines which sources and Secondary Choices may be changed, the requirements for doing so, and whether a narrative event is also required.
+
+The established Isekai precedent is that a character must earn 20 Marks in one Drive associated with the current source or Secondary Choice before changing it. This is an example campaign rule, not a universal threshold.
+
+Changes normally occur between sessions. First award Marks using the sources and Secondary Choices active during the completed session; then record the change.
+
+When an entire source changes:
+
+Remove that source's active Drives.
+
+Move all Marks belonging to those Drives into Old Marks.
+
+Add the new source's active Drives in their canonical order.
+
+Begin the new source's Drives at zero Marks.
+
+When only a Secondary Choice changes, archive the Marks attached to the affected Drive entry or entries; unrelated Drives remain active with their existing Marks.
+
+A change never removes character points already earned.
+
+Old Marks do not count toward the new source's or Secondary Choice's change requirement.
+
+A universal Old Marks total is sufficient when Mark Value never changes. If Mark Value can change, the sheet must also preserve the character points earned from archived Marks or archive the Marks by source and Mark Value. Raw Old Marks multiplied by the current Mark Value is not valid accounting.

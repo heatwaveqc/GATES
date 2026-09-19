@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Secondary Choice
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 3004
+source-end-index: 3200
+gates-order: 0008
+gates-component: yes
+caption: Secondary Choice
+rule: secondary-choice
+
+An additional named context attached to a Drive when the Drive requires one. Class and Ethical Lens are established examples. A Secondary Choice does not automatically supply a complete Drive set.

@@ -1,0 +1,21 @@
+title: High Magic — Yang Master
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 18942
+source-end-index: 19460
+gates-order: 0022
+gates-component: yes
+caption: Yang Master
+tradition-component: yang-master
+
+Cost: 50 points
+
+Requirements: Magery 1, Thaumatology 15
+
+You are a master of the hot, bright aspects of High Magic. When casting using Yang, double your margin of success for calculating High Magic parameters. This does not affect resistance rolls. You no longer suffer penalties to your casting roll using Yin when leaving caps unspecified. You reduce the casting time of all High Magic by two seconds. You also lose the need, and ability, to sleep. You may not purchase Yin Master until you have mastered High Magic.

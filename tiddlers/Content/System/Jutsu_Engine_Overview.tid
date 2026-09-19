@@ -1,0 +1,21 @@
+title: Jutsu Engine — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Jutsu Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 215653
+source-end-index: 216682
+gates-order: 0000
+gates-component: yes
+caption: Overview
+engine-rule: overview
+
+Status: Consolidated. Tier 2.
+
+Jutsu is the Martial Engine for learning and using a fixed, authored tree of discrete supernatural or cinematic abilities. A Jutsu is a custom rules object produced by the corresponding Jutsu Author design procedure. Once authored, a Tier 2 practitioner purchases it with character points and activates it reliably according to its own written rules. Jutsu do not use standard GURPS advantage construction or pricing, and they are not cast through a Core Skill or Realm skills.
+
+External-Fiction Conversion. When converting an existing fictional martial style, named technique corpus, or comparable source into a new Jutsu tree, use GATES Jutsu Tree Conversion Procedure. That procedure governs source locking, conservative functional translation, parameter mapping, prerequisite inference, stable tree order, Potence calculation, pricing, fidelity boundaries, and validation. It does not override the Jutsu Engine, governing Domain, receiving Tradition, Jutsu Author Tradition, or direct GM rulings.

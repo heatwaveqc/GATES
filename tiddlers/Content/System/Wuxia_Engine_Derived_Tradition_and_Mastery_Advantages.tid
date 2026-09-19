@@ -1,0 +1,29 @@
+title: Wuxia Engine — Derived Tradition and Mastery Advantages
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Wuxia Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 233280
+source-end-index: 237206
+gates-order: 0003
+gates-component: yes
+caption: Derived Tradition and Mastery Advantages
+engine-rule: derived-tradition-and-mastery-advantages
+
+Wuxia Styles do not independently author bespoke Tradition Advantages or Mastery Advantages. When a Wuxia Tradition offers such abilities, the Tradition defines closed catalogs available to every legal Style that qualifies from its fixed construction. A Style does not record qualifying catalog entries as separate authored instance fields; eligibility is derived from the Style's existing fixed fields.
+
+Each catalog entry lists one to three prerequisites. A prerequisite may be only: one Style Shido; one selected Supernatural Unlock family or fixed option within that family; one Affinity Attribute legal for that Wuxia Tradition; or one skill or technique contained in the Style's legal mundane source curriculum. All prerequisites for one entry must come from the same Style. Elements from different Style instances may not be combined to qualify.
+
+A Shido prerequisite means that Shido is part of the Style's fixed Shido package; the Duan Wei order in which the practitioner personally gains those Shido does not change structural eligibility. A skill or technique prerequisite means it is already part of the legal mundane source Style; a Style may not add a new skill or technique merely to qualify. A Supernatural Unlock prerequisite does not open the family early. Structural qualification for a Tradition Advantage may exist before Duan Wei 4, but purchase permission does not open until Duan Wei 4; after that point, an entry depending on a Supernatural Unlock family can be purchased only after that family has actually opened. A Mastery Advantage remains unavailable until Mastery of the qualifying Style.
+
+Derived-advantage prerequisites may not force a Style to add, invent, or alter a Shido, Affinity, skill, technique, Supernatural Unlock family, or family option solely to qualify for an advantage. Class-created Styles and instructed institutional Styles use the same catalogs and qualification procedure.
+
+Qualifying for an entry grants purchase permission only. It grants no free trait or character points and waives no normal cost, cap, modifier, prerequisite, Tier restriction, or operating rule. Every catalog entry must provide either a complete GURPS construction with point cost, caps, activation or passive operation, and all other rules necessary for ordinary use, or a complete Cinematic Skill Expansion under the fixed-price rule below, before the Wuxia Tradition can be Mechanically Complete.
+
+Cinematic Skill Expansions [20]: A Tradition Advantage or Mastery Advantage may define a new, bounded use of an existing martial skill, cinematic skill, or cinematic technique instead of being constructed from an ordinary GURPS advantage. A Cinematic Skill Expansion costs 20 character points unless its entry explicitly states otherwise, cannot take enhancements or limitations, and never receives Shido discounts. Its entry must identify the underlying skill or technique and completely define the added action or use, target, roll, resistance if any, duration if any, limits, failure or interruption conditions, and important interactions. This is deliberate permission for Wuxia training to expand what cinematic martial skills can actually accomplish; it is not permission to leave an ability mechanically undefined.
+
+Repeated-Parry Training: Any Wuxia Style may permit Enhanced Parry (Repeated Parries Only, -40%) [3/level], specialized for Bare Hands or one Melee Weapon skill that is part of that Style. These levels never improve the first parry made with that defense in a turn and can never raise a later parry above that defense's ordinary unpenalized Parry score. They apply only to offset the cumulative penalty for repeated parries made with that same defense during the turn. Use the Wuxia Tradition's normal leveled-trait caps. This is an advantage construction, not a technique, and does not remove or replace the normal Trained by a Master or Weapon Master rules for repeated parries.

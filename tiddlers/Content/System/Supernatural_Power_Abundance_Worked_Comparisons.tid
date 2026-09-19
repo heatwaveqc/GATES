@@ -1,0 +1,26 @@
+title: Supernatural Power Abundance — Worked Comparisons
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Supernatural Power Abundance
+source-drive-id: 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc
+source-drive-title: Supernatural Power Abundance (SPA)
+source-tab-id: t.0
+source-start-index: 8481
+source-end-index: 10087
+gates-order: 0020
+gates-component: yes
+caption: Worked Comparisons
+
+Benchmark: assume a target with 100 base HP, an attack doing 20 basic damage, Vulnerability ×2, and compare SPAA 1 with SPAA 100. Ignore ordinary cutting, impaling, or piercing wounding modifiers for this benchmark so only SPA behavior is visible.
+
+No DR: a SPA-scaled attack inflicts 40% of HP at SPAA 1 and 40% at SPAA 100. A mundane bane attack also inflicts 40% at SPAA 1 and, after the Bane Bridge, 40% at SPAA 100.
+
+Applicable innate DR 10 that scales with SPA: a SPA-scaled attack inflicts 20% of HP at SPAA 1 and 20% at SPAA 100. A mundane bane inflicts 20% at SPAA 1 but 0% at SPAA 100 because the SPA-scaled DR stops it before a Bane Bridge can occur.
+
+Innate DR bypassed, mundane worn DR 5: either a SPA-scaled attack or a mundane bane inflicts 30% of HP at SPAA 1. At SPAA 100, the SPA-scaled attack inflicts approximately 40% because the fixed mundane DR is negligible against the already-scaled attack, while the mundane bane still inflicts 30% because the mundane DR is subtracted before its Bane Bridge.
+
+Innate DR bypassed, SPA-scaled worn DR 5: either attack inflicts 30% of HP at SPAA 1. At SPAA 100, the SPA-scaled attack still inflicts 30%, while the mundane bane inflicts 0% because the SPA-scaled armor stops it before the bridge.
+
+Innate DR bypassed, mundane worn DR 5 plus SPA-scaled worn DR 5: either attack inflicts 20% of HP at SPAA 1. At SPAA 100, the SPA-scaled attack inflicts approximately 30% because only the SPA-scaled portion of the mixed armor remains proportionally significant, while the mundane bane inflicts 0% because the SPA-scaled DR layer stops it before the bridge.

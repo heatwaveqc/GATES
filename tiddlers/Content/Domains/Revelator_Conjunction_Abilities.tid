@@ -1,0 +1,29 @@
+title: Revelator — Conjunction Abilities
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Revelator
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.pa2zqov1g1be
+source-start-index: 1643
+source-end-index: 3487
+gates-order: 0003
+gates-component: yes
+caption: Conjunction Abilities
+tradition-component: conjunction-abilities
+
+Before Mastery, Revelator grants Advanced purchase access only to Conjunction Abilities.
+
+A Conjunction Ability is a fully point-paid GURPS construction whose operation genuinely requires at least one ability component governed by each Revelator Talent. Typical constructions include Linked abilities, Follow-Up, an Accessibility that mechanically makes one component depend on another, or another ordinary GURPS construction that enforces the interaction. Merely owning two abilities, activating two unrelated abilities at the same time, or describing one effect with both themes is not a conjunction.
+
+When a Conjunction Ability is designed, record every component, the Revelator Talent governing that component, the mechanical connection among the components, and why the finished effect requires both Revelator Powers.
+
+Every Psi component purchased through the pre-Mastery conjunction permission may use Advanced Psi construction rules. Define Conjunction Rating as the lower of the character's two purchased Revelator Talent levels. Use Conjunction Rating for Talent-based level, magnitude, and point-value caps that must govern the conjunction as a whole. A component with a more specific hard cap still obeys that cap.
+
+Each component otherwise uses its own governing Power Talent on rolls normally. If one roll resolves the conjunction as a whole and no single component clearly governs it, use Conjunction Rating as the Talent bonus. The Whole Truth Path changes this.
+
+All components are purchased and priced normally. Linked, Follow-Up, Alternative Ability, Accessibility, and other modifiers keep their ordinary values. Revelator grants no discount merely because several components form one conjunction.
+
+Before Mastery, Revelator does not grant ordinary Advanced purchase access to abilities belonging solely to either Revelator Power.

@@ -1,0 +1,31 @@
+title: Atavistic Engine — Every Atavistic Tradition defines
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 178267
+source-end-index: 179276
+gates-order: 0008
+gates-component: yes
+caption: Every Atavistic Tradition defines
+engine-rule: every-atavistic-tradition-defines
+
+- Its fixed Source and Instancing category, including every access-defining field stored in the instance.
+
+- The objective rule that determines the Source's closed intrinsic trait universe.
+
+- The translation or construction method used to determine legal purchases: published template, Source Profile, fixed catalog, objective category rule, acquisition procedure, or another complete method.
+
+- Every required trait or body-package requirement, optional purchase, access gate, and progression stage the Tradition actually uses.
+
+- Whether embodiment is permanent or uses an explicit access condition such as Alternate Form, Morph, armor, transformation, environment, or cycle.
+
+- Every cap, modifier, weakness, visibility rule, prerequisite, exclusion, and interaction needed to build legal Source traits.
+
+- Any explicit acquisition or expansion procedure and its triggers, inputs, caps, permanence, duplicate handling, and exclusions.
+
+- Objective Mastery requirements, demonstrations, and every Mastery benefit.

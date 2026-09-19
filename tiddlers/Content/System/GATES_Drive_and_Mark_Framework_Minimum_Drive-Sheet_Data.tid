@@ -1,0 +1,39 @@
+title: GATES Drive and Mark Framework — Minimum Drive-Sheet Data
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 16246
+source-end-index: 16871
+gates-order: 0027
+gates-component: yes
+caption: Minimum Drive-Sheet Data
+rule: minimum-drive-sheet-data
+
+Any standard GATES Drive sheet must be able to record:
+
+Campaign name and campaign settings.
+
+Source category and active source name.
+
+The canonical order of each active source's Drives.
+
+Any Secondary Choice attached to a Drive.
+
+Active Marks by Drive.
+
+Old Marks, universally or by archived source.
+
+Character points already earned from active and Old Marks.
+
+The Mark Value applied to each Mark or Mark batch whenever Mark Value can change.
+
+Starting Character Value and Prestige Reset Value when relevant.
+
+Prestige Count and other optional Prestige fields when used.
+
+Other character-point awards separately from Drive advancement.

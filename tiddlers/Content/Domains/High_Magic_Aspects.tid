@@ -1,0 +1,21 @@
+title: High Magic — Aspects
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 5908
+source-end-index: 6676
+gates-order: 0008
+gates-component: yes
+caption: Aspects
+tradition-component: aspects
+
+Both aspects are IQ/Very Hard skills with a base cost of 0.
+
+Yin: Passive, dark, female and cold, the yin aspect governs defensive magic, poison and magic that paralyzes or incapacitates. Its colors are what you would expect, with black, grey, blue, green, purple. Yin has a base time of 1. Effects using Yin suffer a -2 penalty per parameter whose maximum is not declared before casting.
+
+Yang: Active, bright, male and hot, the yang aspect governs offensive magic, illusion, and magic that evokes strong emotions or makes people “burn” with passion. Its colors are vibrant and lively, with Red, Yellow, Orange, Brown and White being predominant. Yang has a base time of 0.  Effects using Yang suffer a -2 penalty per parameter whose maximum is declared before casting.

@@ -1,0 +1,25 @@
+title: Regular Engine — Default Mastery shape
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Regular Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 85298
+source-end-index: 85665
+gates-order: 0003
+gates-component: yes
+caption: Default Mastery shape
+engine-rule: default-mastery-shape
+
+Regular Mastery has no minimum character-point investment requirement. A Regular Tradition should require:
+
+Several spells at effective skill 20+.
+
+Meaningful breadth across the Tradition’s allowed scope.
+
+Completion of multiple prerequisite chains.
+
+A Tradition-specific demonstration such as invention, enchantment, major casting, or creation of a formal spell record.

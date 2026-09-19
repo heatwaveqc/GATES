@@ -1,0 +1,27 @@
+title: Low Magic — Flourishes
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 2487
+source-end-index: 3146
+gates-order: 0004
+gates-component: yes
+caption: Flourishes
+tradition-component: flourishes
+
+1 extra die of damage
+
+1 extra target
+
+1 extra meter of radius (for area)
+
+Add one additional interval equal to the spell’s current base duration, after any extension from Durable Magic
+
+10 extra character points of traits given (for spells like Grace or Might)
+
+Flourishes can surpass normal damage limitations imposed by Magery or other constraints. Flourishes applied to Buff spells increase the potency of the Buff, but the resulting Buff remains subject to the normal caps and dissolution rules in GATES Do You Explode. Flourishes are non-persistent; each Flourish is unique to a given casting and cannot be repeated without a similarly strong casting result.

@@ -1,0 +1,17 @@
+title: Shadow Arts — Mastery Unlocks
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 12797
+source-end-index: 13042
+gates-order: 0012
+gates-component: yes
+caption: Mastery Unlocks
+tradition-component: mastery-unlocks
+
+After Mastery, Universal Shadow Arts Conditioning permits Regeneration to be improved from Fast to Very Fast (1 FP/second; Fatigue Only, -0%) [100] by paying the normal point difference. This remains FP-only Regeneration and does not restore HP.

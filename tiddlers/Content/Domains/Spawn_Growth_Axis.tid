@@ -1,0 +1,31 @@
+title: Spawn — Growth Axis
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Spawn
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.nh8w91hcqnxj
+source-start-index: 5857
+source-end-index: 7778
+gates-order: 0009
+gates-component: yes
+caption: Growth Axis
+tradition-component: growth-axis
+
+When Spawn access is gained, choose one central attribute: ST, DX, IQ, or HT. This Growth Axis is fixed under ordinary advancement. It describes the most fundamental direction in which the emerging body develops; it is separate from the Tradition Path.
+
+The character may purchase a number of extra levels in the chosen attribute up to Eldritch Rating. These levels are Spawn traits, must have both Psionic and Super, may take Costs Fatigue paid from Eldritch Reserve, and must have a visible or otherwise physically meaningful bodily manifestation.
+
+Each Growth Axis also grants four Root Trait permissions that do not require a prior Power Stunt:
+
+ST: Lifting ST, Striking ST, Extra Arms, and Constriction Attack.
+
+DX: Extra Attack, Enhanced Defenses, Enhanced Move, and Flight.
+
+IQ: Compartmentalized Mind, Enhanced Tracking, Enhanced Time Sense, and Unfazeable, represented by additional brains, sensory-processing organs, specialized sensory structures, or comparable anatomy.
+
+HT: Damage Resistance, Regeneration, Injury Tolerance, and Extra HP.
+
+Growth-Axis attribute levels and these Root Traits are fully point-paid, remain subject to the Spawn Trait Cap, and must be physically embodied. Any leveled Root Trait is capped at 2 × Eldritch Rating unless a stricter rule applies; for Enhanced Defenses, total levels across Enhanced Dodge, Enhanced Parry, and Enhanced Block may not exceed Eldritch Rating/2. Nonleveled traits, discrete tiers such as Regeneration, and Injury Tolerance variants are governed by the Spawn Trait Cap instead. Every individual Root Trait must still have a final character-point value strictly less than twice current Gift Value. For retention purposes, Growth-Axis attribute levels and Root Traits count as Gift Traits: each may be used as the source of a Power Stunt that can produce one retainable Spawn Trait, and a retained Spawn Trait can produce only temporary Manifestations thereafter.

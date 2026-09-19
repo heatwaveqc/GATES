@@ -1,0 +1,16 @@
+title: Mastery Standards — Tier 3
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Mastery Standards
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 64725
+source-end-index: 65504
+gates-order: 0002
+gates-component: yes
+caption: Tier 3
+
+Tier 3: where the standardized minimum investment requirement applies, it is 300 character points total in qualifying Tradition advancement, after modifiers. Talent purchases do not count. Attribute purchases count only when the Engine or Tradition explicitly grants direct purchase of that Attribute as part of its advancement and those purchased levels use the applicable Origin modifier and any other required Engine or Tradition construction. Required governing Talents, Higher Purpose, Magery, and Power Investiture are level 6. An existing HT or Will minimum is 30. Where Mastery uses a central or governing skill threshold, the standard is effective skill 30; ordinary secondary or component skills use effective skill 20 unless an Engine-specific standard says otherwise.

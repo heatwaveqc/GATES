@@ -1,0 +1,33 @@
+title: Jutsu Engine — Mastery
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Jutsu Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 225294
+source-end-index: 226657
+gates-order: 0003
+gates-component: yes
+caption: Mastery
+engine-rule: mastery
+
+One Mastery-eligible tree is sufficient for Jutsu Tradition Mastery. The tree need not be permanently finished or closed; later additions do not undo Mastery. Every Jutsu Tradition defines objective requirements including:
+
+Potence 4 or the equivalent governing-trait benchmark.
+
+At least 100 character points invested in the tree after modifiers. Purchased Jutsu and qualifying Tree Advantages explicitly assigned to that institutional tree count. Attributes, Talents, governing traits, and any other exclusions defined by the Tradition do not count unless an explicit Engine exception says otherwise. A purchased trait's points may count toward only one institutional tree's Mastery.
+
+Required foundational nodes.
+
+At least one Jutsu with minimum Potence 4 or higher.
+
+Consequential use of several materially different Jutsu from the tree.
+
+One tree-specific demonstration proving command of its resource, action economy, and defining tactical or thematic problem.
+
+A branching tree need not require every mutually exclusive or optional Jutsu unless the Tradition explicitly says so.
+
+Mastery may unlock designated Master nodes, raise explicit caps, qualify the character for Martial Paragon, and qualify for Jutsu Author. It does not grant unknown Jutsu, automatic access to another tree, free advantages, teaching authority beyond known Jutsu, or flexible authorship.

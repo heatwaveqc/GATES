@@ -1,0 +1,19 @@
+title: Wuxia Engine — Duan Wei 1
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Wuxia Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 237549
+source-end-index: 237681
+gates-order: 0005
+gates-component: yes
+caption: Duan Wei 1
+engine-rule: duan-wei-1
+
+Requirement: Effective 16+ in every Primary Skill.
+
+Unlock: Rolls against Style skills and techniques follow Extended Critical rules.

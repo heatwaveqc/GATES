@@ -1,0 +1,19 @@
+title: Shadow Arts — Technique Made Flesh
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 13065
+source-end-index: 14220
+gates-order: 0013
+gates-component: yes
+caption: Technique Made Flesh
+tradition-component: technique-made-flesh
+
+After mastering a Shadow Arts Jutsu tree, each Jutsu in that mastered tree whose primary effect is a finite-duration self-buff grants permission to purchase the permanent version of that self-buff as an ordinary advantage or advantage package, provided the practitioner's Shadow Arts Potence is at least three levels higher than the minimum Potence required to learn that Jutsu.
+
+The permanent traits cost their normal GURPS character-point value and may receive normal applicable Shido discounts. This is purchase permission only; it grants no free character points and waives no general trait cap, prerequisite, or legality rule. Once purchased permanently, the traits are no longer being activated as that Jutsu: they do not inherit the Jutsu's finite duration, FP activation cost, or Jutsu Anchor roll unless the underlying permanent trait itself has such a rule. If the Jutsu contains multiple constituents, only the self-buff traits that make up its primary self-buff package gain this permanent-purchase permission; external attacks, Afflictions, environmental effects, or other non-self-buff constituents do not become permanent through this rule.

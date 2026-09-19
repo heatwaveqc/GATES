@@ -1,0 +1,17 @@
+title: Psi Talented Engine — Default Mastery shape
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Psi Talented Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 143555
+source-end-index: 144208
+gates-order: 0003
+gates-component: yes
+caption: Default Mastery shape
+engine-rule: default-mastery-shape
+
+Under the standardized numerical Mastery requirements in Section 5.6, Psi Talented requires both initial instance Talents at 4, Will 20, use of at least three distinct abilities from each Talent during consequential play, at least 100 character points invested in the Tradition's Psionic abilities after discounts, excluding Talents; attribute purchases count when the Engine or Tradition explicitly grants their purchase as part of its advancement, and any additional Tradition-specific demonstration. A Tradition may impose additional non-numerical requirements or grant distinctive Mastery benefits, including expansion of the same personal instance.

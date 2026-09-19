@@ -1,0 +1,18 @@
+title: Supernatural Power Abundance — Calculation Order
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Supernatural Power Abundance
+source-drive-id: 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc
+source-drive-title: Supernatural Power Abundance (SPA)
+source-tab-id: t.0
+source-start-index: 5042
+source-end-index: 6384
+gates-order: 0013
+gates-component: yes
+caption: Calculation Order
+
+Calculation Order — Supervalue Before SPA: Any published or campaign rule that converts a base trait into a temporary or effective nonlinear supervalue resolves before positive SPA multiplication. This explicitly includes Super-Effort, Super-Damage, and Super-Abilities Table lookups. Determine the supervalue from the trait's SPAA-1 base value first, including any striking or throwing damage derived from Super-Damage, and only then apply SPAA exactly once to each qualifying resulting statistic or damaging component. SPA never feeds an already SPA-multiplied base value back into a supervalue lookup or formula. If damage is already derived from an SPAA-scaled supervalue, do not multiply that damage by SPAA again.
+
+SPA is fundamentally scale-invariant between SPA-affected combatants. When both offense and defense are governed by SPA, changing SPAA should not materially change the fraction of the target’s HP lost to an otherwise identical attack, nor the fraction of HP restored by otherwise identical healing or recovery. As a corollary, no component receives the same positive SPAA multiplier twice. If damage already scales because the attack is SPA-affected, because it is derived from SPA-scaled ST, or because another qualifying SPA rule has already scaled that damaging component, do not multiply that component by SPAA again.

@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Starting Character Value
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 3856
+source-end-index: 3929
+gates-order: 0012
+gates-component: yes
+caption: Starting Character Value
+rule: starting-character-value
+
+The campaign's character-point value for newly created player characters.

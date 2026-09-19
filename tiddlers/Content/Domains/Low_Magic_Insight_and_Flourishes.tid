@@ -1,0 +1,17 @@
+title: Low Magic — Insight and Flourishes
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 2136
+source-end-index: 2473
+gates-order: 0003
+gates-component: yes
+caption: Insight and Flourishes
+tradition-component: insight-and-flourishes
+
+A Low Mage may realize Insight through the Flourish engine. When spending Insight for Precision on a Low Magic spell, treat the +5 effective skill as one additional Flourish for purposes of that casting's Flourish total. This is not a separate Insight benefit and still counts as the one Insight that may normally be spent on the effect.

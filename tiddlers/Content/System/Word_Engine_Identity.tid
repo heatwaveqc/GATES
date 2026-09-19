@@ -1,0 +1,21 @@
+title: Word Engine — Identity
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 104597
+source-end-index: 105562
+gates-order: 0001
+gates-component: yes
+caption: Identity
+engine-rule: identity
+
+Word Traditions construct effects from reusable magical elements combined through a written grammar. Verbs and nouns are common, but a Word system may instead use commands, clauses, runes, true names, musical structures, signs, ideograms, symbolic correspondences, or another complete syntax.
+
+Word is a family of flexible-magic designs, not one mandatory player-facing rules package. GURPS Thaumatology is a design guide. Each Word Tradition defines its own lexicon, grammar, skills, construction procedure, parameters, costs, practices, consequences, progression, and Mastery.
+
+Parameter Source Lock. Word Traditions use only the parameter categories defined for syntactic magic in GURPS Thaumatology. Do not invent, infer, split, rename as mechanically distinct, or add new parameters by analogy or convenience. A parameter outside that published set exists only when an explicit GATES rule or direct GM ruling adds it and defines its exact mechanical treatment.

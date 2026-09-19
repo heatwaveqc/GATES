@@ -1,0 +1,17 @@
+title: Shadow Arts — Training Interaction
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 1665
+source-end-index: 2268
+gates-order: 0004
+gates-component: yes
+caption: Training Interaction
+tradition-component: training-interaction
+
+Every Shadow Arts Jutsu and every Shadow Arts Tree Advantage for which the practitioner has legal access is a Kung Fu Training Trait. Once all prerequisites, Potence requirements, and tree-specific access requirements are met, learning hours may be accumulated toward purchasing that trait through the Kung Fu Domain's normal Improvement Through Study and Accelerated Training rules. This never creates access to an unknown or inaccessible Jutsu or Tree Advantage and never waives its character-point cost. Practicum adds an additional source of learning hours to this same training framework for Jutsu.

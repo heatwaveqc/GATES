@@ -1,0 +1,18 @@
+title: First Form: Water Surface Slash
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: jutsu
+gates-parent: Water Breathing
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+gates-index: yes
+gates-description: Water Breathing form 1.
+tree-order: 01
+gates-order: 0001
+jutsu-potence: 1
+jutsu-cost: 11
+
+Water Breathing form 1.
+
+{{||$:/GATES/Assembly}}

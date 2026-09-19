@@ -1,0 +1,23 @@
+title: Eldritch Gifts — Power Stunts from Latent Gifts
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 8532
+source-end-index: 9790
+gates-order: 0007
+gates-component: yes
+caption: Power Stunts from Latent Gifts
+domain-rule: power-stunts-from-latent-gifts
+
+While expressing any Latent or Realized Revelation, the character may attempt a Power Stunt as though they possessed any one of their Latent Gifts as a source ability. Use the normal GURPS Powers procedure for Using Abilities at Default except as changed here.
+
+First construct the exact temporary ability being attempted. The build must fit the selected Gift’s stated capability, special effects, and written limitations, must obey all Eldritch Gifts Origin and Tradition restrictions that would apply to the ability, and may not have a final point value greater than the Gift’s current Gift Value. Eldritch Gifts adds no separate narrative or thematic approval test beyond the Gift as written and the normal published Power Stunt rules.
+
+The stunt costs the normal 3 FP. Roll against HT, applying the normal Power Stunt penalties. An applicable Power Talent adds normally. Wild Talent contributes to Eldritch Rating but does not itself add to the stunt roll unless another rule explicitly allows it.
+
+On success, the character may use the temporary ability for that stunt only, subject to its normal duration, targeting, resistance, maintenance, and other rules. On failure, the ability does not function, the maneuver is spent, and the FP cost is still paid.

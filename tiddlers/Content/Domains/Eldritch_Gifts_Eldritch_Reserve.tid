@@ -1,0 +1,21 @@
+title: Eldritch Gifts — Eldritch Reserve
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 10781
+source-end-index: 11857
+gates-order: 0009
+gates-component: yes
+caption: Eldritch Reserve
+domain-rule: eldritch-reserve
+
+A character with access to at least one Tier 2 Eldritch Gifts Tradition may purchase Energy Reserve (Eldritch Gifts). Eldritch Reserve is measured in FP and may be spent only on Eldritch Gifts: the FP cost of Eldritch Core Power Stunts, Costs Fatigue on abilities purchased through an Eldritch Gifts Tradition, and any other expenditure an Eldritch Gifts rule explicitly permits. It cannot pay for unrelated powers, spells, mundane exertion, or abilities from another Domain merely because they also cost FP.
+
+Any Eldritch Gifts Tradition that imposes or permits FP costs may draw from Eldritch Reserve unless that Tradition explicitly says otherwise.
+
+A character may purchase Regeneration limited to restoring Eldritch Reserve. This Regeneration is an Eldritch Gifts trait and follows the Universal Origin Rule, including its Mastery conversion to Eldritch, -5%, when eligible. It restores no HP or ordinary FP and may never restore more than 1 Eldritch Reserve FP per second. Eldritch Reserve itself is also an Eldritch Gifts trait and follows the same Universal Origin Rule.

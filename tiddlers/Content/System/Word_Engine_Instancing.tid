@@ -1,0 +1,19 @@
+title: Word Engine — Instancing
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 108532
+source-end-index: 109255
+gates-order: 0006
+gates-component: yes
+caption: Instancing
+engine-rule: instancing
+
+Word is Non-Instanced by default. A shared language, lexicon, grammar, rune set, or symbolic system used by every practitioner remains Non-Instanced even when practitioners learn different Words, skills, phrases, or techniques.
+
+A Word Tradition is Institutionally Instanced only when a school, order, lineage, language tradition, or other institution owns a fixed access-defining lexicon, grammar, correspondence set, or expression catalogue that is transmitted as a package. It is Personally Instanced only when each practitioner receives or constructs an individual access-defining vocabulary, grammar, correspondence set, or syntax. Learning different subsets of a shared language does not by itself create an instance.

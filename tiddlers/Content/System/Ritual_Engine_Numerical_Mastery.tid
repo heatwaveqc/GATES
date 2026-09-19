@@ -1,0 +1,16 @@
+title: Ritual Engine — Numerical Mastery
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 71178
+source-end-index: 71727
+gates-order: 0900
+gates-component: yes
+caption: Numerical Mastery
+
+Ritual — Tier 2: no minimum character-point investment requirement. The shared central or governing skill is effective 20+. College skills are secondary skills and are effective 16+; a broad standard GURPS Magic implementation therefore requires all 27 vanilla College skills at 16+. An explicit governing-trait-derived skill ceiling uses the skill-cap exception in Section 5.6. Magery or Power Investiture 3, or the applicable governing trait standard, applies where relevant. Preserve technique-buyoff, major-working, and other local requirements.

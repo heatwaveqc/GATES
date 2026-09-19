@@ -1,0 +1,17 @@
+title: Spawn — Eldritch Reserve
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Spawn
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.nh8w91hcqnxj
+source-start-index: 1858
+source-end-index: 2077
+gates-order: 0004
+gates-component: yes
+caption: Eldritch Reserve
+tradition-component: eldritch-reserve
+
+Spawn uses the Domain-wide Eldritch Reserve. It may pay the 3 FP cost of Eldritch Core Power Stunts and any Costs Fatigue on Spawn abilities. Spawn grants no separate reserve or regeneration rule beyond the Domain Core.

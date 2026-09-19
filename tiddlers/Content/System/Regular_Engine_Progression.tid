@@ -1,0 +1,17 @@
+title: Regular Engine — Progression
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Regular Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 85149
+source-end-index: 85273
+gates-order: 0002
+gates-component: yes
+caption: Progression
+engine-rule: progression
+
+The character advances by learning prerequisite chains, raising individual spell skills, and reaching significant capstones.

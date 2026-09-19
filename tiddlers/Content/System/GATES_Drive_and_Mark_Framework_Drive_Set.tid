@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Drive Set
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 2571
+source-end-index: 2712
+gates-order: 0006
+gates-component: yes
+caption: Drive Set
+rule: drive-set
+
+The five canonical Drives defined by one reusable source. These Drives are listed in descending order of centrality to the source's identity.

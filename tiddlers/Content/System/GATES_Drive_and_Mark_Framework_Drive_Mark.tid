@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Drive Mark
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 2040
+source-end-index: 2326
+gates-order: 0004
+gates-component: yes
+caption: Drive Mark
+rule: drive-mark
+
+A record that a character fulfilled one Drive during a session. A character can earn no more than one Drive Mark from the same Drive in the same session. Other GATES subsystems may use the word Mark for physical or metaphysical signs; those are not Drive Marks unless explicitly stated.

@@ -1,0 +1,19 @@
+title: Dreadhound — Ravager — Psychic Vampirism
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 8318
+source-end-index: 8947
+gates-order: 0013
+gates-component: yes
+caption: Ravager — Psychic Vampirism
+tradition-component: ravager-psychic-vampirism
+
+Ravager grants Psychic Vampirism as the Dreadhound's fixed Path Power Talent.
+
+Ravager may add Costs HP to any otherwise eligible Psi trait, using the normal modifier value and construction rules. The HP cost must be mechanically meaningful for the affected trait; a passive or otherwise non-triggering trait cannot claim a discount for a cost that cannot actually be paid. This creates Ravager's intended predatory loop: Psychic Vampirism drains HP from victims to restore the Dreadhound, and the recovered HP can then be spent to fuel psychic abilities built with Costs HP. The Ravager metabolizes prey into power for the hunt.

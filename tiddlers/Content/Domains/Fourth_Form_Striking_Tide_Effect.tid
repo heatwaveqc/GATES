@@ -1,0 +1,17 @@
+title: Fourth Form: Striking Tide — Effect
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: jutsu-component
+gates-parent: Fourth Form: Striking Tide
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 16332
+source-end-index: 16676
+jutsu-component: effect
+gates-component: yes
+caption: Effect
+gates-order: 0004
+
+Martial Delivery plus two fixed Extra Attacks with Multi-Strike and one Multiple Constituents modifier; Damage is variable. The three attacks are all produced by this one Jutsu, so the universal one-Jutsu-per-action rule is satisfied.

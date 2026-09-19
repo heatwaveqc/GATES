@@ -1,0 +1,29 @@
+title: Ritual Engine — Every Ritual Tradition defines
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 90116
+source-end-index: 90324
+gates-order: 0004
+gates-component: yes
+caption: Every Ritual Tradition defines
+engine-rule: every-ritual-tradition-defines
+
+College or Direct model.
+
+Legal spell scope.
+
+The inherited shared Domain governing skill and any explicit campaign-wide exception.
+
+College skills, if any.
+
+Penalty calculation.
+
+Energy source.
+
+Mastery benchmark.

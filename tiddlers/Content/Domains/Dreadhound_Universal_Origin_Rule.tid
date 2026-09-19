@@ -1,0 +1,17 @@
+title: Dreadhound — Universal Origin Rule
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 608
+source-end-index: 833
+gates-order: 0003
+gates-component: yes
+caption: Universal Origin Rule
+tradition-component: universal-origin-rule
+
+Before Mastery, all non-Talent traits purchased through Dreadhound require both Psionic, -10%, and Super, -10%, and remain subject to the Eldritch Gifts Core rules. Power Talents themselves do not take those source modifiers.

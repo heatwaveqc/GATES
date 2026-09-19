@@ -1,0 +1,19 @@
+title: Dreadhound — Current Prey
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 3046
+source-end-index: 3620
+gates-order: 0006
+gates-component: yes
+caption: Current Prey
+tradition-component: current-prey
+
+The Dreadhound may have only one Current Prey at a time. Selecting a known Pattern as Current Prey requires one minute of Concentration before Mastery. Dreadhound Hunter traits apply only to the Current Prey.
+
+Traits with stable constructions—such as Detect, Higher Purpose, Resistant, conditional attributes, conditional defenses, penetration, specialized attacks, or tracking abilities—may be purchased normally with Only Against Current Prey, -20%, in addition to the Universal Origin modifiers. The trait must directly support hunting or countering the selected Pattern.

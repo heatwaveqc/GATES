@@ -1,0 +1,21 @@
+title: Dreadhound — Talent Gate and Negation Caps
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 3652
+source-end-index: 4587
+gates-order: 0007
+gates-component: yes
+caption: Talent Gate and Negation Caps
+tradition-component: talent-gate-and-negation-caps
+
+A Dreadhound may only construct a negation ability from a Power or Anti-Power for which the character actually possesses the governing Power Talent or Anti-Talent at Basic level. A Pattern or prey repository never grants the governing Talent.
+
+Anti-Talents purchased for Dreadhound do not count against the character's normal Will/5 limit on Basic or secondary Psi Talents. Unless another rule explicitly says otherwise, they still obey the normal level and access limits for Basic or secondary Talents.
+
+When an ability is loaded through Dreadhound Super-Memorization, use twice the character's actual purchased level in its governing Talent as the Talent-equivalent for Talent-based level, damage, magnitude, and similar caps. This is a cap calculation only. It does not increase the Talent, add to rolls, change the ability's access band, improve permanent abilities, or satisfy prerequisites that require a particular Talent level.

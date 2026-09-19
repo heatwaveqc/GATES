@@ -1,0 +1,21 @@
+title: Revelator — The Whole Truth
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Revelator
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.pa2zqov1g1be
+source-start-index: 4555
+source-end-index: 5923
+gates-order: 0007
+gates-component: yes
+caption: The Whole Truth
+tradition-component: the-whole-truth
+
+The Revelator experiences a conjunction as one truth rather than two cooperating powers. Whenever a roll that normally receives a Power Talent bonus resolves a use of a purchased Conjunction Ability in which components from both Revelator Powers actually participate, add both Revelator Talent levels to that roll. This replaces the normal single-Talent or Conjunction Rating bonus for that roll. Before Mastery, Conjunction Rating still governs caps.
+
+At Mastery, Whole Truth becomes Origin-facing. A purchased Conjunction Ability may include additional mechanically necessary components governed by any Psi or Super Power Talents the character legitimately possesses. Every added Talent must govern a distinct component that actually participates in the conjunction; thematic overlap is not enough. All contributing Talent levels add to applicable conjunction rolls.
+
+For Mastered Whole Truth conjunctions, Psi components governed by the two original Revelator Talents use a Conjunction Rating equal to the sum of those two Talent levels for Revelator-specific Psi cap calculations. Additional Psi or Super Talents do not increase this Conjunction Rating, and components governed by those additional Talents use the normal caps and access supplied by their own source. Whole Truth never grants a new Power Talent or independent purchase access to an unrelated ability.

@@ -1,0 +1,30 @@
+title: Supernatural Power Abundance — Basic Scaling
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Supernatural Power Abundance
+source-drive-id: 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc
+source-drive-title: Supernatural Power Abundance (SPA)
+source-tab-id: t.0
+source-start-index: 1
+source-end-index: 3208
+gates-order: 0000
+gates-component: yes
+caption: Basic Scaling
+
+Supernatural Power Abundance (SPA)
+
+Most places in GATES and some places in the dimensions connected to GATES have an unusual abundance of supernatural power. This is measured by the Supernatural Power Abundance, or SPA Amplitude. The default SPA Amplitude for worlds not connected to GATES is 1; at SPA Amplitude 1, everything works like it does in a default GURPS setting, and all these rules can be ignored.
+
+However, the base SPA Amplitude in GATES is 5, and it ranges as high as 100 in some places. It can be any number, and does not have to be continuous (it can suddenly jump from 2 to 50, with no gradient, if the GM wants). The SPA Amplitude is usually related to the mana level, but not always; Low Mana usually has a 2, Normal a 5, High is usually 10 or 20, and Very High can go all the way up. The SPA Amplitude cannot be directly affected by any magic, and it is a Caliber 10 unlock to get SPA Enhancer, which costs 200 character points per level and increases the SPA Amplitude by 1 per level, taking all the normal enhancements and limitations that Mana Enhancer can take. Permanently increasing the mana level in a GATES location can drive the SPA Amplitude up, but if it does and how long it takes is up to the GM.
+
+SPAA is more than just an extra mana level and another number to track. It strongly affects all supernatural power in the area.
+
+All damage dealt by the power is multiplied by the SPAA. This includes Innate Attacks with an appropriate Origin limitation, attacks carrying an applicable Shido or Pact limitation, and items “enchanted” by a qualifying power multiplying their user’s damage (thrust or swing). This does not affect other modifiers, such as Area of Effect or Armor Divisor. It does affect the base damage of an explosion, causing it to affect a larger area.
+
+All DR granted by the power is multiplied by the SPAA. This includes natural DR with an appropriate Origin limitation, DR carrying an applicable Shido or Pact limitation, and DR from qualifying artifacts. This does not multiply the DR of the base item; TL2 scale armor with a +3 Fortify enchantment still grants 4 DR from the scale itself, but in a SPAA 5 area grants 15 DR from the enchantment, for a total of 19.
+
+Strength and Strength-related statistics are multiplied by the SPAA when the character has Mana Dependency, an appropriate Origin limitation on the trait, or an applicable Shido or Pact limitation on the trait. This includes qualifying ST, Striking ST, Lifting ST, and Telekinesis. When a qualifying trait uses Super-Effort, Super-Damage, the Super-Abilities Table, or another rule that converts a base value into a nonlinear supervalue, calculate that supervalue first from the trait's SPAA-1 base value, then multiply the resulting qualifying supervalue by SPAA exactly once. Never multiply the base value by SPAA before looking up or calculating the supervalue.
+
+Healing also scales, excluding Regeneration, multiplying the number of HP recovered when the source of healing has an appropriate Origin limitation or applicable Shido or Pact limitation. Regeneration already scales with HP and therefore scales through the target’s increased HP rather than receiving a second direct multiplier.

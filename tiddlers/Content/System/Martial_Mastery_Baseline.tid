@@ -1,0 +1,16 @@
+title: Martial Mastery Baseline
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Mastery Standards
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 79443
+source-end-index: 79746
+gates-order: 0090
+gates-component: yes
+caption: Martial Mastery Baseline
+
+All Tier 2 Martial Traditions continue to use the shared Martial Origin baseline where applicable: HT 20, Higher Purpose 4, and Trained by a Master [30]. Tier 3 Martial Traditions use HT 30 and Higher Purpose or another governing Martial Potence 6 where those traits are part of the Engine or Tradition.

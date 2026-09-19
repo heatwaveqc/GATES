@@ -1,0 +1,19 @@
+title: Atavistic Engine — Source Profiles
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 173615
+source-end-index: 174516
+gates-order: 0003
+gates-component: yes
+caption: Source Profiles
+engine-rule: source-profiles
+
+A Source Profile is an optional Atavistic presentation and construction tool, not a universal progression structure. When a Tradition uses one, it should follow GATES Species terminology and costing conventions where applicable and must be mechanically complete enough to determine legal purchases without requiring the GM to invent the central rules. It may define required traits, optional traits, disadvantages, features, attribute modifiers or caps, major leveled-trait caps, supernatural modifiers, forbidden options, mutual exclusions, and prerequisites.
+
+A Tradition may instead use an existing published creature or racial template directly, provided it states how that source is translated onto the practitioner and which parts of the source are intrinsic and legal. Selecting a Source or Source Profile grants purchase access only; it never grants listed traits or character points for free.

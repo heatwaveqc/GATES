@@ -1,0 +1,19 @@
+title: Innovator — Tradition Mechanics
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Innovator
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.nxqbpf88h8nd
+source-start-index: 695
+source-end-index: 2201
+gates-order: 0002
+gates-component: yes
+caption: Tradition Mechanics
+tradition-component: tradition-mechanics
+
+Innovator uses Ritual Magic with Thaumatology as its core ritual skill. As normal, Innovators buy Colleges as IQ/Very Hard skills that require and are capped by Thaumatology, then buy individual spells as techniques of those College skills. Innovators may also buy a specific Enhancement for a specific spell as a technique, using Adjustable Spells and Trading Energy for Enhancements from GURPS Thaumatology, p. 39. This lets them cast the enhanced version personally and formalize that spell-and-Enhancement combination as a separate teachable spell. The enhanced spell has the same skill difficulty as its base spell, and its sole spell prerequisite is the base spell. Its energy cost, casting time, and other statistics change only as required by the selected Enhancement and the Thaumatology enhancement rules. Non-Innovators may learn and cast the formalized spell normally. Teaching or formalizing an enhanced spell does not count as inventing a spell; actual spell invention still uses the normal GATES and GURPS invention procedure.
+
+Class Tradition Access: When Innovator is selected as a Class Tradition, choose two Colleges accessible through Innovator. Those College skills may be studied without an instructor, and the character may cast and improve prerequisite spells or techniques from those Colleges without obtaining further instructional materials. This does not expand Innovator’s legal spell scope or waive ordinary character-point costs, casting rules, energy costs, or failure rules.

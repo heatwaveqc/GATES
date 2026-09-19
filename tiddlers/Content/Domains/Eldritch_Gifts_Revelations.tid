@@ -1,0 +1,21 @@
+title: Eldritch Gifts — Revelations
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 3228
+source-end-index: 4758
+gates-order: 0002
+gates-component: yes
+caption: Revelations
+domain-rule: revelations
+
+A Revelation is a fully specified mental disadvantage that the Eldritch Core recognizes and encourages. Any mental disadvantage may serve as a Revelation if its normal scope and required choices are defined clearly enough to determine when it applies.
+
+When the character enters Eldritch Gifts, define exactly four Latent Revelations. These are the first four of at most ten Revelations the character can reveal through the normal Eldritch Core. A Latent Revelation is a fully specified disadvantage-pattern that is not yet an actual disadvantage on the character sheet. It grants no character points and imposes no behavior except when voluntarily expressed through the Eldritch Core, but every choice normally required by that disadvantage must already be fixed.
+
+A Revelation becomes Realized when that disadvantage is actually placed on the character sheet. A Realized Revelation uses the disadvantage's normal rules, including any self-control number and required choices. Realized Revelations accumulate normally and remain part of the character's Core, but are no longer Latent. If fewer than ten Revelations have been revealed when a Revelation becomes Realized, immediately reveal and define one new Latent Revelation. After the tenth Revelation has been revealed, Realization no longer reveals another. The character therefore normally maintains four Latent Revelations through the first six Realizations; after all ten have been revealed, the Latent Revelation pool decreases as the remaining Revelations become Realized.

@@ -1,0 +1,19 @@
+title: Shadow Arts
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition
+gates-parent: Kung Fu
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+gates-index: yes
+gates-description: Shadow Arts is the practitioner-facing form of Kung Fu Jutsu. It teaches fixed, fully developed named techniques preserved by a school, lineage, manual, or other institutional instance. A Shadow Artist does not improvise new effects; they learn authored Jutsu and execute those known forms reliably.
+gates-inherits: [[Jutsu Engine]] [[Kung Fu — Core Shido]] [[Kung Fu — Accelerated Training]] [[Kung Fu — Learning Rate]] [[Kung Fu — Training Balance]] [[Kung Fu — Training Traits]] [[Martial Mastery Baseline]]
+gates-engine: Jutsu
+gates-tier: 2
+gates-origin: Martial
+gates-instancing: institutional
+
+Shadow Arts is the practitioner-facing form of Kung Fu Jutsu. It teaches fixed, fully developed named techniques preserved by a school, lineage, manual, or other institutional instance. A Shadow Artist does not improvise new effects; they learn authored Jutsu and execute those known forms reliably.
+
+{{||$:/GATES/Assembly}}

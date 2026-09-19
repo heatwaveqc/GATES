@@ -1,0 +1,25 @@
+title: Word Engine — These examples establish design roles, not lateral inheritance
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 115416
+source-end-index: 116400
+gates-order: 0035
+gates-component: yes
+caption: These examples establish design roles, not lateral inheritance
+engine-rule: these-examples-establish-design-roles-not-lateral-inheritance
+
+- Ogham is the published narrow worked syntactic reference. It demonstrates symbolic overlap, contextual meaning, inscriptions, and a localized vocabulary.
+
+- Dovahzul is the current GATES centerline for direct Word casting, with explicit Word costs, casting times, multiple skills, parameter penalties, partial success, resistance, countermagic, and backlash.
+
+- High Magic is the current upper direct-casting reference. Its broad three-part grammar, success scaling, critical multipliers, affinities, and Mastery branches are intentionally potent.
+
+- Circle Magic is the current upper prepared reference. It exchanges immediate flexibility for composition, inscription, geometry, materials, time, physical vulnerability, and powerful automatic area effects.
+
+- Gaian Magic is the current stored and strategic reference. Its runes, Tass, living enchantment, productive organisms, and ecological Mana authorship shift balance toward preparation, stockpiling, transfer, and infrastructure.

@@ -1,0 +1,17 @@
+title: GATES Drive and Mark Framework — Drive Source
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 2341
+source-end-index: 2559
+gates-order: 0005
+gates-component: yes
+caption: Drive Source
+rule: drive-source
+
+A named campaign or character-identity element that supplies one ordered Drive set. Standard reusable GATES source types currently include Domains, Worlds, Pantheons, and Cultures. Campaigns may add other source types.

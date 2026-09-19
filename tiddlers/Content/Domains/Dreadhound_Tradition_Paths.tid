@@ -1,0 +1,17 @@
+title: Dreadhound — Tradition Paths
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Dreadhound
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.4du1bb8kp504
+source-start-index: 7790
+source-end-index: 8288
+gates-order: 0012
+gates-component: yes
+caption: Tradition Paths
+tradition-component: tradition-paths
+
+Choose exactly one Dreadhound Path when gaining the Tradition: Ravager, Analyst, or Veiled. The choice is fixed and cannot be replaced through ordinary advancement or Mastery. Each Path grants one fixed Psi Power Talent with general access rather than a closed ability list. The Path Talent does not occupy a secondary-Talent slot and may be raised to 4 before Mastery. Before Mastery, the Path grants general Advanced access to its Power; after Dreadhound Mastery, it grants general Master access.

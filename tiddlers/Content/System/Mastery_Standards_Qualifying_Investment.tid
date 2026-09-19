@@ -1,0 +1,16 @@
+title: Mastery Standards — Qualifying Investment
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Mastery Standards
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 65505
+source-end-index: 66514
+gates-order: 0003
+gates-component: yes
+caption: Qualifying Investment
+
+For Traditions subject to the standardized investment threshold, count the qualifying investment once as a total for the Tradition, not separately per Talent, ability family, Path, or contributing Hybrid Engine. Talent investment does not count toward that total. Attribute investment counts when the Engine or individual Tradition explicitly grants direct purchase of that Attribute as part of the Tradition's own advancement and those purchased levels use the applicable Origin modifier and any other required Engine or Tradition construction. This explicitly includes engines where Attribute purchase is a core advancement permission, such as Autobuff and Immortal, and applies equally to any other Engine with the same structure. Mundane or otherwise independently purchased Attribute levels, pre-existing levels, and levels bought merely to satisfy a prerequisite or Mastery characteristic gate such as HT or Will do not count. Retain the Tradition's existing legal ability scope and modifier accounting.

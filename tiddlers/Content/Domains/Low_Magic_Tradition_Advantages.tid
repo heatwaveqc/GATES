@@ -1,0 +1,23 @@
+title: Low Magic — Tradition Advantages
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 3168
+source-end-index: 4499
+gates-order: 0005
+gates-component: yes
+caption: Tradition Advantages
+tradition-component: tradition-advantages
+
+Detect (Magic; can have analytical and targeting)
+
+Wellspring of Power (20 points): Each purchase reduces the cost of ALL spell magic by 1, to a minimum of 0. Stacks with cost reduction from high skill, cannot be purchased more times than the character’s Magery.
+
+Durable Magic (20 points): A Low Mage can increase the duration type by spending energy. Spells that last seconds can be made to last minutes at the cost of 10 fatigue. Minutes can become hours at the cost of 20 fatigue. Hours become days for 50 fatigue, and days become months for 100 fatigue. Until the spell is tied off, it remains maintained normally: pay its listed maintenance cost whenever the extended duration interval expires. A spell may instead be “Tied Off,” set to run for one extended duration interval and then end. A tied-off spell no longer counts as “on” and requires no further maintenance payments, but it cannot be turned off or otherwise controlled by the Low Mage. It is also easier to counter, automatically losing any Quick Contest to dispel it.
+
+Overcharge (20 points): After successfully casting a spell, the Low Mage may spend 5 FP for each additional Flourish applied to that spell, up to a maximum number of additional Flourishes equal to Magery. This cost cannot be reduced by high skill, Wellspring of Power, or any other cost reduction.

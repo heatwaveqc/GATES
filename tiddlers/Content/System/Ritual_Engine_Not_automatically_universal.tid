@@ -1,0 +1,25 @@
+title: Ritual Engine — Not automatically universal
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 89155
+source-end-index: 89333
+gates-order: 0002
+gates-component: yes
+caption: Not automatically universal
+engine-rule: not-automatically-universal
+
+These are common Ritual variations, not automatic Engine traits:
+
+Blood sacrifice.
+
+Books of Shadows.
+
+Long-distance maledictions.
+
+Each must be granted by the Tradition or Domain.

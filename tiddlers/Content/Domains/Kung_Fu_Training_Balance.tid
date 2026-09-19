@@ -1,0 +1,19 @@
+title: Kung Fu — Training Balance
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Kung Fu
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.0
+source-start-index: 1965
+source-end-index: 2571
+gates-order: 0003
+gates-component: yes
+caption: Training Balance
+domain-rule: training-balance
+
+Track lifetime character points earned from learning hours as Training Experience and all other earned character points as Other Earned Experience. Character-creation points count as neither. Experience Loop and Enhancement awards are Other Earned Experience unless a rule explicitly classifies them as training.
+
+Accelerated Training functions only while Training Experience is no greater than Other Earned Experience. If Training exceeds Other, use ordinary training rates until Other again equals or exceeds Training. Character points earned through ordinary training still count as Training Experience.

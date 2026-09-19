@@ -1,0 +1,25 @@
+title: GATES Drive and Mark Framework — Prestige Count and Cost
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 13270
+source-end-index: 13669
+gates-order: 0023
+gates-component: yes
+caption: Prestige Count and Cost
+rule: prestige-count-and-cost
+
+Prestige Count is the number of times a character has Prestiged.
+
+Under the legacy Isekai preset, if P is the current Prestige Count:
+
+Next Prestige cost = 1,000 × 2^P character points
+
+A character may complete several Prestige levels at once if current character value can pay the accumulated cost of every level gained.
+
+Cost from Prestige Count P to P + N = Σ from i = P to P + N - 1 of (1,000 × 2^i)

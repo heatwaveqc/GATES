@@ -1,0 +1,19 @@
+title: Wuxia Engine — Caps and Governing Trait
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Wuxia Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 244469
+source-end-index: 245776
+gates-order: 0011
+gates-component: yes
+caption: Caps and Governing Trait
+engine-rule: caps-and-governing-trait
+
+Every Wuxia Tradition explicitly names the Talent, Higher Purpose, Magery, Power Investiture, or other trait governing each supernatural cap. A shared Martial default may use Higher Purpose, but a Domain or family may replace that basis explicitly. Cap traits do not stack merely because two Origins or mechanics could both apply. These requirements are uniform Tradition rules rather than fields selected separately by each Style.
+
+Wuxia Mastery requires at least 100 character points invested in qualifying Tradition or Style purchases after modifiers, excluding Talents; attribute purchases count when the Engine or Tradition explicitly grants their purchase as part of its advancement, completion of all five Duan Wei, and the applicable Tier 2 Martial HT and governing-trait standards. Mastery grants the Tradition's written benefits, access to every Mastery Advantage in that Wuxia Tradition for which the mastered Style qualifies, confirms the practitioner's authority to teach the mastered Style, qualifies for Martial Paragon where applicable, and qualifies for any associated Sage Tradition that exists, subject to that Tradition's normal Tier 3 prerequisites. Mastery Advantage access remains purchase permission rather than a free trait. Mastery does not open a third Supernatural Unlock family.

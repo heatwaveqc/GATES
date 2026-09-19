@@ -1,0 +1,17 @@
+title: High Magic — Recover Energy
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 3885
+source-end-index: 4127
+gates-order: 0005
+gates-component: yes
+caption: Recover Energy
+tradition-component: recover-energy
+
+Recover Energy is a Yang-Wood-Dragon effect. Anyone with any skill in all three Words is treated as knowing the standard GURPS Recover Energy spell at a skill equal to the lowest of Yang, Wood, and Dragon. Use the normal Recover Energy rules.

@@ -1,0 +1,25 @@
+title: High Magic — Elements
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 6686
+source-end-index: 8439
+gates-order: 0009
+gates-component: yes
+caption: Elements
+tradition-component: elements
+
+Metal: Solid, cold, discerning and dangerous, metal is a fundamental element to the dwarves while remaining unrecognized as such by most other races. It represents determination, dedication and mental strength, in addition to its obvious physical meanings. Metal is IQ/Very Hard and has a base cost of 3 and a base time of 1.
+
+Wood: Wood is life, in all of its meanings. It is the roots of the trees that tear apart the mountain, the disease that ravages the old and a newborn baby. It may be held back temporarily, but never permanently stopped. It conquers all obstacles through determination and persistence. Wood heals, nurtures, and adapts. Wood is IQ/Very Hard and has a base cost of 2 and a base time of 0.
+
+Earth: Earth is everywhere, passive and resilient. You can never destroy the earth, and it is the source of all things. Earth deals with magic itself, and aids in meditative magic and rejuvenation of the mind and spirit, as well as divination. Earth is an IQ/Very Hard skill with a base cost of 3 and a base time of 1.
+
+Water: Water is liquid, solid or steam, adaptable and flexible. It is almost as ubiquitous as earth, almost as persistent as wood and, as ice, almost as hard as metal. Water will even kill you as quickly as fire, under the right circumstances. Water governs emotion, motion and calmness. Water is IQ/Very Hard with a base cost of 2 and a base time of 0.
+
+Fire: Fire is destructive, emotional, consumptive, wild, hard to control, and hot. It governs fiery emotions, destructiveness, light, illusion, and related subjects. Fire is an IQ/Very Hard skill with a base energy cost of 3. Fire has a special base casting time of -1, reducing the casting time of any working it is part of. Overall casting time cannot fall below 0.

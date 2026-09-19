@@ -1,0 +1,37 @@
+title: High Magic — High Magic Parameters
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 4150
+source-end-index: 5302
+gates-order: 0006
+gates-component: yes
+caption: High Magic Parameters
+tradition-component: high-magic-parameters
+
+Damage: 1d6 per 2 full points of margin of success.
+
+Healing: 2d6 per 3 points of margin of success.
+
+Unless a parameter below gives a local High Magic conversion, use the applicable GURPS Thaumatology Appendix A table and read the result directly from the working’s margin of success.
+
+Range: Use the applicable table.
+
+Mass: Use the applicable table.
+
+Targets: Use the applicable table.
+
+Area: Use the applicable table.
+
+Duration: Use the applicable table.
+
+Range in Time: Use the applicable table, but only for sensory effects or future triggers; High Magic cannot travel through time.
+
+Granted Traits: 10 character points per point of margin of success.
+
+Use the vanilla GURPS syntactic-magic resistance rules. The GM determines whether a working is Resisted; almost any direct Body or Mind effect should be, while effects that deal direct physical damage generally are not. For a Resisted High Magic working, use the lowest-margin required Word roll as the caster’s side of the resistance contest. Rolled attacks and constructs are resolved through normal attack, active-defense, and DR rules rather than an additional resistance roll against their damage.

@@ -1,0 +1,19 @@
+title: Wuxia Engine — Duan Wei 2
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Wuxia Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 237694
+source-end-index: 238307
+gates-order: 0006
+gates-component: yes
+caption: Duan Wei 2
+engine-rule: duan-wei-2
+
+Requirement: Master every Mundane Technique and critically succeed with a Primary Skill in consequential combat.
+
+Unlock: Gain the Style's Affinity Attribute, or the Tradition's explicit replacement for normal Affinity progression, and the second Style Shido. The Wuxia Affinity is normally the character's second and final Martial Affinity Attribute when the first came from the prerequisite Tier 1 martial Tradition; apply the Wuxia Affinity Pair Rule above. The practitioner may use Connoisseur (Martial Arts) to discern the exact nature of a supernatural martial-art ability, similar to Thaumatology for magic.

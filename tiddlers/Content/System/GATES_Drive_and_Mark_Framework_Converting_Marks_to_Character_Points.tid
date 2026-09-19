@@ -1,0 +1,27 @@
+title: GATES Drive and Mark Framework — Converting Marks to Character Points
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 9663
+source-end-index: 10486
+gates-order: 0019
+gates-component: yes
+caption: Converting Marks to Character Points
+rule: converting-marks-to-character-points
+
+Each Drive Mark earns character points at the campaign's Mark Value in effect when that Mark is awarded.
+
+Character points earned from a Mark = 1 × Mark Value at time of award
+
+A common tested campaign value is 0.5 character points per Mark, or one character point per two Marks. This is an example rather than a universal GATES constant.
+
+When conversion produces a fraction that cannot yet be spent, retain the underlying Mark record or fractional progress. Rounding never destroys earned progress.
+
+Changing a source, changing a Secondary Choice, or later changing Mark Value does not retroactively recalculate previously earned character points.
+
+Ad hoc awards, training points, Godmath, enhancement loops, and other advancement sources are tracked separately unless their own rules explicitly convert them into Drive Marks.

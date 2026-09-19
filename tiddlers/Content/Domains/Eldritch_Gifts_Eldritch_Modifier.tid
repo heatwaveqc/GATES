@@ -1,0 +1,21 @@
+title: Eldritch Gifts — Eldritch Modifier
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 13498
+source-end-index: 14849
+gates-order: 0012
+gates-component: yes
+caption: Eldritch Modifier
+domain-rule: eldritch-modifier
+
+Eldritch, -5%, is the mature source modifier for powers whose Psi and Super components have fully fused. It is not available merely for entering the Domain or reaching a particular Eldritch Rating. Mastery grants access to Eldritch under the General Origin Rules: traits purchased through a mastered Eldritch Gifts Tradition may replace Psionic, -10%, plus Super, -10%, with Eldritch, -5%, and later purchases through that mastered Tradition may use Eldritch from the time of purchase. The character pays the normal character-point difference when converting an existing trait.
+
+An Eldritch ability is simultaneously Psi and Super for countermeasure purposes, but cannot be shut down by only one side. Neutralize, Static, anti-power abilities, wards, suppressive technology, or similar countermeasures must be effective against both Psi and Super to affect a trait with Eldritch. Two separate countermeasures may satisfy this requirement if both are actually affecting the ability at the same time. A countermeasure explicitly defined as affecting Eldritch counts as satisfying both requirements.
+
+Eldritch replaces Psionic and Super rather than stacking with either of them. A trait with Eldritch is no longer separately Psionic or Super for source-modifier pricing, although it still counts as both where Domain or Tradition rules classify its nature.

@@ -1,0 +1,31 @@
+title: High Magic — Elemental Master
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 21337
+source-end-index: 22557
+gates-order: 0026
+gates-component: yes
+caption: Elemental Master
+tradition-component: elemental-master
+
+Cost: 10 points
+
+Requirements: Magery 2, Thaumatology 15
+
+You have focused and mastered a single High Magic element. Reduce the cost and time for all effects using that element by 2 FP and 2 seconds, respectively. You also gain a secondary benefit to all High Magic effects and the specific element, which is different based on which element you have mastered. When you purchase Elemental Master, you gain access to the corresponding spell college: Fire for Fire, Metal for Metal, Plant for Wood, Earth for Earth, or Water for Water. For any Occult Tier 2 Regular or Ritual Tradition you know, you may learn that college or any spells from it through that Tradition; this access is not limited to Innovator or Low Magic. You need no instructor or reference material to learn that college or its spells. You may only have one copy of this advantage for every two full levels in Magery. You cannot purchase this advantage more than once for the same element.
+
+Metal: Double the Mass conjured by all your High Magic effects.
+
+Wood: Double all healing done by High Magic.
+
+Earth: Double the duration of all High Magic effects.
+
+Water: Double the radius of all High Magic effects.
+
+Fire: Double all damage dealt with High Magic.

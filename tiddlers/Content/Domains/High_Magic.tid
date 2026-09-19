@@ -1,0 +1,19 @@
+title: High Magic
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition
+gates-parent: Foundational
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+gates-index: yes
+gates-description: High Magic is the symbolic and syntactic magic of the high elves: elaborate, showy, Taoist-influenced, and especially suited to powerful enchantment. Its symbols do not resemble writing to the untrained eye, instead appearing as murals, paintings, mosaics, or intricate carved sculptures. A practitioner may learn High Magic purely for symbolic enchantment or as a syntactic Word magic for direct casting. Anyone who knows the syntactic form may also enchant with its symbols.
+gates-inherits: [[Word Engine]] [[Foundational — Domain Core Mechanic: Insight]] [[Foundational — Critical Failures and Casting Resources]]
+gates-engine: Word
+gates-tier: 3
+gates-origin: Occult
+gates-instancing: non-instanced
+
+High Magic is the symbolic and syntactic magic of the high elves: elaborate, showy, Taoist-influenced, and especially suited to powerful enchantment. Its symbols do not resemble writing to the untrained eye, instead appearing as murals, paintings, mosaics, or intricate carved sculptures. A practitioner may learn High Magic purely for symbolic enchantment or as a syntactic Word magic for direct casting. Anyone who knows the syntactic form may also enchant with its symbols.
+
+{{||$:/GATES/Assembly}}

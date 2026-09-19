@@ -1,0 +1,19 @@
+title: Word Engine — Self-Contained Player Rules
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 107575
+source-end-index: 108519
+gates-order: 0005
+gates-component: yes
+caption: Self-Contained Player Rules
+engine-rule: self-contained-player-rules
+
+The Tradition document must contain the complete player-facing Word engine and casting system. A player must be able to learn or purchase Words, form a legal expression, determine every required element, calculate every parameter, cast or construct it, resolve attacks and resistance, activate prepared results, maintain or end effects, counter or dispel them, and advance the Tradition without reading the flexible-magic rules in GURPS Thaumatology.
+
+The Tradition may reference an exact published table by name and page, but it must explain precisely how that table enters the working: what value is read, whether that value becomes energy, a skill modifier, required margin, time, material cost, or another quantity, and every alteration to the table. It may not rely on the prose of Syntactic Magic, Verb-Noun Magic, Realm Magic, Flexible Magic, or an unspecified Thaumatology option to supply grammar, casting, parameter, or failure rules.

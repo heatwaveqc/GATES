@@ -1,0 +1,17 @@
+title: Eldritch Gifts — Gift Value
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 8062
+source-end-index: 8500
+gates-order: 0006
+gates-component: yes
+caption: Gift Value
+domain-rule: gift-value
+
+For Power Stunts, every Latent Gift has an effective source value equal to 10 × Eldritch Rating, where Eldritch Rating is the highest of the character’s levels in Wild Talent available to Eldritch Gifts, highest purchased Super Power Talent, or highest purchased Psi Power Talent. The Gift is not actually purchased at this value; the value exists only to determine what may be attempted through the Eldritch Core’s Power Stunt procedure.

@@ -1,0 +1,33 @@
+title: GATES Drive and Mark Framework — Required Reusable Drive Sets
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 5320
+source-end-index: 6277
+gates-order: 0015
+gates-component: yes
+caption: Required Reusable Drive Sets
+rule: required-reusable-drive-sets
+
+Every completed Domain, World, Pantheon, and Culture defines exactly five canonical Drives.
+
+The list is ordered. Drive 1 is the source's most central behavioral expression, followed by the next most central Drives in descending order.
+
+A campaign using N Drives per source takes Drives 1 through N. Players do not choose later Drives in place of earlier Drives unless the campaign explicitly creates a different rule.
+
+A source contributes Drives when:
+
+The campaign enables that source category.
+
+The source is eligible under the campaign's rules.
+
+The player selects it as an active source, where selection is required.
+
+Finished GATES source documents should include their five Drives directly or link to one authoritative Drive-set entry. Empty or unfinished Drive fields provide no Drives.
+
+A GM who wants more than five Drives from a source may create additional campaign-specific Drives. Reusable source designers are not required to provide more than five.

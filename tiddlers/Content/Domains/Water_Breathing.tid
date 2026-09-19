@@ -1,0 +1,19 @@
+title: Water Breathing
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-instance
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+gates-index: yes
+gates-description: An institutional sword-Jutsu lineage. Forms One–Ten are ordinary tree material; Dead Calm is a later Secret Master Technique.
+gates-inherits: [[Jutsu Engine]]
+gates-instancing: institutional
+
+An institutional sword-Jutsu lineage. Forms One–Ten are ordinary tree material; Dead Calm is a later Secret Master Technique.
+
+{{||$:/GATES/Assembly}}
+
+! Ordered Jutsu
+{{||$:/GATES/JutsuTree}}

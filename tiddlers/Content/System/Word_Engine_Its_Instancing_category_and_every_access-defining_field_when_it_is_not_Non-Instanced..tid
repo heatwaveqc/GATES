@@ -1,0 +1,33 @@
+title: Word Engine — • Its Instancing category and every access-defining field when it is not Non-Instanced.
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Word Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 116939
+source-end-index: 118657
+gates-order: 0038
+gates-component: yes
+caption: • Its Instancing category and every access-defining field when it is not Non-Instanced.
+engine-rule: its-instancing-category-and-every-access-defining-field-when-it-is-not-non-instanced.
+
+- The exact casting or construction-roll structure, including which rolls are made, their order, how multiple margins combine, and what happens when only part of an expression succeeds.
+
+- Base effect construction, effect classes, targets, attack rolls, active defenses, resistance, contests, partial effects, and multiple-target resolution.
+
+- Every complexity rule and every parameter formula or exact referenced table for range, familiarity, time, dimensions, area, damage, healing, duration, maintenance, weight, targets, constituents, traits, transformations, storage, activation, and other scalable results.
+
+- Casting or construction time, practices, required speech, gestures, writing, music, tools, materials, preparation, interruption, concentration, activation, and destruction or disruption of prepared media.
+
+- Energy or other resource sources, payment timing, recovery, collaboration, ceremonial casting, stored-value production, transfer, recharge, and overuse consequences.
+
+- Mana or Sanctity interaction, anti-magic interaction, suppression, cancellation, stacking, countermagic, dispelling, and the treatment of persistent or prepared results.
+
+- Ordinary failure, partial-expression results, critical failure, side effects, backlash, calamity procedures, and failed construction or activation.
+
+- Fixed phrases, idioms, techniques, rotes, invention, discovery, teaching, recording, copying, linked workings, enchantment, prepared media, and persistent-result rules.
+
+- Global prohibitions, Tier boundaries, setting-authorship permissions, progression, Mastery requirements, Mastery benefits, and, for a non-Skilled Word Tradition, the complete mutually exclusive Tradition Paths required by Section 1.6.1.

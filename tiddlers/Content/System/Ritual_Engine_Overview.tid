@@ -1,0 +1,21 @@
+title: Ritual Engine — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Ritual Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 87450
+source-end-index: 87964
+gates-order: 0000
+gates-component: yes
+caption: Overview
+engine-rule: overview
+
+Status: Recovered.
+
+Ritual is GURPS Ritual Magic spellcasting. Prerequisites become skill penalties rather than separately required spells.
+
+“Ritual Magic” names the GURPS spellcasting structure, not a separate Tradition-specific skill. Every Domain that uses the Ritual Engine designates one shared IQ/Very Hard governing skill for all of its Ritual Traditions. Individual Traditions inherit that skill and may not create separate Ritual Magic specialties unless an explicit campaign-wide exception says otherwise.

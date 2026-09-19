@@ -1,0 +1,19 @@
+title: Low Magic — Tradition Mechanics
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Low Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.el10hqy37n5b
+source-start-index: 898
+source-end-index: 2112
+gates-order: 0002
+gates-component: yes
+caption: Tradition Mechanics
+tradition-component: tradition-mechanics
+
+Low Mages use standard GURPS Spell Magic with a few minor tweaks. The main power of a Low Mage is their ability to Flourish. Whenever a Low Mage casts a spell, for every full multiple of 5 the Low Mage succeeds on their casting roll, they may apply one Flourish to that spell. Multiple Flourishes can be applied to the same spell; they need not be of the same type, and Flourishes of the same type stack. A Flourish may be applied only when the base spell already has the relevant parameter or function. It cannot add damage to a non-damaging spell, add discrete targets to a spell that does not affect discrete targets, extend an instantaneous or genuinely permanent spell, grant traits through a spell that does not grant traits, or otherwise create an entirely new function.
+
+Class Tradition Access: When Low Magic is selected as a Class Tradition, the character may learn without an instructor any spell accessible through Low Magic that has both a prerequisite count of 1 or less and a Magery requirement of 1 or less. This does not expand Low Magic’s legal spell scope, grant prerequisite spells for free, or waive ordinary character-point costs, casting rules, energy costs, Flourish rules, or failure rules.

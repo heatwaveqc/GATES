@@ -1,0 +1,17 @@
+title: Shadow Arts — Potence, Resource, and Limits
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 1149
+source-end-index: 1643
+gates-order: 0003
+gates-component: yes
+caption: Potence, Resource, and Limits
+tradition-component: potence-resource-and-limits
+
+Shadow Arts uses the practitioner's ordinary FP as its Jutsu activation resource. Pay every written fixed FP cost and every variable-parameter expense from FP; those points recover by the character's normal FP recovery rules unless another ability explicitly changes that recovery. Apply the universal Jutsu cap separately to every authored parameter: no parameter value used by the practitioner may exceed twice their Kung Fu Higher Purpose unless an explicit higher-level rule says otherwise.

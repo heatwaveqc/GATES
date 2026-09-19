@@ -1,0 +1,19 @@
+title: Atavistic Engine — Progression and Staging
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: engine-rule
+gates-parent: Atavistic Engine
+source-drive-id: 1RGIXSgUR8SmawgQ_Pc238QQubVOgabtXnmoDPJMxjr4
+source-drive-title: 01_GATES_Class_and_Tradition_Engine_Design_Guidelines
+source-tab-id: t.0
+source-start-index: 175374
+source-end-index: 176134
+gates-order: 0005
+gates-component: yes
+caption: Progression and Staging
+engine-rule: progression-and-staging
+
+Atavistic has no universal Core Mundane, Core Supernatural, Developing, or Mythic stages. Those remain available as optional organizational tools when they fit a Tradition. A Tradition may instead use a published template, one required body package plus optional purchases, simple pre-Mastery and post-Mastery permissions, Path-based access, an explicit acquisition procedure, or another complete progression model.
+
+Whatever model is used, every purchase gate must be objective and written. If the Tradition uses Core completion, Developing traits, Mythic traits, or another named stage, it must define exactly what belongs to that stage, when it opens, and what completion means. Mastery does not open a Mythic list unless the Tradition actually defines one.

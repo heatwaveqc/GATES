@@ -1,0 +1,17 @@
+title: Eldritch Gifts — Eldritch Universal Traits
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Eldritch Gifts
+source-drive-id: 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU
+source-drive-title: Eldritch Gifts Domain GATES
+source-tab-id: t.0
+source-start-index: 11884
+source-end-index: 12411
+gates-order: 0010
+gates-component: yes
+caption: Eldritch Universal Traits
+domain-rule: eldritch-universal-traits
+
+A character with access to at least one Tier 2 Eldritch Gifts Tradition may purchase Mind Shield up to Will as an Eldritch Gifts trait. Mind Shield does not require a Gift Power Stunt or Tradition-specific discovery permission. Before any explicit Mastery conversion, it follows the Universal Origin Rule and therefore has both Psionic, -10%, and Super, -10%. It is fully point-paid and does not count as a Gift, Gift Trait, Root Trait, or other Tradition-specific retention source unless a Tradition explicitly says otherwise.

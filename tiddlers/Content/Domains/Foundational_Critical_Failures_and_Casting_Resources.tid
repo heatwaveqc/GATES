@@ -1,0 +1,19 @@
+title: Foundational — Critical Failures and Casting Resources
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: domain-rule
+gates-parent: Foundational
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.0
+source-start-index: 2047
+source-end-index: 2750
+gates-order: 0001
+gates-component: yes
+caption: Critical Failures and Casting Resources
+domain-rule: critical-failures-and-casting-resources
+
+Ordinary Foundational spell critical failures use the standard Critical Spell Failure Table from the GURPS Basic Set, p. B236, unless a Tradition or a specific procedure explicitly replaces it. Flourishes, invention, enchanting, and ascension procedures retain their own stated failure consequences in addition to or instead of the ordinary spell table where their rules say so.
+
+Foundational has no shared Domain Tally. Its spellcasting uses the energy source and payment stated by the individual Tradition, normally FP or another explicit resource. A future Tally-using Foundational Tradition would require a shared Foundational Tally ledger and an explicit Threshold, Recovery, and backlash procedure.

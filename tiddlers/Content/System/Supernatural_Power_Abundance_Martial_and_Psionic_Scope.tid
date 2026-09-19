@@ -1,0 +1,22 @@
+title: Supernatural Power Abundance — Martial and Psionic Scope
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: Supernatural Power Abundance
+source-drive-id: 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc
+source-drive-title: Supernatural Power Abundance (SPA)
+source-tab-id: t.0
+source-start-index: 3209
+source-end-index: 4979
+gates-order: 0008
+gates-component: yes
+caption: Martial and Psionic Scope
+
+Creatures with Dependence (Mana, Constant) are inherently magical. Their natural traits are treated as supernatural for SPAA scaling rather than requiring each one to carry an explicit Magic tag. Their natural HP, ST and ST-related statistics, DR, and natural attack damage all scale with SPAA even when those traits are not separately tagged with a Magic Origin limitation. This includes Spirit Beasts and other naturally magical creatures built on that dependency. Purchased or externally granted traits that are not part of the creature's natural body still require an ordinary qualifying source unless another rule says otherwise.
+
+SPAA is not limited to traits carrying a conventional source modifier. It affects magic, Divine power, Super powers, qualifying psionics, and supernatural Martial abilities. For Martial abilities, any trait carrying an applicable Shido or Pact limitation is SPAA-affected when the underlying trait or effect belongs to one of the categories above. Thus a supernatural martial artist’s damage, DR, ST, Striking ST, and Lifting ST can scale high enough to threaten power armor and other megadamage-scale defenses.
+
+SPAA does not multiply a trait merely because it has a Shido. Enhanced DX, enhanced IQ, Talents, skill bonuses, and other traits outside the listed SPAA categories do not scale. Psionics and Force Powers remain a special case: they are multiplied when the character has Master Psionic or the applicable equivalent, or when a more specific Domain or Hybrid rule says otherwise.
+
+Some traits can have SPA Affected (20%), which is like Mana Sensitive except that the advantage does not have the limitation that it only functions in mana zones, but it is positively affected by SPA (and negatively affected by fractional SPA).

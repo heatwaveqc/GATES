@@ -1,0 +1,27 @@
+title: GATES Drive and Mark Framework — Finalized GATES Scaffolding Rules
+type: text/x-markdown
+gates-audience: player
+gates-section: System
+gates-kind: rule
+gates-parent: GATES Drive and Mark Framework
+source-drive-id: 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM
+source-drive-title: GATES Drive and Mark Framework
+source-tab-id: t.0
+source-start-index: 14383
+source-end-index: 16215
+gates-order: 0026
+gates-component: yes
+caption: Finalized GATES Scaffolding Rules
+rule: finalized-gates-scaffolding-rules
+
+The following universal procedures are part of the GATES framework rather than campaign-specific Drive design:
+
+One fictional event may satisfy several Drives. Assess each Drive independently unless the campaign explicitly adopts a stricter cross-crediting rule.
+
+When an authoritative source changes a Drive's wording or order, an unchanged Drive retains its Marks even if its position changes; a substantially rewritten or replaced Drive moves its Marks to Old Marks; and a new Drive begins at zero. The designer or GM must declare whether an edited entry is the same Drive or a replacement. Warning: avoid changing established source Drives during an active campaign unless the correction is genuinely necessary. Players build behavior and advancement expectations around their listed Drives, and revising them mid-game commonly feels like moving the goalposts.
+
+If a campaign changes its number of active Drives per source, newly activated Drives begin at zero and deactivated Drives move to Old Marks. If the exact same Drive is later reactivated, its archived Marks return with it. Warning: the active-Drive count should normally remain fixed once play begins. Reducing or expanding it mid-campaign changes advancement expectations and can frustrate players; treat such a change as a significant campaign rules revision, discuss it openly, and use it sparingly.
+
+The eventual standard GATES Drive sheet still requires layout and implementation work; its minimum data fields are defined below.
+
+With these procedures defined, no further universal scaffolding decisions are currently outstanding. Breadth, ease, frequency, overlap, source eligibility, change thresholds, active-source limits, Mark Value, Starting Character Value, Prestige Reset Value, and the number of active Drives are deliberate campaign or Drive-design choices.

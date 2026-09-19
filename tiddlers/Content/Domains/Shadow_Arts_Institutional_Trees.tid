@@ -1,0 +1,51 @@
+title: Shadow Arts — Institutional Trees
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: Shadow Arts
+source-drive-id: 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI
+source-drive-title: Kung Fu GATES
+source-tab-id: t.bpyyqaefz47o
+source-start-index: 3525
+source-end-index: 7953
+gates-order: 0006
+gates-component: yes
+caption: Institutional Trees
+tradition-component: institutional-trees
+
+Water Breathing and Snake Style, presented below, are complete legal Shadow Arts institutional instances. Either may be used as the initial tree for a practitioner who enters through instruction or as the required initial institutional instance for Class-granted access without an instructor. A Class-created original tree remains legal under the universal Jutsu rules, and additional legal trees may enter play through normal instruction or later Shadow Doyen authorship. The associated Tier 3 Jutsu Author continuation is Shadow Doyen.Tree Profiles and Tree Advantages
+
+Every Shadow Arts institutional tree uses the universal Jutsu Tree Profile: Style Weapons and weapon requirements, Style Armor and armor restrictions, any required implements or free-hand/body requirements, and the Tree Advantages associated with that lineage. These fields belong to the institutional tree rather than to the individual student. A listed Style Weapon never silently broadens an individual Jutsu's authored delivery, and equipment restrictions do not reduce Jutsu Raw Effect Penalty or CP cost unless a more specific rule explicitly says so.
+
+Shadow Arts Tree Advantages are Martial-origin Kung Fu Training Traits. Once a practitioner has legal access to the tree and satisfies the listed prerequisite, the trait may be learned through normal Kung Fu training rules. A Tree Advantage purchased through Shadow Arts may take every applicable Kung Fu Shido or Pact modifier that could normally modify that Martial trait. The ordinary exclusions still apply: governing or access traits such as Kung Fu Higher Purpose, Trained by a Master, Weapon Master, Talents, and comparable permission traits never gain a Shido discount merely because they appear near a Jutsu tree.
+
+When a Tree Advantage is purchased or upgraded through a particular institutional tree, its actual character-point cost after modifiers is assigned to that tree and counts toward that tree's Shadow Arts Mastery investment. A purchased trait's points may count toward only one institutional tree. A pre-existing advantage does not retroactively become tree investment; only points actually spent through that tree count.
+
+Universal Shadow Arts Conditioning
+
+Every complete Shadow Arts tree grants purchase access to the following Tree Advantages. When a leveled trait is listed, its maximum level before Mastery is Kung Fu Higher Purpose unless a lower published cap applies.
+
+- Combat Reflexes [15].
+
+- Fit [5] or Very Fit [15].
+
+- Extra FP [3/level], up to 4 × HT additional FP. This cap applies to Extra FP purchased through Shadow Arts, not to temporary bonuses or FP from other sources.
+
+- Regeneration (Fast; 1 FP/minute; Fatigue Only, -0%) [50]. This restores ordinary FP, including the same FP pool used to activate Shadow Arts Jutsu.
+
+- High Pain Threshold [10].
+
+- Hard to Kill [2/level].
+
+- Hard to Subdue [2/level].
+
+- Breath-Holding [2/level].
+
+- Repeated Parries: Enhanced Parry (Repeated Parries Only, -40%) [3/level], specialized to Bare Hands or one Style Melee Weapon skill. It only offsets cumulative repeated-parry penalties; it never improves the first parry or raises a later parry above the ordinary unpenalized score.
+
+Derived Tree Advantages
+
+A Shadow Arts tree may also grant permanent purchase access to a narrow set of traits explicitly taught by its own Jutsu. The tree profile must name each derived Tree Advantage and the Jutsu that unlocks it. The practitioner must purchase that Jutsu before purchasing the derived advantage. Before Mastery, the legal derived catalog is Ambidexterity; Catfall; Clinging; Flexibility or Double-Jointed; Perfect Balance; Super Climbing; Super Jump; Enhanced Move (Ground); Striking ST; DR with Tough Skin; Enhanced Dodge; Enhanced Parry; and Enhanced Block. A derived trait cannot exceed the highest level explicitly granted by a purchased Jutsu in that tree, and ordinary GATES caps still apply. Before Mastery, derived Enhanced Dodge, Enhanced Parry, and Enhanced Block are each capped at +1 from this permission.
+
+This pre-Mastery catalog is deliberately narrower than Technique Made Flesh. Extra Attack, Flight, Enhanced Time Sense, Warp, claws or Talons, unrestricted Damage Resistance, and other exotic or unusually broad self-buffs do not become permanent Tree Advantages before Mastery merely because a Jutsu grants them temporarily. They require Technique Made Flesh after Mastery or another explicit permission.

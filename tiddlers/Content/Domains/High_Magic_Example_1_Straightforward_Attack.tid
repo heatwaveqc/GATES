@@ -1,0 +1,17 @@
+title: High Magic — Example 1 — Straightforward Attack
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 33134
+source-end-index: 33828
+gates-order: 0032
+gates-component: yes
+caption: Example 1 — Straightforward Attack
+tradition-component: example-1-straightforward-attack
+
+Maris casts a Yang-Fire-Tiger working to hurl a burst of flame. She declares no parameter maxima, so Yang takes no penalty for declarations. Base energy is 0 + 3 + 2 = 5 FP and base casting time is 0 - 1 + 2 = 1 second. Her final rolls produce margins of success 8 for Yang, 6 for Fire, and 7 for Tiger, so the working's margin of success is 6. Damage is 1d6 per 2 full points of margin, for 3d6 burning damage. This is a rolled physical attack: resolve the attack roll, active defense, and DR normally, with no additional resistance contest. If Maris had Tiger Animal Mastery, the same damaging Tiger working would instead deal one die per point of margin, or 6d6 before any other multipliers.

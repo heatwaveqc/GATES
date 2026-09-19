@@ -1,0 +1,33 @@
+title: High Magic — Constructs
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 5314
+source-end-index: 5899
+gates-order: 0007
+gates-component: yes
+caption: Constructs
+tradition-component: constructs
+
+Frequently, High Magic will create constructs, which follow somewhat different rules.
+
+Damage: 1d6 per 5 points of margin
+
+Healing: N/A.
+
+Mass: Use the applicable table, divided among the number of constructs actually generated.
+
+Number of Constructs: equal to margin of success, at best.
+
+Area: None
+
+Duration: Use the applicable table.
+
+Range in Time: Use the applicable table, subject to the normal High Magic restriction: sensory effects or future triggers only; High Magic cannot travel through time.
+
+Character Points: 10 character points per margin of success, divided among constructs.

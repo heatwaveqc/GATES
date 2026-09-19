@@ -1,0 +1,17 @@
+title: High Magic — Failure and Critical Results
+type: text/x-markdown
+gates-audience: player
+gates-section: Domains
+gates-kind: tradition-component
+gates-parent: High Magic
+source-drive-id: 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo
+source-drive-title: Foundational Magics GATES
+source-tab-id: t.pchvis8f7d1p
+source-start-index: 1860
+source-end-index: 3203
+gates-order: 0003
+gates-component: yes
+caption: Failure and Critical Results
+tradition-component: failure-and-critical-results
+
+If any required Word roll fails, the entire casting fails and the caster loses the full attempted energy cost. If any required Word roll critically fails, the entire casting critically fails regardless of the other rolls; the caster loses the full attempted energy cost, and the GM maliciously interprets the intended working and resolves a twisted result from the expression. A failed or critically failed casting does not trigger a mana surge, even if three or more other required Word rolls are critical successes. Otherwise, if any Word roll is a critical success, the working costs no energy and its damage, healing, or granted character points are doubled. Two critical successes multiply those effects by 8. If at least three required Word rolls are critical successes, multiply those effects by 32 and trigger a mana surge. A casting can trigger at most one mana surge. The local Mana level permanently increases by one step in a radius equal to the lowest Word skill in miles. All living beings in that radius must make an HT roll. Add Magery to HT, apply a penalty equal to twice the caster’s Magery, and modify the roll for the new Mana level: +5 in Low Mana, +0 in Normal Mana, -5 in High Mana, -10 in Very High Mana, or -20 in Very High Mana (Wild). On a failed HT roll, the subject dies and their body dissolves into nothingness.
