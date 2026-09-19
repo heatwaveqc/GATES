@@ -86,3 +86,17 @@ tiddlywiki . --listen
 Do not automatically copy large Drive documents into single giant tiddlers.
 Prefer small, linked units that are useful independently. This is both better
 for human navigation and safer for targeted LLM retrieval.
+
+## Work migration handoff
+
+The canonical execution contract for the first population pass is
+[`WORK_HANDOFF.md`](WORK_HANDOFF.md). The queued execution checklist is
+[`migration/FIRST_PASS_MANIFEST.md`](migration/FIRST_PASS_MANIFEST.md).
+
+When the user says **"Make the first pass at populating the GATES Wiki"**, use
+`WORK_HANDOFF.md` as the operational specification. It defines the exact pilot
+entities, source Drive IDs, target repository paths, audience behavior, recursive
+Jutsu test, validation commands, commit policy, and stop condition.
+
+Do not substitute a broad Drive crawl, bulk migration, or visual redesign for that
+bounded first pass.
