@@ -1,0 +1,16 @@
+title: GATES Home
+tags: [[GATES]] [[Index]]
+type: text/x-markdown
+created: 20260919000000000
+modified: 20260919000000000
+gates-audience: player
+gates-section: System
+gates-kind: index
+
+# GATES
+
+Player-facing GATES wiki foundation.
+
+This wiki is being rebuilt around small, modular tiddlers. Only material that has been explicitly classified for the Player audience is included here.
+
+As migration proceeds, section, kind, parent, and tag metadata will generate increasingly rich navigation.

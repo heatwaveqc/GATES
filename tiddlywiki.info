@@ -8,9 +8,21 @@
         "tiddlywiki/snowwhite"
     ],
     "build": {
-        "index": [
+        "player": [
             "--output",
-            "static",
+            "static/player",
+            "--deletetiddlers",
+            "[!prefix[$:/]!field:gates-audience[player]]",
+            "--render",
+            "$:/core/save/all",
+            "index.html",
+            "text/plain"
+        ],
+        "gm": [
+            "--output",
+            "static/gm",
+            "--deletetiddlers",
+            "[!prefix[$:/]!field:gates-audience[player]!field:gates-audience[gm]]",
             "--render",
             "$:/core/save/all",
             "index.html",

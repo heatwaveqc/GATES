@@ -29,29 +29,49 @@ jobs:
       - name: Install TiddlyWiki
         run: npm install -g tiddlywiki
 
-      - name: Show TiddlyWiki version (diagnostic)
+      - name: Show TiddlyWiki version
         run: tiddlywiki --version
 
+      - name: Validate classified metadata
+        run: node scripts/validate-metadata.js
+
       - name: Prepare output directory
-        run: mkdir -p static
-
-      - name: Build static export
-        run: tiddlywiki . --build index
-
-      - name: Verify output exists
         run: |
-          if [ ! -s static/index.html ]; then
-            echo "::error::static/index.html was not created or is empty. Check the 'Build static export' step's output above for TiddlyWiki warnings/errors."
-            echo "Repository root:"
-            ls -la
-            echo "static/:"
-            ls -la static/ || true
-            echo "output/:"
-            ls -la output/ || true
+          rm -rf static
+          mkdir -p static
+
+      - name: Build Player wiki
+        run: tiddlywiki . --build player
+
+      - name: Build GM wiki
+        run: tiddlywiki . --build gm
+
+      - name: Publish Player wiki at site root
+        run: cp static/player/index.html static/index.html
+
+      - name: Verify audience builds
+        run: |
+          test -s static/index.html
+          test -s static/player/index.html
+          test -s static/gm/index.html
+
+          grep -q "Player-facing GATES wiki foundation." static/player/index.html
+          grep -q "Player-facing GATES wiki foundation." static/gm/index.html
+
+          if grep -q "GM-only GATES wiki foundation." static/player/index.html; then
+            echo "::error::GM-only material leaked into the Player build."
             exit 1
           fi
-          echo "Build output looks good:"
-          ls -lh static/index.html
+
+          grep -q "GM-only GATES wiki foundation." static/gm/index.html
+
+          if grep -q "GATES Master Design Document" static/player/index.html; then
+            echo "::error::Unclassified legacy material leaked into the Player build."
+            exit 1
+          fi
+
+          echo "Audience builds verified:"
+          ls -lh static/index.html static/player/index.html static/gm/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
