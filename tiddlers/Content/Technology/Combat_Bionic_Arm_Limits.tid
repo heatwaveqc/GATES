@@ -1,0 +1,16 @@
+title: Combat Bionic Arm — Limits
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Combat Bionic Arm
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 79070
+source-end-index: 79224
+gates-order: 0003
+gates-component: yes
+caption: Limits
+
+Electrical; Maintenance; Accessibility: Only While Powered; Breakable gadget (only if the component qualifies); wireless attack surface only if networked.

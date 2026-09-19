@@ -1,0 +1,23 @@
+title: Perfectly Normal Cat — Attributes
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Perfectly Normal Cat
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.20gokb9zqe73
+source-start-index: 846
+source-end-index: 1040
+gates-order: 0002
+gates-component: yes
+caption: Attributes
+species-component: attributes
+
+- ST: -6; Species average ST 4; natural cap 14.
+
+- DX: +4; Species average DX 14; natural cap 24.
+
+- IQ: +0; Species average IQ 10; natural cap 20.
+
+- HT: +0; Species average HT 10; natural cap 20.

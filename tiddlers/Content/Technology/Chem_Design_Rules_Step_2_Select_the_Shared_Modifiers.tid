@@ -1,0 +1,37 @@
+title: Chem Design Rules — Step 2: Select the Shared Modifiers
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 5798
+source-end-index: 6371
+gates-order: 0006
+gates-component: yes
+caption: Step 2: Select the Shared Modifiers
+technology-rule: step-2-select-the-shared-modifiers
+
+Apply enhancements and limitations to the package.
+
+All integrated effects must share the same chem-level modifiers, including:
+
+Duration
+
+Backlash
+
+Temporary Disadvantages
+
+Accessibility
+
+Unreliability
+
+Triggering conditions
+
+Activation requirements
+
+A modifier intrinsic to one trait may still apply only to that trait. For example, DR might have Tough Skin while another advantage in the package does not. Such a modifier cannot give that component a separate duration, onset, or crash.
+
+As normal in GURPS, net limitations cannot reduce a trait below 20% of its unmodified value.

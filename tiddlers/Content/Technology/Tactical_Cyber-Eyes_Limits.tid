@@ -1,0 +1,16 @@
+title: Tactical Cyber-Eyes — Limits
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Tactical Cyber-Eyes
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 73567
+source-end-index: 73633
+gates-order: 0003
+gates-component: yes
+caption: Limits
+
+Electrical; Maintenance; wireless attack surface only if wireless.

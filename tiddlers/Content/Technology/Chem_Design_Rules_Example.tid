@@ -1,0 +1,29 @@
+title: Chem Design Rules — Example
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 10786
+source-end-index: 11085
+gates-order: 0014
+gates-component: yes
+caption: Example
+technology-rule: example
+
+A chem grants a 100-point advantage with:
+
+Reduced Duration, -40%
+
+Nauseated Backlash, -30%
+
+Its values are:
+
+DPL: 30 points
+
+BV: 60 points
+
+The short duration reduces the actual benefit. The nausea makes the formula easier and cheaper to produce, but does not make the positive experience less addictive.

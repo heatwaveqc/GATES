@@ -1,0 +1,33 @@
+title: Chem Design Rules — Effective Talent
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 11127
+source-end-index: 11558
+gates-order: 0016
+gates-component: yes
+caption: Effective Talent
+technology-rule: effective-talent
+
+A chem designer uses:
+
+Effective Talent = Actual Talent + max(0, TL - 8)
+
+Each TL above TL8 grants +1 Effective Talent.
+
+| Tech Level | Talent bonus |
+| --- | --- |
+| TL8 or lower | +0 |
+| TL9 | +1 |
+| TL10 | +2 |
+| TL11 | +3 |
+| TL12 | +4 |
+
+This bonus allows sufficiently advanced pharmaceutical science to create basic chems without innate Talent or access to a special Tradition.
+
+It does not replace the necessary invention, scientific, or manufacturing skills.

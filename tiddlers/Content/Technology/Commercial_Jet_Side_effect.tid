@@ -1,0 +1,16 @@
+title: Commercial Jet — Side effect
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Commercial Jet
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 1946
+source-end-index: 2047
+gates-order: 0005
+gates-component: yes
+caption: Side effect
+
+Side effect: At the end, roll HT. Failure gives DX-2 and IQ-2 for minutes equal to margin of failure.

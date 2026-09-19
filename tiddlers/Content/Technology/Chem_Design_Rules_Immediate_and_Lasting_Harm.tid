@@ -1,0 +1,19 @@
+title: Chem Design Rules — Immediate and Lasting Harm
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 7391
+source-end-index: 7962
+gates-order: 0009
+gates-component: yes
+caption: Immediate and Lasting Harm
+technology-rule: immediate-and-lasting-harm
+
+A formula may use Costs HP, immediate toxic injury, an Aging roll, permanent disadvantages, mutation, or other lasting harm. Build immediate injury as Costs HP or another normal limitation whenever possible. Formula-specific cumulative damage may instead require HT rolls, track previous uses, or impose lasting consequences at defined thresholds. These are explicit properties of the formula, not a separate universal subsystem.
+
+Harmful use costs and lasting side effects reduce DPL but do not reduce BV unless they also restrict what the positive effect can accomplish.

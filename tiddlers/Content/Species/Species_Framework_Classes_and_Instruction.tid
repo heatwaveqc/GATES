@@ -1,0 +1,31 @@
+title: Species Framework — Classes and Instruction
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Species Framework
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.0
+source-start-index: 5003
+source-end-index: 8656
+gates-order: 0004
+gates-component: yes
+caption: Classes and Instruction
+species-rule: classes-and-instruction
+
+A Class is an Unusual Background that grants spontaneous, training-free access to a supernatural Domain and its special traits. It is not required to learn that Domain from someone else.
+
+Species Class access is based on Species membership, not Mature qualification. A member may select Classes listed for their Species even if they do not currently meet that Species' attribute minimums, Required Traits, or Forbidden-Trait restrictions. Purchasing a Class through Species access is not multiclassing and is not blocked by having unmastered Classes. However, any character may learn Tier 1 and higher abilities from any Domain through instruction, subject to the normal prerequisites and training rules, even without possessing that Domain's Class.
+
+A Species' Class list identifies the regular Domains that can arise spontaneously among that Species. Consequently, even an isolated population with no contact with its parent society may independently develop those Domains, strongly shaping the societies that Species creates.
+
+Skilled Domain inheritance: A Skilled Domain does not need to be listed when the Species already has a listed regular Domain Class in the same Origin. Every member of that Species may also buy the Skilled Domains of that Origin as Species Classes. List a Skilled Domain explicitly only when the Species should have spontaneous access to it but has no listed regular Domain Class in that Origin. Skilled access follows Species membership just like other Species Classes and does not require Mature qualification.
+
+A Champion gains access to one Champion Class and may then acquire further Classes through Mastery and multiclassing. Seedlings likewise receive one free Class under their campaign rule. If a Champion or Seedling free Class overlaps a Class already available through Species access, use the Free-Class Overlap rule in GATES New Class List: the overlap creates one deferred opportunity to purchase an out-of-Species Class at normal cost without treating that purchase as ordinary multiclassing. A Champion can therefore become a new source of Domain instruction for an entire society, provided the Champion chooses to teach.
+
+Human Flexibility: Each Human has two individualized Species Class slots. One may be filled by any Tech Class. The other may be filled by any Class, including a second Tech Class. A slot need not be fixed until the Human first purchases the Class that will occupy it. The wildcard slot may only be filled by a Class the Human has been meaningfully exposed to and whose capabilities would be recurringly useful in the same kinds of circumstances through which that Human is gaining Adventuring Experience. In addition, every Skilled Class counts as a Species Class for every Human and does not occupy either individualized slot. All Classes still cost their normal point cost unless another rule explicitly grants them for free, and they follow their normal progression and prerequisites.
+
+Changelings are an explicit exception to ordinary Species Class lists and use the special Class-access rules written in their Species entry.
+
+Species Class access is cumulative across a character’s Natural Species and all compatible Modification Species. Multiple Modification Species may coexist when their fictional causes are compatible. Once purchased, a Class remains even if the Species or Champion status that granted access is later lost. A former Champion may pay the normal 20-point Class cost to retain the Class that was previously supplied by their patron. New Class purchases remain limited to current Species Class lists and Classes made available through Mastery or multiclassing.

@@ -1,0 +1,19 @@
+title: Rostro — 🗺 Trade Function in System
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Rostro
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 21228
+source-end-index: 21451
+gates-order: 0008
+gates-component: yes
+caption: 🗺 Trade Function in System
+setting-component: trade-function-in-system
+
+Feeds: Jevin (timber, mycelium, flavor additives), Halor (seeds, fungal spores), black markets (medical fungus, illicit gear)
+
+Receives From: Jevin (tools, drones), Halor (genetic material), Asteroid Beta (covert shipments)

@@ -1,0 +1,15 @@
+title: Tactical Cyber-Eyes
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Night Vision, Protected Vision, Telescopic Vision, optional Infravision or Hyperspectral Vision; usually 10-35 points.
+gates-inherits: [[Cybernetics — GATES Setting Rules]]
+
+Night Vision, Protected Vision, Telescopic Vision, optional Infravision or Hyperspectral Vision; usually 10-35 points.
+
+{{||$:/GATES/Assembly}}

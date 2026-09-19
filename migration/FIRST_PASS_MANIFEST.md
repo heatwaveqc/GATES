@@ -1,47 +1,97 @@
 # GATES Wiki First-Pass Migration Manifest
 
-This manifest is the execution checklist for the first population pass defined in `WORK_HANDOFF.md`.
+Execution date: 2026-09-19. Scope: `WORK_HANDOFF.md`; source corpus read by exact document/tab and bounded selected sections. No bulk catalog, archive, Art, or theme migration.
 
-Status values: **Queued / Mapping / Migrating / Validation / Complete / Needs Revisit**
+## Result
 
-| Section | Source / Entity | Drive ID | Status | Target tiddlers / notes |
-|---|---|---|---|---|
-| Navigation | GATES Home + section indexes | repo-native | Queued | Domains, Species, Setting, Gods, Monsters, Technology, Campaigns, System |
-| Domains | Kung Fu | 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI | Queued | Root + Gaoshou + Shadow Arts |
-| Domains | Shadow Arts — Water Breathing | 138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI | Queued | Complete tree instance + composite Jutsu |
-| Domains | Foundational | 1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo | Queued | Root + Low Magic + Innovator + High Magic |
-| Domains | Eldritch Gifts | 1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU | Queued | Root + Revelator + Dreadhound + Spawn |
-| Species | Species framework rules | 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0 | Queued | Central species-rule tiddlers |
-| Species | Firrerreo | 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0 | Queued | Atomic Species components |
-| Species | Perfectly Normal Cat | 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0 | Queued | Atomic Species components |
-| Species | Worgen | 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0 | Queued | Modification Species |
-| Species | Goldblood | 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0 | Queued | Atomic Species components |
-| Setting | GATES Earth root | 1zk6aHWu3EybLwSeriF_d2EV5DsiQHrVMuw_ZoAzihVA | Queued | Setting root + useful atomic setting rules |
-| Setting | France under the Blood Moon | 1dCjSis-3euD-EgTd134vOH33RkIETBaQaHWg9TWhfUM | Queued | Composite setting/nation entity |
-| Setting | The Veltrass System | 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM | Queued | System hub/setting entity |
-| Gods | Celestial Dragons group | 1l9sefqa0UAycpmkxJto9pRPRcPnljvbvBJl1og6DV9M | Queued | Group + Gold Dragon + Jade Dragon |
-| Gods | Barbarian Gods group | 1IRwsCixEUUTV9yfmF5zjTGoK0kwjqF6cIH9Gs4WU80k | Queued | Group + Father Sky + Friend Darkness |
-| Monsters | Undead | 11QeSCcOb0yhCk71NWp43sPZ3uYGxtRyj1W4LIe2RvCo | Queued | Index + Vampires + Demon Slayer Demons |
-| Monsters | Demons | 1X5TQKfcj49zNYiV1jQjy5V28w9n8rtHKh02qBG3ZtnI | Queued | Index + Balseraphs + Djinn |
-| Technology | Cybernetics | 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg | Queued | Framework + Tactical Cyber-Eyes + Combat Bionic Arm + Total Cyborg Body |
-| Technology | Chems | 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0 | Queued | Design rules + Commercial Jet + Stimpak + Mentats |
-| Campaigns | Starbucks Adventuring Division | 1SrNtdazV9bEp6sRrr3Ma_t_V-reU0vu9CkQ2T4VlLeM | Queued | Campaign root/index |
-| Campaigns | Fall of Tokyo | 1-lgMToA6x-oeX-6tzgitobsfoILo5XPOSTVteLDDplI | Queued | Campaign root/index |
-| System | Godmath | 19-zr0zLjEEanMedfv-lxCbrIByik7-vByLafg4rqU98 | Queued | Central reusable rules |
-| System | Supernatural Power Abundance | 1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc | Queued | Central reusable rules |
-| System | Drive and Mark Framework | 1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM | Queued | Central reusable rules |
+The exact pilot is imported or marked **Needs Revisit** below. Migration completeness is separate from mechanical completeness and authority. Provisional source content stays provisional; no `gates-authority` values were invented.
 
-## Decisions / questions
+- Navigation: GATES Home; eight metadata-driven section indexes; setting hubs for GATES Earth, Star Wars, Eternal War, Stellar Conflict, and Perfectly Normal Earth.
+- Water Breathing: eleven ordered Jutsu, each with five separate components. Ordinary forms cost 60 CP; Dead Calm adds 2 CP and requires Potence 5.
+- Veltrass: seven planets and two asteroid belts, with their profile components.
+- Shared Species, Domain, Engine, Mastery, Cybernetics, Chem, SPA, Godmath, and Drive rules are referenced/transcluded.
+- `GENERATED_INVENTORY.json` is the exact title/path/kind/audience/parent list; `SOURCE_MAP.json` records source ID, tab, revision, range, and paragraph hash per migrated atom. These are the per-row created-tiddler and provenance records.
 
-Record nonblocking authority, visibility, schema, or inheritance questions here rather than halting the entire migration.
+## Exact entity status
+
+| Entity | Section / kind | Audience | Status | Source title / Drive ID | Created tiddlers | Inherited rules / decision |
+|---|---|---|---|---|---|---|
+| GATES Home and section/setting indexes | Navigation / indexes | player | Complete | Repository-native | Home + 8 sections + 5 setting hubs | Metadata-generated navigation; templates under tiddlers/System |
+| Kung Fu | Domains / domain | player | Complete | Kung Fu GATES / `138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI` | 116 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| Gaoshou | Domains / tradition | player | Complete | Kung Fu GATES / `138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI` | 27 (root + descendants; see inventory) | [[Wuxia Engine]] [[Kung Fu — Core Shido]] [[Kung Fu — Accelerated Training]] [[Kung Fu — Learning Rate]] [[Kung Fu — Training Balance]] [[Kung Fu — Training Traits]] [[Martial Mastery Baseline]]; Complete Tradition rules through Examples and Boundaries. Incomplete named school examples (blank Shido) excluded; no extra institutional-style migration. |
+| Shadow Arts | Domains / tradition | player | Complete | Kung Fu GATES / `138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI` | 83 (root + descendants; see inventory) | [[Jutsu Engine]] [[Kung Fu — Core Shido]] [[Kung Fu — Accelerated Training]] [[Kung Fu — Learning Rate]] [[Kung Fu — Training Balance]] [[Kung Fu — Training Traits]] [[Martial Mastery Baseline]]; Selected scope imported; source meaning retained. |
+| Water Breathing | Domains / tradition-instance | player | Complete | Kung Fu GATES / `138Rw052iOGusYVsBcpDPUZHmtQERXktD95EwqHpBBCI` | 69 (root + descendants; see inventory) | [[Jutsu Engine]]; Selected scope imported; source meaning retained. |
+| Foundational | Domains / domain | player | Complete | Foundational Magics GATES / `1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo` | 55 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| Low Magic | Domains / tradition | player | Complete | Foundational Magics GATES / `1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo` | 10 (root + descendants; see inventory) | [[Regular Engine]] [[Foundational — Domain Core Mechanic: Insight]] [[Foundational — Critical Failures and Casting Resources]]; Selected scope imported; source meaning retained. |
+| Innovator | Domains / tradition | player | Complete | Foundational Magics GATES / `1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo` | 9 (root + descendants; see inventory) | [[Ritual Engine]] [[Foundational — Domain Core Mechanic: Insight]] [[Foundational — Critical Failures and Casting Resources]]; Selected scope imported; source meaning retained. |
+| High Magic | Domains / tradition | player | Complete | Foundational Magics GATES / `1H3-_qwSQZWB8bFAvQquusxw5Hf2oM6iJGSskCy8x4Lo` | 33 (root + descendants; see inventory) | [[Word Engine]] [[Foundational — Domain Core Mechanic: Insight]] [[Foundational — Critical Failures and Casting Resources]]; Three Mastery-gated Embodiment Path families preserved; not replaced by a generic pre-Mastery Path template. Word cost/time table reconstructed from native cells. |
+| Eldritch Gifts | Domains / domain | player | Complete | Eldritch Gifts Domain GATES / `1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU` | 65 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| Revelator | Domains / tradition | player | Complete | Eldritch Gifts Domain GATES / `1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU` | 13 (root + descendants; see inventory) | [[Psi Talented Engine]] [[Eldritch Gifts — Domain Core]] [[Eldritch Gifts — Basic Origin Benefits]] [[Eldritch Gifts — Revelations]] [[Eldritch Gifts — Expressing a Revelation]] [[Eldritch Gifts — Required Revelations]] [[Eldritch Gifts — Gifts]] [[Eldritch Gifts — Gift Value]] [[Eldritch Gifts — Power Stunts from Latent Gifts]] [[Eldritch Gifts — Demonstrated Eldritch Manifestations]] [[Eldritch Gifts — Eldritch Reserve]] [[Eldritch Gifts — Eldritch Universal Traits]] [[Eldritch Gifts — General Origin Rules]] [[Eldritch Gifts — Eldritch Modifier]] [[Eldritch Gifts — Eldritch Limitations]] [[Eldritch Gifts — Class Path]]; Psi Talented operational rules imported from Universal engine onward. Misplaced Immortal/Latent calibration paragraphs under its heading quarantined from this import. |
+| Dreadhound | Domains / tradition | player | Needs Revisit | Eldritch Gifts Domain GATES / `1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU` | 17 (root + descendants; see inventory) | [[Mastery Standards]] [[Eldritch Gifts — Domain Core]] [[Eldritch Gifts — Basic Origin Benefits]] [[Eldritch Gifts — Revelations]] [[Eldritch Gifts — Expressing a Revelation]] [[Eldritch Gifts — Required Revelations]] [[Eldritch Gifts — Gifts]] [[Eldritch Gifts — Gift Value]] [[Eldritch Gifts — Power Stunts from Latent Gifts]] [[Eldritch Gifts — Demonstrated Eldritch Manifestations]] [[Eldritch Gifts — Eldritch Reserve]] [[Eldritch Gifts — Eldritch Universal Traits]] [[Eldritch Gifts — General Origin Rules]] [[Eldritch Gifts — Eldritch Modifier]] [[Eldritch Gifts — Eldritch Limitations]] [[Eldritch Gifts — Class Path]] [[Hybrid Tradition Rules]]; Source labels Engine Hunter, Psionic + Super; shared Engine mapping remains unresolved. Local rules migrated; no Psi-Hunter/Martial Hunter substitution applied. |
+| Spawn | Domains / tradition | player | Complete | Eldritch Gifts Domain GATES / `1_F8il7EGu-k4mOHJwZDx2_7l0EZJPcPFN9QmmACyfSU` | 19 (root + descendants; see inventory) | [[Atavistic Engine]] [[Eldritch Gifts — Domain Core]] [[Eldritch Gifts — Basic Origin Benefits]] [[Eldritch Gifts — Revelations]] [[Eldritch Gifts — Expressing a Revelation]] [[Eldritch Gifts — Required Revelations]] [[Eldritch Gifts — Gifts]] [[Eldritch Gifts — Gift Value]] [[Eldritch Gifts — Power Stunts from Latent Gifts]] [[Eldritch Gifts — Demonstrated Eldritch Manifestations]] [[Eldritch Gifts — Eldritch Reserve]] [[Eldritch Gifts — Eldritch Universal Traits]] [[Eldritch Gifts — General Origin Rules]] [[Eldritch Gifts — Eldritch Modifier]] [[Eldritch Gifts — Eldritch Limitations]] [[Eldritch Gifts — Class Path]]; Selected scope imported; source meaning retained. |
+| Species Framework | Species / rule-hub | player | Complete | GATES Species / `1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0` | 7 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| Firrerreo | Species / species | player | Complete | GATES Species / `1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0` | 13 (root + descendants; see inventory) | [[Species Framework]]; Selected scope imported; source meaning retained. |
+| Perfectly Normal Cat | Species / species | player | Complete | GATES Species / `1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0` | 12 (root + descendants; see inventory) | [[Species Framework]]; Selected scope imported; source meaning retained. |
+| Worgen | Species / species | player | Needs Revisit | GATES Species / `1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0` | 6 (root + descendants; see inventory) | [[Species Framework]]; Source is a compact conversion sketch: alternative traits, unpriced Unlock options, and no complete attribute/trait chassis. Preserved without inventing mechanics. |
+| Goldblood | Species / species | gm | Complete | GATES Species / `1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0` | 15 (root + descendants; see inventory) | [[Species Framework]]; Provisional Reichsmensch tab; GM visibility pending review. Inherited Standard-chassis requirements included as shared baseline atoms, not a second Species import. |
+| GATES Earth | Setting / world | player | Complete | Setting / `1zk6aHWu3EybLwSeriF_d2EV5DsiQHrVMuw_ZoAzihVA` | 3 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| France under the Blood Moon | Setting / nation | player | Complete | France under the Blood Moon / `1dCjSis-3euD-EgTd134vOH33RkIETBaQaHWg9TWhfUM` | 19 (root + descendants; see inventory) | [[Supernatural Power Abundance]] [[Godmath]]; Source explicitly provisional. Open Questions remain GM-only; no unrecorded later border/quota decision substituted. |
+| The Veltrass System | Setting / star-system | player | Complete | The Veltrass System / `1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM` | 94 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| The Celestial Dragons | Gods / pantheon | player | Complete | Celestial Dragons / `1l9sefqa0UAycpmkxJto9pRPRcPnljvbvBJl1og6DV9M` | 16 (root + descendants; see inventory) | [[Godmath]]; Selected scope imported; source meaning retained. |
+| The Gold Dragon | Gods / god | player | Needs Revisit | Celestial Dragons / `1l9sefqa0UAycpmkxJto9pRPRcPnljvbvBJl1og6DV9M` | 7 (root + descendants; see inventory) | [[The Celestial Dragons — Consecrations, Oaths, and Gifts]]; Gift list includes reduced enchanting costs without a numerical rule. Listed Gifts migrated as supplied. |
+| The Jade Dragon | Gods / god | player | Needs Revisit | Celestial Dragons / `1l9sefqa0UAycpmkxJto9pRPRcPnljvbvBJl1og6DV9M` | 7 (root + descendants; see inventory) | [[The Celestial Dragons — Consecrations, Oaths, and Gifts]]; Ward/monitor Gifts are descriptions without complete constructions. No abilities invented. |
+| Barbarian Gods | Gods / pantheon | player | Complete | Barbarian Gods / `1IRwsCixEUUTV9yfmF5zjTGoK0kwjqF6cIH9Gs4WU80k` | 12 (root + descendants; see inventory) | [[Godmath]]; Selected scope imported; source meaning retained. |
+| Father Sky | Gods / god | player | Needs Revisit | Barbarian Gods / `1IRwsCixEUUTV9yfmF5zjTGoK0kwjqF6cIH9Gs4WU80k` | 4 (root + descendants; see inventory) | None; Wisdom of Father Sky is blank; Armor construction includes a half-DR preparation clause without an explicit modifier value. Existing text preserved. |
+| Friend Darkness | Gods / god | player | Needs Revisit | Barbarian Gods / `1IRwsCixEUUTV9yfmF5zjTGoK0kwjqF6cIH9Gs4WU80k` | 6 (root + descendants; see inventory) | None; Consecration and named Gifts are blank; Protect The Natural World Drive is unfinished. Only supplied Oath/Drive text imported. |
+| Undead | Monsters / monster-group | gm | Needs Revisit | Undead / `11QeSCcOb0yhCk71NWp43sPZ3uYGxtRyj1W4LIe2RvCo` | 3 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Vampires | Monsters / monster | gm | Needs Revisit | Undead / `11QeSCcOb0yhCk71NWp43sPZ3uYGxtRyj1W4LIe2RvCo` | 1 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Demon Slayer Demons | Monsters / monster | gm | Needs Revisit | Undead / `11QeSCcOb0yhCk71NWp43sPZ3uYGxtRyj1W4LIe2RvCo` | 1 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Demons | Monsters / monster-group | gm | Needs Revisit | Demons / `1X5TQKfcj49zNYiV1jQjy5V28w9n8rtHKh02qBG3ZtnI` | 3 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Balseraphs | Monsters / monster | gm | Needs Revisit | Demons / `1X5TQKfcj49zNYiV1jQjy5V28w9n8rtHKh02qBG3ZtnI` | 1 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Djinn | Monsters / monster | gm | Needs Revisit | Demons / `1X5TQKfcj49zNYiV1jQjy5V28w9n8rtHKh02qBG3ZtnI` | 1 (root + descendants; see inventory) | None; Specified source is a names-only outline with no creature mechanics or links. Full document structure checked. GM concept entries only; no profile invented. |
+| Cybernetics | Technology / technology-framework | player | Complete | GATES Cybernetics Framework / `1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg` | 57 (root + descendants; see inventory) | None; Selected operational support rules and authoritative GATES appendix; catalog stays limited to three entries. Source-setting boundary retained. |
+| Tactical Cyber-Eyes | Technology / equipment | player | Complete | GATES Cybernetics Framework / `1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg` | 7 (root + descendants; see inventory) | [[Cybernetics — GATES Setting Rules]]; Selected scope imported; source meaning retained. |
+| Combat Bionic Arm | Technology / equipment | player | Complete | GATES Cybernetics Framework / `1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg` | 7 (root + descendants; see inventory) | [[Cybernetics — GATES Setting Rules]]; Selected scope imported; source meaning retained. |
+| Total Cyborg Body | Technology / equipment | player | Complete | GATES Cybernetics Framework / `1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg` | 7 (root + descendants; see inventory) | [[Cybernetics — GATES Setting Rules]]; Selected scope imported; source meaning retained. |
+| Chem Design Rules | Technology / technology-framework | player | Complete | Chems / `1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0` | 72 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+| Commercial Jet | Technology / equipment | player | Complete | Chems / `1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0` | 12 (root + descendants; see inventory) | [[Chem Design Rules]]; Selected scope imported; source meaning retained. |
+| Stimpak | Technology / equipment | player | Complete | Chems / `1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0` | 12 (root + descendants; see inventory) | [[Chem Design Rules]]; Selected scope imported; source meaning retained. |
+| Mentats | Technology / equipment | player | Complete | Chems / `1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0` | 12 (root + descendants; see inventory) | [[Chem Design Rules]]; Selected scope imported; source meaning retained. |
+| Starbucks Adventuring Division | Campaigns / campaign | player | Complete | ☕ Starbucks Adventuring Division / `1SrNtdazV9bEp6sRrr3Ma_t_V-reU0vu9CkQ2T4VlLeM` | 19 (root + descendants; see inventory) | None; Handoff ID is a vampire supplement. Added exact-title Contractor Handbook (1ZfAanDuPPfy94XNdmtDs9-yWQVM3mLtqgp6AzJjoeIk) for a coherent root; pay schedule is GM-only pending current-campaign reconciliation. |
+| Fall of Tokyo | Campaigns / campaign | player | Complete | Fall of Tokyo — Working Campaign Document / `1-lgMToA6x-oeX-6tzgitobsfoILo5XPOSTVteLDDplI` | 16 (root + descendants; see inventory) | None; Public root and city baseline; disaster causation, gate roster, projections and working notes GM-only. AI routing not imported. |
+| Godmath | System / rule-hub | player | Needs Revisit | Godmath / `19-zr0zLjEEanMedfv-lxCbrIByik7-vByLafg4rqU98` | 27 (root + descendants; see inventory) | None; Source has unfinished greatest divine ranks, Great Demon Lord, Heroes, and Spirit definition; contains older Caliber/Class framing. Incomplete and personal campaign context retained GM-only; operational soul/afterlife rules imported. |
+| Supernatural Power Abundance | System / rule-hub | player | Needs Revisit | Supernatural Power Abundance (SPA) / `1So1EtjXdwr38tlv4dmA-FZaTZXeh6Xavc9C97Arh3Nc` | 7 (root + descendants; see inventory) | None; Scaling and Bane Bridge migrated. Source still calls SPA Enhancer a Caliber 10 unlock, while the current Drive framework removes Caliber from its forward core. Entitlement needs GM reconciliation; not silently rewritten. |
+| GATES Drive and Mark Framework | System / rule-hub | player | Complete | GATES Drive and Mark Framework / `1YUpe2p-LSdzFwTplBJ4yG97iAU2gbJFisiYc5pD_sFM` | 28 (root + descendants; see inventory) | None; Selected scope imported; source meaning retained. |
+
+## Structural and source decisions
+
+1. `gates-parent` means direct ownership only. Setting membership uses namespaced tags. Root/section filters use metadata; components are ordered by `gates-order`, and Jutsu by `tree-order`.
+2. Conservative provisional kinds: rule-hub, engine, engine-rule, domain-rule, tradition-instance, tree-component, setting-component, world, nation, star-system, planet, orbital-zone, pantheon, god, god-component, god-rule, monster-group, monster, technology-framework, technology-rule, equipment, equipment-component, campaign, campaign-component, field-guide, section-index and setting-hub. These are pilot implementation choices, not final architecture vocabulary.
+3. Species/tradition/Jutsu components use the architecture component fields. Additional `gates-index`, `gates-component`, `gates-order`, `gates-inherits`, `gates-description`, and `caption` fields drive reusable assembly.
+4. Engine/Mastery standards are kept centrally. Current Engine section 5.6 explicitly overrides conflicting local numerical benchmarks; displayed local nonnumerical requirements remain intact. No game mechanics were rewritten to fit a generic schema.
+5. Dreadhound retains its source name. Veiled is its Path; Infused is Spawn’s Path. Neither Path name was treated as a Tradition rename. Dreadhound’s fixed Path/current-prey configuration is provisionally indexed as personal instancing; Engine reconciliation remains Needs Revisit.
+6. Goldblood is GM-only because its source is explicitly a provisional Reichsmensch development tab. The provisional Species Development Allowance is not promoted to universal Species rules.
+7. Public rumors in Veltrass remain rumors. The definite statement that Starbucks and the Elgari secretly benefit from Belt Beta is GM-only.
+8. The Undead/Demons source IDs are names-only documents, confirmed with native structure reads. A title-only follow-up found no exact Djinn/Balseraph/Demon Slayer profile and several ambiguous Vampires documents; none was substituted without authority grounding.
+9. The Starbucks source-ID mismatch was repaired narrowly with the player Contractor Handbook. Its pay paragraph is retained in GM context because current-campaign payout reconciliation is outside this population pass.
+10. Native tables for High Magic, Cybernetics, Chems, and the Starbucks supplement are rebuilt from cell coordinates. No flattening of cost/time or procedure/trait/limit mappings.
+11. Existing unclassified legacy material remains excluded by the original fail-closed audience build. No Design/AI Instruction promotion into Player navigation.
+12. Exact content can be regenerated by `python scripts/import-first-pass.py <source-cache>`, using cached connector text responses plus `*-tables.json` responses. Source caches are intermediate; only the selected wiki atoms, source map, and importer are committed. Review source revisions before regenerating.
 
 ## Validation
 
-- [ ] `node scripts/validate-metadata.js`
-- [ ] Player build
-- [ ] GM build
-- [ ] No GM/AI leakage into Player
-- [ ] Navigation works
-- [ ] Water Breathing recursive composition works
-- [ ] Setting tag hubs work
-- [ ] GitHub Actions deploy succeeds
+- [x] Repository metadata validation.
+- [x] Player and GM built in separate TiddlyWiki processes (each build deletes excluded audiences in memory).
+- [x] Every generated root rendered without missing links or recursive transclusion errors.
+- [x] Required parents/inherited rules resolve.
+- [x] Eleven ordered Water Breathing Jutsu and all five required component types; 60 + 2 CP checked.
+- [x] Nine Veltrass planetary/orbital roots and four required populated setting tags.
+- [x] Exact Player/GM JSON-store membership matches every generated tiddler audience.
+- [x] Native table relationships preserved; selected source ranges recorded.
+- [ ] GitHub Actions deploy — awaiting push and workflow verification.
+
+Browser screenshot preview was unavailable because Chromium download failed in this runtime. Native TiddlyWiki HTML rendering and graph/build-store checks passed; no visual redesign was attempted.
+
+## Stop boundary
+
+Stop after successful deployment and this manifest’s final update. Needs Revisit items are concrete source/authority gaps, not authorization for an expanded corpus crawl or new rules design.

@@ -1,0 +1,17 @@
+title: Goldblood — Rules Clarification
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-component
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 8082
+source-end-index: 8291
+gates-order: 0007
+gates-component: yes
+caption: Rules Clarification
+species-component: special-rules
+
+Goldblood biological attributes count as unmodified for Mundane. The reference phenotype begins at ST 20, substantially reducing the remaining investment needed to reach Mundane’s all-15 attribute requirement.

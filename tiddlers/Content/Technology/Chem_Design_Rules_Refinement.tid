@@ -1,0 +1,43 @@
+title: Chem Design Rules — Refinement
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 12249
+source-end-index: 12866
+gates-order: 0019
+gates-component: yes
+caption: Refinement
+technology-rule: refinement
+
+Advanced designers may use their excess capability to improve a formula.
+
+Refinement Budget = Effective Talent - Required Talent
+
+Refinement is assigned when the chem is invented. The allocation becomes a permanent property of that formula.
+
+Refinement may be spent on:
+
+Addiction Refinement
+
+Cost Refinement
+
+Clearance Refinement
+
+Let:
+
+(R_A) = Refinement spent on addiction.
+
+(R_C) = Refinement spent on cost.
+
+(R_Cl) = Refinement spent on clearance.
+
+Then:
+
+R_A + R_C + R_Cl <= Refinement Budget
+
+Refinement may be left unspent. Crude, rushed, black-market, or intentionally addictive formulas often waste available Refinement.

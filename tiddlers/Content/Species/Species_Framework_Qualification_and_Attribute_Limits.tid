@@ -1,0 +1,25 @@
+title: Species Framework — Qualification and Attribute Limits
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Species Framework
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.0
+source-start-index: 2207
+source-end-index: 4474
+gates-order: 0002
+gates-component: yes
+caption: Qualification and Attribute Limits
+species-rule: qualification-and-attribute-limits
+
+Attribute modifiers normally adjust both the Species minimum and natural cap. The minimum is 6 plus the modifier, and the natural cap is always 20 plus the modifier. This cap rule applies to every Species, including ordinary Humans, animals, mundane creatures, monsters, and supernatural beings. These modifiers are not free attribute levels: the character must purchase the final attribute normally.
+
+ST Benchmark Minimum Exception: A creature or Species built from a mass-based ST benchmark may use a percentage-derived minimum instead of 6 plus its listed ST modifier. Animals and mundane creatures or Species use 90% of the published mass-based ST benchmark as the initial minimum; monsters, kaiju, supernatural creatures, and comparable cinematic Species use 80% of the cinematic proportional-lift ST benchmark. The listed GURPS racial-template ST modifier is benchmark ST minus 10, and the natural Species cap is still always 20 plus that modifier, or benchmark ST + 10. If the percentage-derived minimum would leave a total span narrower than 14 ST, use benchmark ST - 4 as the minimum instead. The benchmark remains the typical score.
+
+Species membership and Mature qualification are distinct. A character is a member of a Species because that is what the character is in the fiction. A Species member is Mature for mechanical purposes when they meet all attribute minimums, possess every Required Trait, and possess none of the Forbidden Traits. Mature in this sense is a qualification status, not a chronological age category. Required Traits may include advantages, disadvantages, features, skills, languages, anatomy, Size Modifier, or other explicitly listed traits.
+
+Required and Optional Species disadvantages do not count against the campaign disadvantage limit. Optional Species traits may be purchased without first achieving full qualification.
+
+Debuffs, temporary injuries, and temporary magical effects do not remove Mature qualification. If a character permanently ceases to qualify, such as through amputation, incompatible cybernetics, or the permanent removal of a required mental trait, they remain a member of the Species but cease to be Mature until qualification is restored. Species Unlocks turn off while Mature qualification is absent.

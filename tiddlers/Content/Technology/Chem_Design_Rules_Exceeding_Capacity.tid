@@ -1,0 +1,43 @@
+title: Chem Design Rules — Exceeding Capacity
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 20601
+source-end-index: 21449
+gates-order: 0032
+gates-component: yes
+caption: Exceeding Capacity
+technology-rule: exceeding-capacity
+
+Whenever a new dose raises the character above Chem Capacity, make an Overdose roll:
+
+Overdose Roll = HT + Highest Relevant Physical Talent - Current Excess - Previous Dissolution or Overdose Rolls
+
+Where:
+
+Current Excess is the number of uncleared chems above Chem Capacity.
+
+Previous Rolls is the number of Dissolution or Overdose rolls made in the previous 25 hours.
+
+The penalty increases with every additional unsafe dose.
+
+Each chem records an Overdose Effect:
+
+Coma
+
+Heart Attack
+
+Both
+
+Failure causes the listed condition.
+
+A critical failure, or failure while already suffering the listed condition, causes death.
+
+Luck and ordinary Resistance do not aid Overdose rolls unless they have the Cosmic modifier.
+
+If the character reaches twice their normal Chem Capacity, they die immediately, subject to normal GM judgment concerning involuntary drugging.

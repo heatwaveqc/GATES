@@ -1,0 +1,27 @@
+title: Species Framework — Species Types
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Species Framework
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.0
+source-start-index: 388
+source-end-index: 2170
+gates-order: 0001
+gates-component: yes
+caption: Species Types
+species-rule: species-types
+
+Every Species is one of three types. A character normally has one Natural Species and may also possess Physical Modification or Supernatural Modification Species that overlay it.
+
+Ascension Species is not a fourth Species type. It is a Domain-level acquisition and reward category: a Character Species gained through that Domain's explicitly defined ascension process. Every Ascension Species must still identify itself as Natural, Physical Modification, or Supernatural Modification. A Natural Ascension Species replaces the prior Natural Species; a Modification Ascension Species overlays it and follows the normal compatibility rules for Modification Species. Universal eligibility, Ascension Work, actual-sheet-delta Template Cost, Ascension Debt, failure, adulthood, and cross-Ascension rules are defined in Ascension Mechanics in the Domains folder.
+
+Natural Species is the Species into which a being is born. Changing it normally requires sufficiently advanced retroviral engineering or permanent species-changing magic, such as Tier 2 Greater Wish or any permanent Tier 3 alteration.
+
+Physical Modification Species alter physiology without replacing the Natural Species. Becoming a ghost is a Physical Modification: the character is dead and follows the ghost rules in Godmath. Liches and other primarily bodily undead templates are also Physical Modifications.
+
+Supernatural Modification Species alter the soul and mind, with bodily changes occurring as a secondary effect. Ascended, the Tier 2 acquired template from Psychic Magic, is a Supernatural Modification laid over the Natural Species. Lycanthropy and Vampirism are also Supernatural Modifications.
+
+Cybernetics are not a Species change. Uplifts are distinct Natural Species, and Changelings are their own Species.

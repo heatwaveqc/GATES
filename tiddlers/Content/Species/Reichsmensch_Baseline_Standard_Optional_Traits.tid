@@ -1,0 +1,21 @@
+title: Reichsmensch Baseline — Standard Optional Traits
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 3932
+source-end-index: 4022
+gates-order: 0040
+gates-component: yes
+caption: Standard Optional Traits
+species-rule: optional-advantages
+
+- Further ST, DX, IQ, or HT up to the Species cap.
+
+- Acute Senses.
+
+- Reproductive Control.

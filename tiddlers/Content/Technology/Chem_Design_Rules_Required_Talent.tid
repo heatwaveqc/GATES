@@ -1,0 +1,19 @@
+title: Chem Design Rules — Required Talent
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 12059
+source-end-index: 12235
+gates-order: 0018
+gates-component: yes
+caption: Required Talent
+technology-rule: required-talent
+
+The chem’s Required Talent is the lowest Talent that can accommodate both its Level Load and its DPL.
+
+The designer must have Effective Talent at least equal to Required Talent.

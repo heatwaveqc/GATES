@@ -1,0 +1,15 @@
+title: Combat Bionic Arm
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Arm ST +4 to +8 for one arm; local DR; optional Striking ST, tool port, or weapon. Typical core 15-50 points before armor and weapons.
+gates-inherits: [[Cybernetics — GATES Setting Rules]]
+
+Arm ST +4 to +8 for one arm; local DR; optional Striking ST, tool port, or weapon. Typical core 15-50 points before armor and weapons.
+
+{{||$:/GATES/Assembly}}

@@ -1,0 +1,39 @@
+title: Chem Design Rules — Separate Effects
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 21571
+source-end-index: 21854
+gates-order: 0034
+gates-component: yes
+caption: Separate Effects
+technology-rule: separate-effects
+
+Suppose four chems grant:
+
+ST +1
+
+DX +1
+
+IQ +1
+
+HT +1
+
+Taking all four produces:
+
+Four buff packages.
+
+Four addiction rolls.
+
+Four points of Chem Capacity.
+
+Four independent Clearance Intervals.
+
+Four separate production costs.
+
+Putting all four chemicals into one syringe changes none of this.

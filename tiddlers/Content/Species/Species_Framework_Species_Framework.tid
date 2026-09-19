@@ -1,0 +1,17 @@
+title: Species Framework — Species Framework
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Species Framework
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.0
+source-start-index: 28
+source-end-index: 372
+gates-order: 0000
+gates-component: yes
+caption: Species Framework
+species-rule: species-framework
+
+A Species entry is a trait-based qualification framework, not a fixed package of free traits. It defines attribute modifiers and limits, Required Traits, Optional Traits, Forbidden Traits, Unlocks, and the Classes that members of the Species may select. All traits cost their normal character points unless an entry explicitly states otherwise.

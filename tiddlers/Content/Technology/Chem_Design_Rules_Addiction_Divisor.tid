@@ -1,0 +1,30 @@
+title: Chem Design Rules — Addiction Divisor
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 13725
+source-end-index: 13924
+gates-order: 0023
+gates-component: yes
+caption: Addiction Divisor
+technology-rule: addiction-divisor
+
+The base Addiction Divisor is 50.
+
+Each point of Addiction Refinement doubles it:
+
+Addiction Divisor = 50 * 2^R_A
+
+| Addiction Refinement | Divisor |
+| --- | --- |
+| 0 | 50 |
+| 1 | 100 |
+| 2 | 200 |
+| 3 | 400 |
+| 4 | 800 |
+| 5 | 1600 |

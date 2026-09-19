@@ -1,0 +1,41 @@
+title: Chem Design Rules — Backlash
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 6748
+source-end-index: 7363
+gates-order: 0008
+gates-component: yes
+caption: Backlash
+technology-rule: backlash
+
+Backlash represents a harmful condition caused by the chem.
+
+For chems, Backlash normally begins when the beneficial effect ends.
+
+An automatic Backlash has a limitation equal to the corresponding Affliction enhancement. A resistible Backlash is worth half as much.
+
+A resistible Backlash requires an HT roll when the chem ends. On a failure, the condition lasts for minutes equal to the margin of failure, or seconds for Stunning.
+
+Examples include:
+
+Attribute penalties
+
+Nausea
+
+Pain
+
+Daze
+
+Stunning
+
+Unconsciousness
+
+Other Affliction conditions approved by the GM
+
+All effects in an integrated chem suffer the same Backlash.

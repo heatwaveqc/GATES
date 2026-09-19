@@ -1,0 +1,15 @@
+title: Total Cyborg Body
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Machine-body traits, DR, HP, Injury Tolerance, Doesn't Breathe, optional metabolic independence, sensors, Payload; 250-700+ points.
+gates-inherits: [[Cybernetics — GATES Setting Rules]]
+
+Machine-body traits, DR, HP, Injury Tolerance, Doesn't Breathe, optional metabolic independence, sensors, Payload; 250-700+ points.
+
+{{||$:/GATES/Assembly}}

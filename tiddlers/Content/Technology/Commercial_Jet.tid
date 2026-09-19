@@ -1,0 +1,15 @@
+title: Commercial Jet
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+gates-index: yes
+gates-description: Chem catalog entry; apply shared dosage, clearance, and overdose rules.
+gates-inherits: [[Chem Design Rules]]
+
+Chem catalog entry; apply shared dosage, clearance, and overdose rules.
+
+{{||$:/GATES/Assembly}}

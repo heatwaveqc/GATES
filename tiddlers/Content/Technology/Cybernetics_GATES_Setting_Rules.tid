@@ -1,0 +1,17 @@
+title: Cybernetics — GATES Setting Rules
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: rule-hub
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Shared cybernetics gates setting rules.
+gates-component: yes
+caption: GATES Setting Rules
+gates-order: 3335
+
+Shared cybernetics gates setting rules.
+
+{{||$:/GATES/Assembly}}

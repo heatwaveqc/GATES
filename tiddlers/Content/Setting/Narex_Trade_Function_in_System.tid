@@ -1,0 +1,19 @@
+title: Narex — 🗺 Trade Function in System
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Narex
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 32582
+source-end-index: 32861
+gates-order: 0010
+gates-component: yes
+caption: 🗺 Trade Function in System
+setting-component: trade-function-in-system
+
+Feeds: Jevin (navigation data, enforcement algorithms), Gate systems (latency correction), Chagar (automated response systems), Starbucks (mission sync and chrono-jumping prep)
+
+Receives From: Jevin (tools, personnel), Halor (psych meds), Chagar (power), Gate (firmware updates)

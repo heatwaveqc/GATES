@@ -55,8 +55,8 @@ jobs:
           test -s static/player/index.html
           test -s static/gm/index.html
 
-          grep -q "Player-facing GATES wiki foundation." static/player/index.html
-          grep -q "Player-facing GATES wiki foundation." static/gm/index.html
+          grep -q "Welcome to GATES" static/player/index.html
+          grep -q "Welcome to GATES" static/gm/index.html
 
           if grep -q "GM-only GATES wiki foundation." static/player/index.html; then
             echo "::error::GM-only material leaked into the Player build."
@@ -72,6 +72,9 @@ jobs:
 
           echo "Audience builds verified:"
           ls -lh static/index.html static/player/index.html static/gm/index.html
+
+      - name: Verify pilot graph and rendered pages
+        run: NODE_PATH="$(npm root -g)" node scripts/validate-first-pass.js
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

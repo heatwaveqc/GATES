@@ -1,0 +1,23 @@
+title: Perfectly Normal Cat — Secondary Characteristics — Required
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Perfectly Normal Cat
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.20gokb9zqe73
+source-start-index: 1079
+source-end-index: 1205
+gates-order: 0003
+gates-component: yes
+caption: Secondary Characteristics — Required
+species-component: required-secondary-characteristics
+
+- Will +1 [5].
+
+- Per +2 [10].
+
+- Basic Move +4 [20].
+
+A typical adult therefore has Will 11, Per 12, Basic Speed 6, and Move 10.

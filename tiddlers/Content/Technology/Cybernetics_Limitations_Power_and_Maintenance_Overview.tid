@@ -1,0 +1,99 @@
+title: Cybernetics — Limitations, Power, and Maintenance — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Limitations, Power, and Maintenance
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 18809
+source-end-index: 26750
+gates-order: 0000
+gates-component: yes
+caption: Limitations, Power, and Maintenance — Overview
+technology-rule: overview
+
+Use standard modifiers and disadvantages. Do not give cybernetics a discount merely for being technological.
+
+REQUIRES ONBOARD POWER
+
+Requires onboard power is not a separate limitation. Model it with Accessibility: Only While Powered, Costs FP or ER, Takes Recharge, Limited Use, Dependency, or genuine Gadget limitations-whichever matches how the system actually fails.
+
+Cybernetics do not receive a generic discount for being technological. Apply only limitations that create real restrictions in play. Requires onboard power is normally modeled with standard GURPS modifiers rather than a new limitation.
+
+| Modifier / Drawback | Typical Value | Use When | Rules Basis / Caution |
+| --- | --- | --- | --- |
+| Temporary Disadvantage: Electrical | -20% | EMP, surge, or electrical disruption disables the trait. | Standard modifier used by Ultra-Tech cybernetics. Do not apply to passive armor or living tissue. |
+| Temporary Disadvantage: Maintenance | Variable | The trait becomes unavailable or degraded when scheduled service is missed. | Use the point value of Maintenance as the temporary disadvantage. Do not double-count ordinary upkeep. |
+| Accessibility: Only While Powered | Usually -5% to -20% | An onboard generator or finite reserve must function for the trait to operate. | Standard Accessibility. Value depends on how often power loss matters in this campaign. |
+| Costs ER / Costs FP | By energy cost | The ability draws measurable energy each use or each minute. | Use for active bursts, not passive systems that merely require electricity. |
+| Takes Recharge | By recharge time | The system works in bursts and then cools or recharges. | Appropriate for jump jets, active camouflage, weapons, and emergency repair. |
+| Limited Use | By uses | The system consumes ammunition, doses, coolant, fuel, or charges. | Do not apply when resupply is automatic and never tracked. |
+| Gadget Limitations | Variable | An external, replaceable, breakable or separately damageable component provides the ability. | Use Breakable, Can Be Stolen, Size, or Unique only when the component truly qualifies as a gadget. |
+| Dependency: Power | Disadvantage | The character needs power to remain alive or healthy. | Use for total bodies or life-support organs, not for a single optional tool. |
+| Can't Wear Armor | Separate disadvantage | Body shape or integrated shell prevents ordinary armor. | Only when normal armor really does not fit. |
+| Unhealing / Repair Only | Template disadvantage | Machine components require repair rather than natural healing. | Living biotech may heal normally and should not take this. |
+| Unreliable | By activation number | Prototype, damaged, cursed, or black-market system. | Do not use for mature commercial hardware. |
+
+| Power Arrangement | Suggested Treatment | When It Deserves a Discount |
+| --- | --- | --- |
+| Body heat, motion, or effectively unlimited reserve | No modifier | Normal cybernetic power. The user cannot reasonably lose it during play. |
+| Cell changed during normal Maintenance | Usually no extra modifier | The cell is already part of the Maintenance or equipment logistics. |
+| Internal generator; 24+ hour reserve | Accessibility about -5% | Failure can matter, but the group normally has time to respond. |
+| Internal generator; 1-hour reserve | Accessibility about -10% | Generator failure is a mission-significant single point of failure. |
+| Internal generator; 10-minute reserve | Accessibility about -15% | Loss of power threatens the trait during a scene or combat. |
+| No reserve; generator can be disabled | Accessibility about -20% | Dependent traits stop immediately when a plausible target or hazard disables power. |
+| External pack, cable, or tether | Accessibility plus Gadget limits, often -20% to -40% | Visible, vulnerable, removable, and possibly movement-limiting. Price the actual restrictions. |
+
+| Package | Common Standard Modifiers | Use and Caution |
+| --- | --- | --- |
+| Passive Structural | Usually none | Bone reinforcement, passive armor, and storage receive no discount merely for being cybernetic. |
+| Standard Powered | Temporary Disadvantage: Electrical; Maintenance when service is genuinely required | Ordinary active eyes, ears, communicators, and limbs. |
+| Finite Reserve | Accessibility: Only While Powered, Costs ER/FP, Limited Use, or Takes Recharge | Choose the modifier that matches the actual reserve and shutdown behavior. |
+| External Module | Gadget: Breakable and/or Can Be Stolen, plus Accessibility if it must remain connected | Use only for exposed packs, cables, detachable hardpoints, or other true gadgets. |
+| Wireless System | Usually no point discount; use hacking and security rules | A wireless path is a tactical vulnerability. Apply a limitation only when it predictably deprives the character of the trait. |
+| Prototype / Damaged | Unreliable, Maintenance, or Temporary Disadvantage as appropriate | Do not assume experimental hardware deserves every drawback at once. |
+
+| Power Source | Typical Scale | Point Treatment | Common Limits |
+| --- | --- | --- | --- |
+| Body heat / motion | Small sensors and utility implants | Usually a feature; no discount | Low output only |
+| Internal rechargeable cell | Eyes, radios, ordinary limbs | Maintenance or small Accessibility: Only While Powered limit | Recharge every days or weeks |
+| Shared internal generator | Heavy limbs, armor, processors | Accessibility: Only While Powered on every linked trait | Single point of failure |
+| Energy Reserve | High-output active systems | Buy ER; abilities may Costs ER | Finite pool and recharge method |
+| Fuel cell / reactor spine | Chassis and heavy anatomical frames | Dependency, Maintenance, Breakable gadget (only if the component qualifies) | Fuel, heat, legality |
+| External pack or tether | Prototype and industrial systems | Accessibility: Only While Powered -20% to -30% | Visible supply and movement limits |
+| Mana / aether core | Magitech systems | Mana dependency or power modifier | No-mana zones, ritual recharge |
+| Divine or soul core | Sacred systems | Pact, oath, or source-specific limitation | Corruption, broken vows, divine opposition |
+
+| Band | Examples | Typical Support |
+| --- | --- | --- |
+| Minimal | Biomonitor, clock, passive port | Body heat or long-life cell |
+| Light | Cyber-eye, radio, small computer | Internal cell; routine maintenance |
+| Moderate | One strong limb, active camouflage, cyberdeck | Dedicated cell or shared generator |
+| Heavy | Two combat limbs, integrated armor, high neural acceleration | Power spine, cooling, Energy Reserve |
+| Extreme | Flight, force screen, autonomous turrets, heavy chassis | Reactor, fuel, major heat management, Facility 4+ |
+| Vehicle Scale | Warbody, grav chassis, dDR force screen | Vehicle power plant and service bay |
+
+| Heat Problem | Possible Rule |
+| --- | --- |
+| Short high-output burst | Takes Recharge |
+| Finite coolant or capacitor charge | Limited Use |
+| Biological overclocking | Costs Fatigue or Costs ER |
+| Hot-environment penalty | Accessibility or Nuisance Effect |
+| Visible thermal signature | Obscure does not protect against IR; detection bonus |
+| Heat sink damaged | Temporary reduced levels or shutdown |
+| Sealed chassis heat buildup | Temperature Tolerance and mandatory cooling system |
+
+| Interval | Typical Systems | First Missed Interval | Prolonged Neglect |
+| --- | --- | --- | --- |
+| Routine checkup | Biomonitor, simple ports | Warning only | Eventually loses diagnostic reliability |
+| Monthly | Ordinary limbs, eyes, artificial organs | -1 to relevant rolls or reduced reserve | Shutdown risk or increased failure |
+| Weekly | Combat limbs, cyberdecks, power spines | Glitches or -1 | Unreliable activation or reduced levels |
+| After mission | Stealth skin, heavy weapons, assault bodies | Heat and calibration penalties | Damage or lockout |
+| Daily | Prototypes, cursed or damaged systems | Immediate nuisance or penalty | Serious malfunction |
+| Continuous support | Braincase, unstable life-support body | Medical emergency | Loss of consciousness or death |
+
+SHARED GENERATOR RULE
+
+Apply the same Only While Powered condition to every dependent trait. Add Gadget limitations only if the generator is truly breakable or separately damageable, removable, or destructible.

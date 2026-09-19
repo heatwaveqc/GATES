@@ -1,0 +1,16 @@
+title: Stimpak — Formula
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Stimpak
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 9597
+source-end-index: 9808
+gates-order: 0011
+gates-component: yes
+caption: Formula
+
+Formula: TL10; Talent 5 (Effective 7); Required Talent 4; raw skill 40; Average complexity (-10); good laboratory +4; effective skill 34; prototype roll 8; MoS 26; Refinement A1/C2; Level Load 1; DPL 120; BV 60.

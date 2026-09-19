@@ -1,0 +1,16 @@
+title: Commercial Jet — Delivery
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Commercial Jet
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 1861
+source-end-index: 1895
+gates-order: 0002
+gates-component: yes
+caption: Delivery
+
+Delivery: Inhaler; onset 1 second.

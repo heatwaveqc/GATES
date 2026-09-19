@@ -1,0 +1,5378 @@
+[
+  {
+    "title": "$:/GATES/Assembly",
+    "path": "tiddlers/System/GATES_Assembly.tid",
+    "audience": "player",
+    "kind": "template",
+    "parent": null
+  },
+  {
+    "title": "$:/GATES/SectionIndex",
+    "path": "tiddlers/System/GATES_SectionIndex.tid",
+    "audience": "player",
+    "kind": "template",
+    "parent": null
+  },
+  {
+    "title": "$:/GATES/SettingIndex",
+    "path": "tiddlers/System/GATES_SettingIndex.tid",
+    "audience": "player",
+    "kind": "template",
+    "parent": null
+  },
+  {
+    "title": "$:/GATES/JutsuTree",
+    "path": "tiddlers/System/GATES_JutsuTree.tid",
+    "audience": "player",
+    "kind": "template",
+    "parent": null
+  },
+  {
+    "title": "Domains",
+    "path": "tiddlers/Content/Navigation/Domains.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Species",
+    "path": "tiddlers/Content/Navigation/Species.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Setting",
+    "path": "tiddlers/Content/Navigation/Setting.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Gods",
+    "path": "tiddlers/Content/Navigation/Gods.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Monsters",
+    "path": "tiddlers/Content/Navigation/Monsters.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Technology",
+    "path": "tiddlers/Content/Navigation/Technology.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Campaigns",
+    "path": "tiddlers/Content/Navigation/Campaigns.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "System",
+    "path": "tiddlers/Content/Navigation/System.tid",
+    "audience": "player",
+    "kind": "section-index",
+    "parent": null
+  },
+  {
+    "title": "Mastery Standards",
+    "path": "tiddlers/Content/System/Mastery_Standards.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "Mastery Standards — Scope and Precedence",
+    "path": "tiddlers/Content/System/Mastery_Standards_Scope_and_Precedence.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Tier 2",
+    "path": "tiddlers/Content/System/Mastery_Standards_Tier_2.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Tier 3",
+    "path": "tiddlers/Content/System/Mastery_Standards_Tier_3.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Qualifying Investment",
+    "path": "tiddlers/Content/System/Mastery_Standards_Qualifying_Investment.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Relevant Governing Traits",
+    "path": "tiddlers/Content/System/Mastery_Standards_Relevant_Governing_Traits.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Skill-Cap Exception",
+    "path": "tiddlers/Content/System/Mastery_Standards_Skill-Cap_Exception.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Mastery Standards — Preserved Requirements",
+    "path": "tiddlers/Content/System/Mastery_Standards_Preserved_Requirements.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Regular Engine",
+    "path": "tiddlers/Content/System/Regular_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Regular Engine — Overview",
+    "path": "tiddlers/Content/System/Regular_Engine_Overview.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Regular Engine — Universal engine",
+    "path": "tiddlers/Content/System/Regular_Engine_Universal_engine.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Regular Engine — Progression",
+    "path": "tiddlers/Content/System/Regular_Engine_Progression.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Regular Engine — Default Mastery shape",
+    "path": "tiddlers/Content/System/Regular_Engine_Default_Mastery_shape.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Regular Engine — Every Regular Tradition defines",
+    "path": "tiddlers/Content/System/Regular_Engine_Every_Regular_Tradition_defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Regular Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Regular_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Regular Engine"
+  },
+  {
+    "title": "Ritual Engine",
+    "path": "tiddlers/Content/System/Ritual_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Ritual Engine — Overview",
+    "path": "tiddlers/Content/System/Ritual_Engine_Overview.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Ritual Engine — Universal engine",
+    "path": "tiddlers/Content/System/Ritual_Engine_Universal_engine.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Ritual Engine — Not automatically universal",
+    "path": "tiddlers/Content/System/Ritual_Engine_Not_automatically_universal.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Ritual Engine — Default Mastery shape",
+    "path": "tiddlers/Content/System/Ritual_Engine_Default_Mastery_shape.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Ritual Engine — Every Ritual Tradition defines",
+    "path": "tiddlers/Content/System/Ritual_Engine_Every_Ritual_Tradition_defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Ritual Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Ritual_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Ritual Engine"
+  },
+  {
+    "title": "Word Engine",
+    "path": "tiddlers/Content/System/Word_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Word Engine — Identity",
+    "path": "tiddlers/Content/System/Word_Engine_Identity.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — A Word Tradition may use one architecture or combine several when their interaction is explicit",
+    "path": "tiddlers/Content/System/Word_Engine_A_Word_Tradition_may_use_one_architecture_or_combine_several_when_their_interaction_is_explicit.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Intentional Variation and Review",
+    "path": "tiddlers/Content/System/Word_Engine_Intentional_Variation_and_Review.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Self-Contained Player Rules",
+    "path": "tiddlers/Content/System/Word_Engine_Self-Contained_Player_Rules.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Instancing",
+    "path": "tiddlers/Content/System/Word_Engine_Instancing.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Lexicon and Grammar",
+    "path": "tiddlers/Content/System/Word_Engine_Lexicon_and_Grammar.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Resolving attacks, defenses, resistance, contests, transformations, partial expressions, and multiple targets.",
+    "path": "tiddlers/Content/System/Word_Engine_Resolving_attacks_defenses_resistance_contests_transformations_partial_expressions_and_multiple_targets..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Buying off recurring penalties through techniques, phrases, rotes, affinities, or other bounded specializations.",
+    "path": "tiddlers/Content/System/Word_Engine_Buying_off_recurring_penalties_through_techniques_phrases_rotes_affinities_or_other_bounded_specializations..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Developing the Tradition's distinctive Mastery branches or specializations.",
+    "path": "tiddlers/Content/System/Word_Engine_Developing_the_Tradition_s_distinctive_Mastery_branches_or_specializations..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Default Mastery Shape",
+    "path": "tiddlers/Content/System/Word_Engine_Default_Mastery_Shape.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Consequential use of several materially different legal expressions rather than repeated use of one optimized phrase.",
+    "path": "tiddlers/Content/System/Word_Engine_Consequential_use_of_several_materially_different_legal_expressions_rather_than_repeated_use_of_one_optimized_phrase..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • One Tradition-specific demonstration proving command of its theme and blind spots.",
+    "path": "tiddlers/Content/System/Word_Engine_One_Tradition-specific_demonstration_proving_command_of_its_theme_and_blind_spots..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Tier 3 Authorship and Mastery Benefits",
+    "path": "tiddlers/Content/System/Word_Engine_Tier_3_Authorship_and_Mastery_Benefits.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Creating or discovering new Words, correspondences, clauses, idioms, or legal expression forms.",
+    "path": "tiddlers/Content/System/Word_Engine_Creating_or_discovering_new_Words_correspondences_clauses_idioms_or_legal_expression_forms..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Teaching or recording a body of syntax that survives the creator.",
+    "path": "tiddlers/Content/System/Word_Engine_Teaching_or_recording_a_body_of_syntax_that_survives_the_creator..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Permanently changing Mana, Sanctity, metaphysical correspondences, or another setting-facing condition.",
+    "path": "tiddlers/Content/System/Word_Engine_Permanently_changing_Mana_Sanctity_metaphysical_correspondences_or_another_setting-facing_condition..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — These examples establish design roles, not lateral inheritance",
+    "path": "tiddlers/Content/System/Word_Engine_These_examples_establish_design_roles_not_lateral_inheritance.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • The complete Word or element categories and the complete available lexicon or objective discovery procedure.",
+    "path": "tiddlers/Content/System/Word_Engine_The_complete_Word_or_element_categories_and_the_complete_available_lexicon_or_objective_discovery_procedure..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — • Its Instancing category and every access-defining field when it is not Non-Instanced.",
+    "path": "tiddlers/Content/System/Word_Engine_Its_Instancing_category_and_every_access-defining_field_when_it_is_not_Non-Instanced..tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Word Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Word_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Word Engine"
+  },
+  {
+    "title": "Psi Talented Engine",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Psi Talented Engine — Universal engine",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Universal_engine.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Psi Talented Engine — Shared Psi purchase bands",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Shared_Psi_purchase_bands.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Psi Talented Engine — Shared Psi level caps",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Shared_Psi_level_caps.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Psi Talented Engine — Default Mastery shape",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Default_Mastery_shape.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Psi Talented Engine — Every Talented Tradition defines",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Every_Talented_Tradition_defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Psi Talented Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Psi_Talented_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Psi Talented Engine"
+  },
+  {
+    "title": "Atavistic Engine",
+    "path": "tiddlers/Content/System/Atavistic_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Atavistic Engine — Identity",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Identity.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Instancing and Fixed Source",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Instancing_and_Fixed_Source.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Closed Intrinsic Trait Universe",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Closed_Intrinsic_Trait_Universe.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Source Profiles",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Source_Profiles.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Embodiment",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Embodiment.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Progression and Staging",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Progression_and_Staging.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Caps and Special Mechanics",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Caps_and_Special_Mechanics.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Mastery",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Mastery.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Every Atavistic Tradition defines",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Every_Atavistic_Tradition_defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Atavistic Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Atavistic_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Atavistic Engine"
+  },
+  {
+    "title": "Jutsu Engine",
+    "path": "tiddlers/Content/System/Jutsu_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Jutsu Engine — Overview",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Overview.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Jutsu Engine — Universal engine",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Universal_engine.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Jutsu Engine — Teaching and access",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Teaching_and_access.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Jutsu Engine — Mastery",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Mastery.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Jutsu Engine — Every Jutsu Tradition defines",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Every_Jutsu_Tradition_defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Jutsu Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Jutsu_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Jutsu Engine"
+  },
+  {
+    "title": "Wuxia Engine",
+    "path": "tiddlers/Content/System/Wuxia_Engine.tid",
+    "audience": "player",
+    "kind": "engine",
+    "parent": null
+  },
+  {
+    "title": "Wuxia Engine — Overview",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Overview.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Instancing and Style Construction",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Instancing_and_Style_Construction.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Tradition Authority",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Tradition_Authority.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Derived Tradition and Mastery Advantages",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Derived_Tradition_and_Mastery_Advantages.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Required Five-Duan-Wei Progression",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Required_Five-Duan-Wei_Progression.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Duan Wei 1",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Duan_Wei_1.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Duan Wei 2",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Duan_Wei_2.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Duan Wei 3",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Duan_Wei_3.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Duan Wei 4",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Duan_Wei_4.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Duan Wei 5",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Duan_Wei_5.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Supernatural Unlock Family Catalog",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Supernatural_Unlock_Family_Catalog.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Caps and Governing Trait",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Caps_and_Governing_Trait.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Every Wuxia Tradition Defines",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Every_Wuxia_Tradition_Defines.tid",
+    "audience": "player",
+    "kind": "engine-rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Wuxia Engine — Numerical Mastery",
+    "path": "tiddlers/Content/System/Wuxia_Engine_Numerical_Mastery.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Wuxia Engine"
+  },
+  {
+    "title": "Hybrid Tradition Rules",
+    "path": "tiddlers/Content/System/Hybrid_Tradition_Rules.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "Hybrid Tradition Rules — Overview",
+    "path": "tiddlers/Content/System/Hybrid_Tradition_Rules_Overview.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Hybrid Tradition Rules"
+  },
+  {
+    "title": "Martial Mastery Baseline",
+    "path": "tiddlers/Content/System/Martial_Mastery_Baseline.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Mastery Standards"
+  },
+  {
+    "title": "Kung Fu",
+    "path": "tiddlers/Content/Domains/Kung_Fu.tid",
+    "audience": "player",
+    "kind": "domain",
+    "parent": null
+  },
+  {
+    "title": "Kung Fu — Core Shido",
+    "path": "tiddlers/Content/Domains/Kung_Fu_Core_Shido.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Kung Fu — Accelerated Training",
+    "path": "tiddlers/Content/Domains/Kung_Fu_Accelerated_Training.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Kung Fu — Learning Rate",
+    "path": "tiddlers/Content/Domains/Kung_Fu_Learning_Rate.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Kung Fu — Training Balance",
+    "path": "tiddlers/Content/Domains/Kung_Fu_Training_Balance.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Kung Fu — Training Traits",
+    "path": "tiddlers/Content/Domains/Kung_Fu_Training_Traits.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Foundational",
+    "path": "tiddlers/Content/Domains/Foundational.tid",
+    "audience": "player",
+    "kind": "domain",
+    "parent": null
+  },
+  {
+    "title": "Foundational — Domain Core Mechanic: Insight",
+    "path": "tiddlers/Content/Domains/Foundational_Domain_Core_Mechanic_Insight.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Foundational"
+  },
+  {
+    "title": "Foundational — Critical Failures and Casting Resources",
+    "path": "tiddlers/Content/Domains/Foundational_Critical_Failures_and_Casting_Resources.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Foundational"
+  },
+  {
+    "title": "Eldritch Gifts",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts.tid",
+    "audience": "player",
+    "kind": "domain",
+    "parent": null
+  },
+  {
+    "title": "Eldritch Gifts — Domain Core",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Domain_Core.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Basic Origin Benefits",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Basic_Origin_Benefits.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Revelations",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Revelations.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Expressing a Revelation",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Expressing_a_Revelation.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Required Revelations",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Required_Revelations.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Gifts",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Gifts.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Gift Value",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Gift_Value.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Power Stunts from Latent Gifts",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Power_Stunts_from_Latent_Gifts.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Demonstrated Eldritch Manifestations",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Demonstrated_Eldritch_Manifestations.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Eldritch Reserve",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Eldritch_Reserve.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Eldritch Universal Traits",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Eldritch_Universal_Traits.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — General Origin Rules",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_General_Origin_Rules.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Eldritch Modifier",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Eldritch_Modifier.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Eldritch Limitations",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Eldritch_Limitations.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Eldritch Gifts — Class Path",
+    "path": "tiddlers/Content/Domains/Eldritch_Gifts_Class_Path.tid",
+    "audience": "player",
+    "kind": "domain-rule",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Gaoshou",
+    "path": "tiddlers/Content/Domains/Gaoshou.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Gaoshou — Description",
+    "path": "tiddlers/Content/Domains/Gaoshou_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Style Construction",
+    "path": "tiddlers/Content/Domains/Gaoshou_Style_Construction.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Kung Fu Shido",
+    "path": "tiddlers/Content/Domains/Gaoshou_Kung_Fu_Shido.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei 1 — Primary Skills",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei_1_Primary_Skills.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei 2 — Mundane Techniques",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei_2_Mundane_Techniques.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei 3 — Cinematic Skills",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei_3_Cinematic_Skills.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei 4 — Cinematic Techniques",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei_4_Cinematic_Techniques.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Duan Wei 5 — Final Demonstration",
+    "path": "tiddlers/Content/Domains/Gaoshou_Duan_Wei_5_Final_Demonstration.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Gaoshou_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — One Martial Way",
+    "path": "tiddlers/Content/Domains/Gaoshou_One_Martial_Way.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Supreme Excellence",
+    "path": "tiddlers/Content/Domains/Gaoshou_Supreme_Excellence.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Effortless Grace",
+    "path": "tiddlers/Content/Domains/Gaoshou_Effortless_Grace.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Supernatural Unlock Families",
+    "path": "tiddlers/Content/Domains/Gaoshou_Supernatural_Unlock_Families.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Power Talent",
+    "path": "tiddlers/Content/Domains/Gaoshou_Power_Talent.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Transformation",
+    "path": "tiddlers/Content/Domains/Gaoshou_Transformation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Experience Loop",
+    "path": "tiddlers/Content/Domains/Gaoshou_Experience_Loop.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Weapons",
+    "path": "tiddlers/Content/Domains/Gaoshou_Weapons.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Cultivation",
+    "path": "tiddlers/Content/Domains/Gaoshou_Cultivation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Tradition and Mastery Advantages",
+    "path": "tiddlers/Content/Domains/Gaoshou_Tradition_and_Mastery_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Gaoshou Tradition Advantages",
+    "path": "tiddlers/Content/Domains/Gaoshou_Gaoshou_Tradition_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Repeated Parries",
+    "path": "tiddlers/Content/Domains/Gaoshou_Repeated_Parries.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Gaoshou_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Mastery Unlocks",
+    "path": "tiddlers/Content/Domains/Gaoshou_Mastery_Unlocks.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Gaoshou Mastery Advantages",
+    "path": "tiddlers/Content/Domains/Gaoshou_Gaoshou_Mastery_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Gaoshou — Examples and Boundaries",
+    "path": "tiddlers/Content/Domains/Gaoshou_Examples_and_Boundaries.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Gaoshou"
+  },
+  {
+    "title": "Shadow Arts",
+    "path": "tiddlers/Content/Domains/Shadow_Arts.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Kung Fu"
+  },
+  {
+    "title": "Shadow Arts — Description",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Overview",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Overview.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Potence, Resource, and Limits",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Potence_Resource_and_Limits.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Training Interaction",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Training_Interaction.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Learned Jutsu",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Learned_Jutsu.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Institutional Trees",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Institutional_Trees.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Practicum",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Practicum.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Hundred Schools",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Hundred_Schools.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Blood of the Dragon",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Blood_of_the_Dragon.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Mastery Unlocks",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Mastery_Unlocks.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Shadow Arts — Technique Made Flesh",
+    "path": "tiddlers/Content/Domains/Shadow_Arts_Technique_Made_Flesh.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Low Magic",
+    "path": "tiddlers/Content/Domains/Low_Magic.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Foundational"
+  },
+  {
+    "title": "Low Magic — Overview",
+    "path": "tiddlers/Content/Domains/Low_Magic_Overview.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Description",
+    "path": "tiddlers/Content/Domains/Low_Magic_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Tradition Mechanics",
+    "path": "tiddlers/Content/Domains/Low_Magic_Tradition_Mechanics.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Insight and Flourishes",
+    "path": "tiddlers/Content/Domains/Low_Magic_Insight_and_Flourishes.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Flourishes",
+    "path": "tiddlers/Content/Domains/Low_Magic_Flourishes.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Tradition Advantages",
+    "path": "tiddlers/Content/Domains/Low_Magic_Tradition_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Low_Magic_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Low_Magic_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Low Magic — Mastery Unlocks",
+    "path": "tiddlers/Content/Domains/Low_Magic_Mastery_Unlocks.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Low Magic"
+  },
+  {
+    "title": "Innovator",
+    "path": "tiddlers/Content/Domains/Innovator.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Foundational"
+  },
+  {
+    "title": "Innovator — Overview",
+    "path": "tiddlers/Content/Domains/Innovator_Overview.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Description",
+    "path": "tiddlers/Content/Domains/Innovator_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Tradition Mechanics",
+    "path": "tiddlers/Content/Domains/Innovator_Tradition_Mechanics.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Tradition Advantages",
+    "path": "tiddlers/Content/Domains/Innovator_Tradition_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Innovator_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Innovator_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Mastery Unlocks",
+    "path": "tiddlers/Content/Domains/Innovator_Mastery_Unlocks.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "Innovator — Examples and Boundaries",
+    "path": "tiddlers/Content/Domains/Innovator_Examples_and_Boundaries.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Innovator"
+  },
+  {
+    "title": "High Magic",
+    "path": "tiddlers/Content/Domains/High_Magic.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Foundational"
+  },
+  {
+    "title": "High Magic — Description",
+    "path": "tiddlers/Content/Domains/High_Magic_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Casting High Magic",
+    "path": "tiddlers/Content/Domains/High_Magic_Casting_High_Magic.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Failure and Critical Results",
+    "path": "tiddlers/Content/Domains/High_Magic_Failure_and_Critical_Results.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Enchanting",
+    "path": "tiddlers/Content/Domains/High_Magic_Enchanting.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Recover Energy",
+    "path": "tiddlers/Content/Domains/High_Magic_Recover_Energy.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — High Magic Parameters",
+    "path": "tiddlers/Content/Domains/High_Magic_High_Magic_Parameters.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Constructs",
+    "path": "tiddlers/Content/Domains/High_Magic_Constructs.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Aspects",
+    "path": "tiddlers/Content/Domains/High_Magic_Aspects.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Elements",
+    "path": "tiddlers/Content/Domains/High_Magic_Elements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Word Affinities",
+    "path": "tiddlers/Content/Domains/High_Magic_Word_Affinities.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Animals",
+    "path": "tiddlers/Content/Domains/High_Magic_Animals.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Word Costs and Casting Times",
+    "path": "tiddlers/Content/Domains/High_Magic_Word_Costs_and_Casting_Times.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Tradition Advantages",
+    "path": "tiddlers/Content/Domains/High_Magic_Tradition_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/High_Magic_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Mastery Unlocks",
+    "path": "tiddlers/Content/Domains/High_Magic_Mastery_Unlocks.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — High Magic Advancement",
+    "path": "tiddlers/Content/Domains/High_Magic_High_Magic_Advancement.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Safer Flagrant Displays",
+    "path": "tiddlers/Content/Domains/High_Magic_Safer_Flagrant_Displays.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Yin Master",
+    "path": "tiddlers/Content/Domains/High_Magic_Yin_Master.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Embodiment of Yin",
+    "path": "tiddlers/Content/Domains/High_Magic_Embodiment_of_Yin.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Yang Master",
+    "path": "tiddlers/Content/Domains/High_Magic_Yang_Master.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Embodiment of Yang",
+    "path": "tiddlers/Content/Domains/High_Magic_Embodiment_of_Yang.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Yin Yang Embodiment of Balance",
+    "path": "tiddlers/Content/Domains/High_Magic_Yin_Yang_Embodiment_of_Balance.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Elemental Master",
+    "path": "tiddlers/Content/Domains/High_Magic_Elemental_Master.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Elemental Embodiment",
+    "path": "tiddlers/Content/Domains/High_Magic_Elemental_Embodiment.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Animal Mastery",
+    "path": "tiddlers/Content/Domains/High_Magic_Animal_Mastery.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Animal Embodiment",
+    "path": "tiddlers/Content/Domains/High_Magic_Animal_Embodiment.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Examples and Boundaries",
+    "path": "tiddlers/Content/Domains/High_Magic_Examples_and_Boundaries.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Example 1 — Straightforward Attack",
+    "path": "tiddlers/Content/Domains/High_Magic_Example_1_Straightforward_Attack.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Example 2 — Resisted Direct Effect",
+    "path": "tiddlers/Content/Domains/High_Magic_Example_2_Resisted_Direct_Effect.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Example 3 — Multi-Set Transmutation",
+    "path": "tiddlers/Content/Domains/High_Magic_Example_3_Multi-Set_Transmutation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Example 4 — Embodied Self-Buff",
+    "path": "tiddlers/Content/Domains/High_Magic_Example_4_Embodied_Self-Buff.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "High Magic — Boundaries",
+    "path": "tiddlers/Content/Domains/High_Magic_Boundaries.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "High Magic"
+  },
+  {
+    "title": "Revelator",
+    "path": "tiddlers/Content/Domains/Revelator.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Revelator — Description",
+    "path": "tiddlers/Content/Domains/Revelator_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Personal Instance",
+    "path": "tiddlers/Content/Domains/Revelator_Personal_Instance.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Conjunction Abilities",
+    "path": "tiddlers/Content/Domains/Revelator_Conjunction_Abilities.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Wild Branch Manifestation",
+    "path": "tiddlers/Content/Domains/Revelator_Wild_Branch_Manifestation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Universal Origin Rule",
+    "path": "tiddlers/Content/Domains/Revelator_Universal_Origin_Rule.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Revelator_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — The Whole Truth",
+    "path": "tiddlers/Content/Domains/Revelator_The_Whole_Truth.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — The Living Truth",
+    "path": "tiddlers/Content/Domains/Revelator_The_Living_Truth.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — The Shared Truth",
+    "path": "tiddlers/Content/Domains/Revelator_The_Shared_Truth.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Advantages and Permissions",
+    "path": "tiddlers/Content/Domains/Revelator_Advantages_and_Permissions.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Revelator_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Revelator — General Mastery Benefits",
+    "path": "tiddlers/Content/Domains/Revelator_General_Mastery_Benefits.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Revelator"
+  },
+  {
+    "title": "Dreadhound",
+    "path": "tiddlers/Content/Domains/Dreadhound.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Dreadhound — Description",
+    "path": "tiddlers/Content/Domains/Dreadhound_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Universal Origin Rule",
+    "path": "tiddlers/Content/Domains/Dreadhound_Universal_Origin_Rule.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Psychic Patterns",
+    "path": "tiddlers/Content/Domains/Dreadhound_Psychic_Patterns.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Prey Repository",
+    "path": "tiddlers/Content/Domains/Dreadhound_Prey_Repository.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Current Prey",
+    "path": "tiddlers/Content/Domains/Dreadhound_Current_Prey.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Talent Gate and Negation Caps",
+    "path": "tiddlers/Content/Domains/Dreadhound_Talent_Gate_and_Negation_Caps.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Prey Countermeasure Array — Super-Memorization",
+    "path": "tiddlers/Content/Domains/Dreadhound_Prey_Countermeasure_Array_Super-Memorization.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Realized Revelations",
+    "path": "tiddlers/Content/Domains/Dreadhound_Realized_Revelations.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Gift Manifestation",
+    "path": "tiddlers/Content/Domains/Dreadhound_Gift_Manifestation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Dreadhound_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Ravager — Psychic Vampirism",
+    "path": "tiddlers/Content/Domains/Dreadhound_Ravager_Psychic_Vampirism.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Analyst — Machine Telepathy",
+    "path": "tiddlers/Content/Domains/Dreadhound_Analyst_Machine_Telepathy.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Veiled — Illusion",
+    "path": "tiddlers/Content/Domains/Dreadhound_Veiled_Illusion.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Advantages and Permissions",
+    "path": "tiddlers/Content/Domains/Dreadhound_Advantages_and_Permissions.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Dreadhound_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Dreadhound — Mastery Advantages",
+    "path": "tiddlers/Content/Domains/Dreadhound_Mastery_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Dreadhound"
+  },
+  {
+    "title": "Spawn",
+    "path": "tiddlers/Content/Domains/Spawn.tid",
+    "audience": "player",
+    "kind": "tradition",
+    "parent": "Eldritch Gifts"
+  },
+  {
+    "title": "Spawn — Description",
+    "path": "tiddlers/Content/Domains/Spawn_Description.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Embodied Gift Scope",
+    "path": "tiddlers/Content/Domains/Spawn_Embodied_Gift_Scope.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Eldritch Reserve",
+    "path": "tiddlers/Content/Domains/Spawn_Eldritch_Reserve.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Discovery and Permanent Growth",
+    "path": "tiddlers/Content/Domains/Spawn_Discovery_and_Permanent_Growth.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Spawn Trait Cap",
+    "path": "tiddlers/Content/Domains/Spawn_Spawn_Trait_Cap.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Gift Traits",
+    "path": "tiddlers/Content/Domains/Spawn_Gift_Traits.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Spawn Traits and the Retention Depth Limit",
+    "path": "tiddlers/Content/Domains/Spawn_Spawn_Traits_and_the_Retention_Depth_Limit.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Growth Axis",
+    "path": "tiddlers/Content/Domains/Spawn_Growth_Axis.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Tradition Paths",
+    "path": "tiddlers/Content/Domains/Spawn_Tradition_Paths.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Subtle — Retractable Anatomy",
+    "path": "tiddlers/Content/Domains/Spawn_Subtle_Retractable_Anatomy.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Metamorphic — Partitioned Anatomy",
+    "path": "tiddlers/Content/Domains/Spawn_Metamorphic_Partitioned_Anatomy.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Infused — Anatomical Powers",
+    "path": "tiddlers/Content/Domains/Spawn_Infused_Anatomical_Powers.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Tradition Advantages",
+    "path": "tiddlers/Content/Domains/Spawn_Tradition_Advantages.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Mastery Requirements",
+    "path": "tiddlers/Content/Domains/Spawn_Mastery_Requirements.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Mature Eldritch Source",
+    "path": "tiddlers/Content/Domains/Spawn_Mature_Eldritch_Source.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — True Anatomy",
+    "path": "tiddlers/Content/Domains/Spawn_True_Anatomy.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Space Adaptation",
+    "path": "tiddlers/Content/Domains/Spawn_Space_Adaptation.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Spawn — Retention Depth at Mastery",
+    "path": "tiddlers/Content/Domains/Spawn_Retention_Depth_at_Mastery.tid",
+    "audience": "player",
+    "kind": "tradition-component",
+    "parent": "Spawn"
+  },
+  {
+    "title": "Water Breathing",
+    "path": "tiddlers/Content/Domains/Water_Breathing.tid",
+    "audience": "player",
+    "kind": "tradition-instance",
+    "parent": "Shadow Arts"
+  },
+  {
+    "title": "Water Breathing — Tree Profile",
+    "path": "tiddlers/Content/Domains/Water_Breathing_Tree_Profile.tid",
+    "audience": "player",
+    "kind": "tree-component",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Water Breathing — Mastery and Boundaries",
+    "path": "tiddlers/Content/Domains/Water_Breathing_Mastery_and_Boundaries.tid",
+    "audience": "player",
+    "kind": "tree-component",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "First Form: Water Surface Slash",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "First Form: Water Surface Slash — Name",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "First Form: Water Surface Slash"
+  },
+  {
+    "title": "First Form: Water Surface Slash — Cost",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "First Form: Water Surface Slash"
+  },
+  {
+    "title": "First Form: Water Surface Slash — Requirements",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "First Form: Water Surface Slash"
+  },
+  {
+    "title": "First Form: Water Surface Slash — Prerequisites",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "First Form: Water Surface Slash"
+  },
+  {
+    "title": "First Form: Water Surface Slash — Effect",
+    "path": "tiddlers/Content/Domains/First_Form_Water_Surface_Slash_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "First Form: Water Surface Slash"
+  },
+  {
+    "title": "Second Form: Water Wheel",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Second Form: Water Wheel — Name",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Second Form: Water Wheel"
+  },
+  {
+    "title": "Second Form: Water Wheel — Cost",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Second Form: Water Wheel"
+  },
+  {
+    "title": "Second Form: Water Wheel — Requirements",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Second Form: Water Wheel"
+  },
+  {
+    "title": "Second Form: Water Wheel — Prerequisites",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Second Form: Water Wheel"
+  },
+  {
+    "title": "Second Form: Water Wheel — Effect",
+    "path": "tiddlers/Content/Domains/Second_Form_Water_Wheel_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Second Form: Water Wheel"
+  },
+  {
+    "title": "Third Form: Flowing Dance",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Third Form: Flowing Dance — Name",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Third Form: Flowing Dance"
+  },
+  {
+    "title": "Third Form: Flowing Dance — Cost",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Third Form: Flowing Dance"
+  },
+  {
+    "title": "Third Form: Flowing Dance — Requirements",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Third Form: Flowing Dance"
+  },
+  {
+    "title": "Third Form: Flowing Dance — Prerequisites",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Third Form: Flowing Dance"
+  },
+  {
+    "title": "Third Form: Flowing Dance — Effect",
+    "path": "tiddlers/Content/Domains/Third_Form_Flowing_Dance_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Third Form: Flowing Dance"
+  },
+  {
+    "title": "Fourth Form: Striking Tide",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Fourth Form: Striking Tide — Name",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fourth Form: Striking Tide"
+  },
+  {
+    "title": "Fourth Form: Striking Tide — Cost",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fourth Form: Striking Tide"
+  },
+  {
+    "title": "Fourth Form: Striking Tide — Requirements",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fourth Form: Striking Tide"
+  },
+  {
+    "title": "Fourth Form: Striking Tide — Prerequisites",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fourth Form: Striking Tide"
+  },
+  {
+    "title": "Fourth Form: Striking Tide — Effect",
+    "path": "tiddlers/Content/Domains/Fourth_Form_Striking_Tide_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fourth Form: Striking Tide"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought — Name",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fifth Form: Blessed Rain After the Drought"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought — Cost",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fifth Form: Blessed Rain After the Drought"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought — Requirements",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fifth Form: Blessed Rain After the Drought"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought — Prerequisites",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fifth Form: Blessed Rain After the Drought"
+  },
+  {
+    "title": "Fifth Form: Blessed Rain After the Drought — Effect",
+    "path": "tiddlers/Content/Domains/Fifth_Form_Blessed_Rain_After_the_Drought_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Fifth Form: Blessed Rain After the Drought"
+  },
+  {
+    "title": "Sixth Form: Whirlpool",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Sixth Form: Whirlpool — Name",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Sixth Form: Whirlpool"
+  },
+  {
+    "title": "Sixth Form: Whirlpool — Cost",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Sixth Form: Whirlpool"
+  },
+  {
+    "title": "Sixth Form: Whirlpool — Requirements",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Sixth Form: Whirlpool"
+  },
+  {
+    "title": "Sixth Form: Whirlpool — Prerequisites",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Sixth Form: Whirlpool"
+  },
+  {
+    "title": "Sixth Form: Whirlpool — Effect",
+    "path": "tiddlers/Content/Domains/Sixth_Form_Whirlpool_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Sixth Form: Whirlpool"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust — Name",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Seventh Form: Drop Ripple Thrust"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust — Cost",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Seventh Form: Drop Ripple Thrust"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust — Requirements",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Seventh Form: Drop Ripple Thrust"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust — Prerequisites",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Seventh Form: Drop Ripple Thrust"
+  },
+  {
+    "title": "Seventh Form: Drop Ripple Thrust — Effect",
+    "path": "tiddlers/Content/Domains/Seventh_Form_Drop_Ripple_Thrust_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Seventh Form: Drop Ripple Thrust"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin — Name",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eighth Form: Waterfall Basin"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin — Cost",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eighth Form: Waterfall Basin"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin — Requirements",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eighth Form: Waterfall Basin"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin — Prerequisites",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eighth Form: Waterfall Basin"
+  },
+  {
+    "title": "Eighth Form: Waterfall Basin — Effect",
+    "path": "tiddlers/Content/Domains/Eighth_Form_Waterfall_Basin_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eighth Form: Waterfall Basin"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent — Name",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Ninth Form: Splashing Water Flow, Turbulent"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent — Cost",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Ninth Form: Splashing Water Flow, Turbulent"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent — Requirements",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Ninth Form: Splashing Water Flow, Turbulent"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent — Prerequisites",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Ninth Form: Splashing Water Flow, Turbulent"
+  },
+  {
+    "title": "Ninth Form: Splashing Water Flow, Turbulent — Effect",
+    "path": "tiddlers/Content/Domains/Ninth_Form_Splashing_Water_Flow_Turbulent_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Ninth Form: Splashing Water Flow, Turbulent"
+  },
+  {
+    "title": "Tenth Form: Constant Flux",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Tenth Form: Constant Flux — Name",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Tenth Form: Constant Flux"
+  },
+  {
+    "title": "Tenth Form: Constant Flux — Cost",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Tenth Form: Constant Flux"
+  },
+  {
+    "title": "Tenth Form: Constant Flux — Requirements",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Tenth Form: Constant Flux"
+  },
+  {
+    "title": "Tenth Form: Constant Flux — Prerequisites",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Tenth Form: Constant Flux"
+  },
+  {
+    "title": "Tenth Form: Constant Flux — Effect",
+    "path": "tiddlers/Content/Domains/Tenth_Form_Constant_Flux_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Tenth Form: Constant Flux"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm.tid",
+    "audience": "player",
+    "kind": "jutsu",
+    "parent": "Water Breathing"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm — Name",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm_Name.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eleventh Form: Dead Calm"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm — Cost",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm_Cost.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eleventh Form: Dead Calm"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm — Requirements",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm_Requirements.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eleventh Form: Dead Calm"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm — Prerequisites",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm_Prerequisites.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eleventh Form: Dead Calm"
+  },
+  {
+    "title": "Eleventh Form: Dead Calm — Effect",
+    "path": "tiddlers/Content/Domains/Eleventh_Form_Dead_Calm_Effect.tid",
+    "audience": "player",
+    "kind": "jutsu-component",
+    "parent": "Eleventh Form: Dead Calm"
+  },
+  {
+    "title": "Species Framework",
+    "path": "tiddlers/Content/Species/Species_Framework.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "Species Framework — Species Framework",
+    "path": "tiddlers/Content/Species/Species_Framework_Species_Framework.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Species Framework — Species Types",
+    "path": "tiddlers/Content/Species/Species_Framework_Species_Types.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Species Framework — Qualification and Attribute Limits",
+    "path": "tiddlers/Content/Species/Species_Framework_Qualification_and_Attribute_Limits.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Species Framework — Unlocks",
+    "path": "tiddlers/Content/Species/Species_Framework_Unlocks.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Species Framework — Classes and Instruction",
+    "path": "tiddlers/Content/Species/Species_Framework_Classes_and_Instruction.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Species Framework — Hybrids and Derived Species",
+    "path": "tiddlers/Content/Species/Species_Framework_Hybrids_and_Derived_Species.tid",
+    "audience": "player",
+    "kind": "species-rule",
+    "parent": "Species Framework"
+  },
+  {
+    "title": "Firrerreo",
+    "path": "tiddlers/Content/Species/Firrerreo.tid",
+    "audience": "player",
+    "kind": "species",
+    "parent": null
+  },
+  {
+    "title": "Firrerreo — Overview",
+    "path": "tiddlers/Content/Species/Firrerreo_Overview.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Overview (2)",
+    "path": "tiddlers/Content/Species/Firrerreo_Overview_2.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Attributes",
+    "path": "tiddlers/Content/Species/Firrerreo_Attributes.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Advantages — Required",
+    "path": "tiddlers/Content/Species/Firrerreo_Advantages_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Body Plan and Features — Required",
+    "path": "tiddlers/Content/Species/Firrerreo_Body_Plan_and_Features_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Advantages — Optional",
+    "path": "tiddlers/Content/Species/Firrerreo_Advantages_Optional.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Disadvantages — Required",
+    "path": "tiddlers/Content/Species/Firrerreo_Disadvantages_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Optional Disadvantages",
+    "path": "tiddlers/Content/Species/Firrerreo_Optional_Disadvantages.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Forbidden Traits",
+    "path": "tiddlers/Content/Species/Firrerreo_Forbidden_Traits.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Unlocks",
+    "path": "tiddlers/Content/Species/Firrerreo_Unlocks.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Classes",
+    "path": "tiddlers/Content/Species/Firrerreo_Classes.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Firrerreo — Force Sensitivity",
+    "path": "tiddlers/Content/Species/Firrerreo_Force_Sensitivity.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Firrerreo"
+  },
+  {
+    "title": "Perfectly Normal Cat",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat.tid",
+    "audience": "player",
+    "kind": "species",
+    "parent": null
+  },
+  {
+    "title": "Perfectly Normal Cat — Overview",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Overview.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Overview (2)",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Overview_2.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Attributes",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Attributes.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Secondary Characteristics — Required",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Secondary_Characteristics_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Advantages — Required",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Advantages_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Body Plan and Features — Required",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Body_Plan_and_Features_Required.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Optional Disadvantages",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Optional_Disadvantages.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Forbidden Traits",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Forbidden_Traits.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Unlocks",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Unlocks.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Classes",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Classes.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Perfectly Normal Cat — Native Society",
+    "path": "tiddlers/Content/Species/Perfectly_Normal_Cat_Native_Society.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Perfectly Normal Cat"
+  },
+  {
+    "title": "Worgen",
+    "path": "tiddlers/Content/Species/Worgen.tid",
+    "audience": "player",
+    "kind": "species",
+    "parent": null
+  },
+  {
+    "title": "Worgen — Overview",
+    "path": "tiddlers/Content/Species/Worgen_Overview.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Worgen"
+  },
+  {
+    "title": "Worgen — Required Traits",
+    "path": "tiddlers/Content/Species/Worgen_Required_Traits.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Worgen"
+  },
+  {
+    "title": "Worgen — Unlocks",
+    "path": "tiddlers/Content/Species/Worgen_Unlocks.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Worgen"
+  },
+  {
+    "title": "Worgen — Classes",
+    "path": "tiddlers/Content/Species/Worgen_Classes.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Worgen"
+  },
+  {
+    "title": "Worgen — Culture",
+    "path": "tiddlers/Content/Species/Worgen_Culture.tid",
+    "audience": "player",
+    "kind": "species-component",
+    "parent": "Worgen"
+  },
+  {
+    "title": "Goldblood",
+    "path": "tiddlers/Content/Species/Goldblood.tid",
+    "audience": "gm",
+    "kind": "species",
+    "parent": null
+  },
+  {
+    "title": "Goldblood — Overview",
+    "path": "tiddlers/Content/Species/Goldblood_Overview.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Attributes",
+    "path": "tiddlers/Content/Species/Goldblood_Attributes.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Advantages — Required",
+    "path": "tiddlers/Content/Species/Goldblood_Advantages_Required.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Features — Required",
+    "path": "tiddlers/Content/Species/Goldblood_Features_Required.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Optional Traits",
+    "path": "tiddlers/Content/Species/Goldblood_Optional_Traits.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Unlocks",
+    "path": "tiddlers/Content/Species/Goldblood_Unlocks.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Forbidden Traits",
+    "path": "tiddlers/Content/Species/Goldblood_Forbidden_Traits.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Rules Clarification",
+    "path": "tiddlers/Content/Species/Goldblood_Rules_Clarification.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Classes",
+    "path": "tiddlers/Content/Species/Goldblood_Classes.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Reichsmensch Baseline — Standard Required Advantages",
+    "path": "tiddlers/Content/Species/Reichsmensch_Baseline_Standard_Required_Advantages.tid",
+    "audience": "gm",
+    "kind": "species-rule",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Reichsmensch Baseline — Standard Required Features",
+    "path": "tiddlers/Content/Species/Reichsmensch_Baseline_Standard_Required_Features.tid",
+    "audience": "gm",
+    "kind": "species-rule",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Reichsmensch Baseline — Standard Optional Traits",
+    "path": "tiddlers/Content/Species/Reichsmensch_Baseline_Standard_Optional_Traits.tid",
+    "audience": "gm",
+    "kind": "species-rule",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Reichsmensch Baseline — Standard Forbidden Traits",
+    "path": "tiddlers/Content/Species/Reichsmensch_Baseline_Standard_Forbidden_Traits.tid",
+    "audience": "gm",
+    "kind": "species-rule",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "Goldblood — Provisional Context",
+    "path": "tiddlers/Content/Species/Goldblood_Provisional_Context.tid",
+    "audience": "gm",
+    "kind": "species-component",
+    "parent": "Goldblood"
+  },
+  {
+    "title": "GATES Earth",
+    "path": "tiddlers/Content/Setting/GATES_Earth.tid",
+    "audience": "player",
+    "kind": "world",
+    "parent": null
+  },
+  {
+    "title": "GATES Earth — The World Ended",
+    "path": "tiddlers/Content/Setting/GATES_Earth_The_World_Ended.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "GATES Earth"
+  },
+  {
+    "title": "GATES Earth — Communications in the Gate Age",
+    "path": "tiddlers/Content/Setting/GATES_Earth_Communications_in_the_Gate_Age.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "GATES Earth"
+  },
+  {
+    "title": "France under the Blood Moon",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon.tid",
+    "audience": "player",
+    "kind": "nation",
+    "parent": null
+  },
+  {
+    "title": "France under the Blood Moon — Overview",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Overview.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — The Blood Covenant",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_The_Blood_Covenant.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — The Blood Moon",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_The_Blood_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Age of the Hunt",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Age_of_the_Hunt.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Rules of a Valid Hunt",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Rules_of_a_Valid_Hunt.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Sanctified Weapons",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Sanctified_Weapons.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Priests of Niktul",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Priests_of_Niktul.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Personal Rewards of the Hunt",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Personal_Rewards_of_the_Hunt.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Youth",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Youth.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Metabolic Protection",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Metabolic_Protection.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Cancer Cure",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Cancer_Cure.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Blessing of Blood and Birth",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Blessing_of_Blood_and_Birth.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Blood Marks",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Blood_Marks.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Godmath and the Fate of the Sacrificed",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Godmath_and_the_Fate_of_the_Sacrificed.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — France Under the Covenant",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_France_Under_the_Covenant.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Covenant Failure",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Covenant_Failure.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Social Consequences Already Implied",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Social_Consequences_Already_Implied.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "France under the Blood Moon — Open Questions",
+    "path": "tiddlers/Content/Setting/France_under_the_Blood_Moon_Open_Questions.tid",
+    "audience": "gm",
+    "kind": "setting-component",
+    "parent": "France under the Blood Moon"
+  },
+  {
+    "title": "The Veltrass System",
+    "path": "tiddlers/Content/Setting/The_Veltrass_System.tid",
+    "audience": "player",
+    "kind": "star-system",
+    "parent": null
+  },
+  {
+    "title": "Uko",
+    "path": "tiddlers/Content/Setting/Uko.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Uko — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Uko_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — 👥 Population",
+    "path": "tiddlers/Content/Setting/Uko_Population.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Uko_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — 📥 Primary Imports (During Active Phase)",
+    "path": "tiddlers/Content/Setting/Uko_Primary_Imports_During_Active_Phase.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Uko_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — Heaven’s Ember Station",
+    "path": "tiddlers/Content/Setting/Uko_Heaven_s_Ember_Station.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Uko — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Uko_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Uko"
+  },
+  {
+    "title": "Calerre",
+    "path": "tiddlers/Content/Setting/Calerre.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Calerre — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Calerre_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 👥 Population",
+    "path": "tiddlers/Content/Setting/Calerre_Population.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Calerre_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Calerre_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Calerre_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — Station Alecton",
+    "path": "tiddlers/Content/Setting/Calerre_Station_Alecton.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — Minos Ring Platform",
+    "path": "tiddlers/Content/Setting/Calerre_Minos_Ring_Platform.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 🌑 Natural Satellite: Selphos",
+    "path": "tiddlers/Content/Setting/Calerre_Natural_Satellite_Selphos.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Calerre — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Calerre_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Calerre"
+  },
+  {
+    "title": "Asteroid Belt Alpha",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha.tid",
+    "audience": "player",
+    "kind": "orbital-zone",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🛰 Rockhome Hub",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Rockhome_Hub.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🛰 Axa-9 (“The Harvester”)",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Axa-9_The_Harvester.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🛰 Tetherpoint Kappa",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Tetherpoint_Kappa.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🛰 Old Hollow",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Old_Hollow.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🌿 Native Life",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Asteroid Belt Alpha — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Alpha_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Alpha"
+  },
+  {
+    "title": "Halor",
+    "path": "tiddlers/Content/Setting/Halor.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Halor — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Halor_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Halor_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Halor_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Halor_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — Tarna (Moon)",
+    "path": "tiddlers/Content/Setting/Halor_Tarna_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — Orbital Station: Sweetdrop Arc",
+    "path": "tiddlers/Content/Setting/Halor_Orbital_Station_Sweetdrop_Arc.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — Orbital Station: Coralnet-9",
+    "path": "tiddlers/Content/Setting/Halor_Orbital_Station_Coralnet-9.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Halor_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Halor — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Halor_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Halor"
+  },
+  {
+    "title": "Jevin",
+    "path": "tiddlers/Content/Setting/Jevin.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Jevin — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Jevin_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Jevin_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Jevin_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Jevin_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — Orbital Hub: Arc Control Nexus",
+    "path": "tiddlers/Content/Setting/Jevin_Orbital_Hub_Arc_Control_Nexus.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — Starbucks HQ Veltrass (S-Hex Tower)",
+    "path": "tiddlers/Content/Setting/Jevin_Starbucks_HQ_Veltrass_S-Hex_Tower.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — Moon: Erez",
+    "path": "tiddlers/Content/Setting/Jevin_Moon_Erez.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — Moon: Nimuel",
+    "path": "tiddlers/Content/Setting/Jevin_Moon_Nimuel.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Jevin_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Jevin — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Jevin_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Jevin"
+  },
+  {
+    "title": "Rostro",
+    "path": "tiddlers/Content/Setting/Rostro.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Rostro — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Rostro_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Rostro_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Rostro_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Rostro_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — Station: Loden Ring",
+    "path": "tiddlers/Content/Setting/Rostro_Station_Loden_Ring.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Rostro_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 🚨 Political Tensions",
+    "path": "tiddlers/Content/Setting/Rostro_Political_Tensions.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Rostro — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Rostro_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Rostro"
+  },
+  {
+    "title": "Asteroid Belt Beta",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta.tid",
+    "audience": "player",
+    "kind": "orbital-zone",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Asteroid Belt Beta — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — Station: Greyhook",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Station_Greyhook.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — Habitat: Cryo’s End",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Habitat_Cryo_s_End.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — Relay Node Zeta-3 (Derelict)",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Relay_Node_Zeta-3_Derelict.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — 🧬 Native Life",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Asteroid Belt Beta — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Asteroid_Belt_Beta_Trade_Function_in_System.tid",
+    "audience": "gm",
+    "kind": "setting-component",
+    "parent": "Asteroid Belt Beta"
+  },
+  {
+    "title": "Chagar",
+    "path": "tiddlers/Content/Setting/Chagar.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Chagar — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Chagar_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — ⚙️ Production Output",
+    "path": "tiddlers/Content/Setting/Chagar_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Chagar_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 🧬 Fuel Ecosystem Summary",
+    "path": "tiddlers/Content/Setting/Chagar_Fuel_Ecosystem_Summary.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — Virel (Major Moon)",
+    "path": "tiddlers/Content/Setting/Chagar_Virel_Major_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — Kaza (Major Moon)",
+    "path": "tiddlers/Content/Setting/Chagar_Kaza_Major_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — Drelas (Major Moon)",
+    "path": "tiddlers/Content/Setting/Chagar_Drelas_Major_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — Selesh (Major Moon)",
+    "path": "tiddlers/Content/Setting/Chagar_Selesh_Major_Moon.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 🛰 Orbital Platform: Ignis Crown",
+    "path": "tiddlers/Content/Setting/Chagar_Orbital_Platform_Ignis_Crown.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 🛰 Orbital Platform: Feron Skim",
+    "path": "tiddlers/Content/Setting/Chagar_Orbital_Platform_Feron_Skim.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Chagar_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Chagar — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Chagar_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Chagar"
+  },
+  {
+    "title": "Narex",
+    "path": "tiddlers/Content/Setting/Narex.tid",
+    "audience": "player",
+    "kind": "planet",
+    "parent": "The Veltrass System"
+  },
+  {
+    "title": "Narex — 📄 General Info",
+    "path": "tiddlers/Content/Setting/Narex_General_Info.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — 🏭 Production Output",
+    "path": "tiddlers/Content/Setting/Narex_Production_Output.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — 📥 Primary Imports",
+    "path": "tiddlers/Content/Setting/Narex_Primary_Imports.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — Moon: Valtor",
+    "path": "tiddlers/Content/Setting/Narex_Moon_Valtor.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — Moon: Eltis",
+    "path": "tiddlers/Content/Setting/Narex_Moon_Eltis.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — Orbital Station: Palewatch Array",
+    "path": "tiddlers/Content/Setting/Narex_Orbital_Station_Palewatch_Array.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — Orbital Station: Dimmergate Spire",
+    "path": "tiddlers/Content/Setting/Narex_Orbital_Station_Dimmergate_Spire.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — 🐛 Native Life",
+    "path": "tiddlers/Content/Setting/Narex_Native_Life.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — 🏛 Government",
+    "path": "tiddlers/Content/Setting/Narex_Government.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "Narex — 🗺 Trade Function in System",
+    "path": "tiddlers/Content/Setting/Narex_Trade_Function_in_System.tid",
+    "audience": "player",
+    "kind": "setting-component",
+    "parent": "Narex"
+  },
+  {
+    "title": "The Celestial Dragons",
+    "path": "tiddlers/Content/Gods/The_Celestial_Dragons.tid",
+    "audience": "player",
+    "kind": "pantheon",
+    "parent": null
+  },
+  {
+    "title": "The Celestial Dragons — Consecrations, Oaths, and Gifts",
+    "path": "tiddlers/Content/Gods/The_Celestial_Dragons_Consecrations_Oaths_and_Gifts.tid",
+    "audience": "player",
+    "kind": "god-rule",
+    "parent": "The Celestial Dragons"
+  },
+  {
+    "title": "The Gold Dragon",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon.tid",
+    "audience": "player",
+    "kind": "god",
+    "parent": "The Celestial Dragons"
+  },
+  {
+    "title": "The Gold Dragon — Disposition",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Disposition.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Gold Dragon — Consecration",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Consecration.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Gold Dragon — Oath",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Oath.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Gold Dragon — Mark",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Mark.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Gold Dragon — Gifts",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Gifts.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Gold Dragon — Magic",
+    "path": "tiddlers/Content/Gods/The_Gold_Dragon_Magic.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Gold Dragon"
+  },
+  {
+    "title": "The Jade Dragon",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon.tid",
+    "audience": "player",
+    "kind": "god",
+    "parent": "The Celestial Dragons"
+  },
+  {
+    "title": "The Jade Dragon — Disposition",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Disposition.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "The Jade Dragon — Consecration",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Consecration.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "The Jade Dragon — Oath",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Oath.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "The Jade Dragon — Mark",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Mark.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "The Jade Dragon — Gifts",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Gifts.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "The Jade Dragon — Magic",
+    "path": "tiddlers/Content/Gods/The_Jade_Dragon_Magic.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "The Jade Dragon"
+  },
+  {
+    "title": "Barbarian Gods",
+    "path": "tiddlers/Content/Gods/Barbarian_Gods.tid",
+    "audience": "player",
+    "kind": "pantheon",
+    "parent": null
+  },
+  {
+    "title": "Barbarian Gods — Holidays",
+    "path": "tiddlers/Content/Gods/Barbarian_Gods_Holidays.tid",
+    "audience": "player",
+    "kind": "god-rule",
+    "parent": "Barbarian Gods"
+  },
+  {
+    "title": "Father Sky",
+    "path": "tiddlers/Content/Gods/Father_Sky.tid",
+    "audience": "player",
+    "kind": "god",
+    "parent": "Barbarian Gods"
+  },
+  {
+    "title": "Father Sky — Consecration",
+    "path": "tiddlers/Content/Gods/Father_Sky_Consecration.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Father Sky"
+  },
+  {
+    "title": "Father Sky — Oaths",
+    "path": "tiddlers/Content/Gods/Father_Sky_Oaths.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Father Sky"
+  },
+  {
+    "title": "Father Sky — Armor of Father Sky",
+    "path": "tiddlers/Content/Gods/Father_Sky_Armor_of_Father_Sky.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Father Sky"
+  },
+  {
+    "title": "Friend Darkness",
+    "path": "tiddlers/Content/Gods/Friend_Darkness.tid",
+    "audience": "player",
+    "kind": "god",
+    "parent": "Barbarian Gods"
+  },
+  {
+    "title": "Friend Darkness — Oaths",
+    "path": "tiddlers/Content/Gods/Friend_Darkness_Oaths.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Friend Darkness"
+  },
+  {
+    "title": "Friend Darkness — Have a Vision, and Work toward it",
+    "path": "tiddlers/Content/Gods/Friend_Darkness_Have_a_Vision_and_Work_toward_it.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Friend Darkness"
+  },
+  {
+    "title": "Friend Darkness — Play the Long Game",
+    "path": "tiddlers/Content/Gods/Friend_Darkness_Play_the_Long_Game.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Friend Darkness"
+  },
+  {
+    "title": "Friend Darkness — Burn the Impure",
+    "path": "tiddlers/Content/Gods/Friend_Darkness_Burn_the_Impure.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Friend Darkness"
+  },
+  {
+    "title": "Friend Darkness — Offer Unexpected Friendship and Absolution",
+    "path": "tiddlers/Content/Gods/Friend_Darkness_Offer_Unexpected_Friendship_and_Absolution.tid",
+    "audience": "player",
+    "kind": "god-component",
+    "parent": "Friend Darkness"
+  },
+  {
+    "title": "Undead",
+    "path": "tiddlers/Content/Monsters/Undead.tid",
+    "audience": "gm",
+    "kind": "monster-group",
+    "parent": null
+  },
+  {
+    "title": "Vampires",
+    "path": "tiddlers/Content/Monsters/Vampires.tid",
+    "audience": "gm",
+    "kind": "monster",
+    "parent": "Undead"
+  },
+  {
+    "title": "Demon Slayer Demons",
+    "path": "tiddlers/Content/Monsters/Demon_Slayer_Demons.tid",
+    "audience": "gm",
+    "kind": "monster",
+    "parent": "Undead"
+  },
+  {
+    "title": "Demons",
+    "path": "tiddlers/Content/Monsters/Demons.tid",
+    "audience": "gm",
+    "kind": "monster-group",
+    "parent": null
+  },
+  {
+    "title": "Balseraphs",
+    "path": "tiddlers/Content/Monsters/Balseraphs.tid",
+    "audience": "gm",
+    "kind": "monster",
+    "parent": "Demons"
+  },
+  {
+    "title": "Djinn",
+    "path": "tiddlers/Content/Monsters/Djinn.tid",
+    "audience": "gm",
+    "kind": "monster",
+    "parent": "Demons"
+  },
+  {
+    "title": "Cybernetics",
+    "path": "tiddlers/Content/Technology/Cybernetics.tid",
+    "audience": "player",
+    "kind": "technology-framework",
+    "parent": null
+  },
+  {
+    "title": "Cybernetics — Quick Start",
+    "path": "tiddlers/Content/Technology/Cybernetics_Quick_Start.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Quick Start — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Quick_Start_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Quick Start"
+  },
+  {
+    "title": "Cybernetics — Quick Start — Five Rules to Remember",
+    "path": "tiddlers/Content/Technology/Cybernetics_Quick_Start_Five_Rules_to_Remember.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Quick Start"
+  },
+  {
+    "title": "Cybernetics — Classes and Functions",
+    "path": "tiddlers/Content/Technology/Cybernetics_Classes_and_Functions.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Classes and Functions — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Classes_and_Functions_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Classes and Functions"
+  },
+  {
+    "title": "Cybernetics — Classes and Functions — Classes and Functions",
+    "path": "tiddlers/Content/Technology/Cybernetics_Classes_and_Functions_Classes_and_Functions.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Classes and Functions"
+  },
+  {
+    "title": "Cybernetics — Access and Facilities",
+    "path": "tiddlers/Content/Technology/Cybernetics_Access_and_Facilities.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Access and Facilities — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Access_and_Facilities_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Access and Facilities"
+  },
+  {
+    "title": "Cybernetics — Procedures",
+    "path": "tiddlers/Content/Technology/Cybernetics_Procedures.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Procedures — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Procedures_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Procedures"
+  },
+  {
+    "title": "Cybernetics — Limitations, Power, and Maintenance",
+    "path": "tiddlers/Content/Technology/Cybernetics_Limitations_Power_and_Maintenance.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Limitations, Power, and Maintenance — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Limitations_Power_and_Maintenance_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Limitations, Power, and Maintenance"
+  },
+  {
+    "title": "Cybernetics — Limitations, Power, and Maintenance — Power Cells and Operating Duration",
+    "path": "tiddlers/Content/Technology/Cybernetics_Limitations_Power_and_Maintenance_Power_Cells_and_Operating_Duration.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Limitations, Power, and Maintenance"
+  },
+  {
+    "title": "Cybernetics — Limitations, Power, and Maintenance — Power-cell rules that matter in play",
+    "path": "tiddlers/Content/Technology/Cybernetics_Limitations_Power_and_Maintenance_Power-cell_rules_that_matter_in_play.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Limitations, Power, and Maintenance"
+  },
+  {
+    "title": "Cybernetics — Strength and Support",
+    "path": "tiddlers/Content/Technology/Cybernetics_Strength_and_Support.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Strength and Support — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Strength_and_Support_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Strength and Support"
+  },
+  {
+    "title": "Cybernetics — Sensory Access",
+    "path": "tiddlers/Content/Technology/Cybernetics_Sensory_Access.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Sensory Access — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Sensory_Access_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Sensory Access"
+  },
+  {
+    "title": "Cybernetics — Armor and Survivability",
+    "path": "tiddlers/Content/Technology/Cybernetics_Armor_and_Survivability.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — Armor and Survivability — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_Armor_and_Survivability_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Armor and Survivability"
+  },
+  {
+    "title": "Cybernetics — Armor and Survivability — Damage and Repair of Cybernetic Armor",
+    "path": "tiddlers/Content/Technology/Cybernetics_Armor_and_Survivability_Damage_and_Repair_of_Cybernetic_Armor.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — Armor and Survivability"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Overview",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Authority and Scope",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Authority_and_Scope.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — GATES Source Boundary",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_GATES_Source_Boundary.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Cybernetic Load",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Cybernetic_Load.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Replacement Baseline and Anti-Exploit Rule",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Replacement_Baseline_and_Anti-Exploit_Rule.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Size Modifier",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Size_Modifier.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Integrated Equipment Capacity",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Integrated_Equipment_Capacity.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — GATES Attribute Augmentation Caps",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_GATES_Attribute_Augmentation_Caps.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Computer Progression and Effective Complexity",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Computer_Progression_and_Effective_Complexity.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — IQ and DX",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_IQ_and_DX.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Cybernetics Tradition Mastery",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Cybernetics_Tradition_Mastery.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — HT",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_HT.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Cybernetics — GATES Setting Rules — Related GATES Technology",
+    "path": "tiddlers/Content/Technology/Cybernetics_GATES_Setting_Rules_Related_GATES_Technology.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Cybernetics — GATES Setting Rules"
+  },
+  {
+    "title": "Tactical Cyber-Eyes",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Profile",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Profile.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Procedure",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Procedure.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Traits",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Traits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Limits",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Limits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Power and Repair",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Power_and_Repair.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Tactical Cyber-Eyes — Use and Upgrade",
+    "path": "tiddlers/Content/Technology/Tactical_Cyber-Eyes_Use_and_Upgrade.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Tactical Cyber-Eyes"
+  },
+  {
+    "title": "Combat Bionic Arm",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Combat Bionic Arm — Profile",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Profile.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Combat Bionic Arm — Procedure",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Procedure.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Combat Bionic Arm — Traits",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Traits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Combat Bionic Arm — Limits",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Limits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Combat Bionic Arm — Power and Repair",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Power_and_Repair.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Combat Bionic Arm — Use and Upgrade",
+    "path": "tiddlers/Content/Technology/Combat_Bionic_Arm_Use_and_Upgrade.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Combat Bionic Arm"
+  },
+  {
+    "title": "Total Cyborg Body",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Cybernetics"
+  },
+  {
+    "title": "Total Cyborg Body — Profile",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Profile.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Total Cyborg Body — Procedure",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Procedure.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Total Cyborg Body — Traits",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Traits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Total Cyborg Body — Limits",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Limits.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Total Cyborg Body — Power and Repair",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Power_and_Repair.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Total Cyborg Body — Use and Upgrade",
+    "path": "tiddlers/Content/Technology/Total_Cyborg_Body_Use_and_Upgrade.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Total Cyborg Body"
+  },
+  {
+    "title": "Chem Design Rules",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules.tid",
+    "audience": "player",
+    "kind": "technology-framework",
+    "parent": null
+  },
+  {
+    "title": "Chem Design Rules — Overview",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Overview.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Valid Targets, Dosage, and Analogues",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Valid_Targets_Dosage_and_Analogues.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Core Principle",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Core_Principle.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Step 1: Select the Benefits",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Step_1_Select_the_Benefits.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Supernatural Origins",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Supernatural_Origins.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Step 2: Select the Shared Modifiers",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Step_2_Select_the_Shared_Modifiers.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Duration",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Duration.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Backlash",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Backlash.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Immediate and Lasting Harm",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Immediate_and_Lasting_Harm.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — The Three Design Values",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_The_Three_Design_Values.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Level Load",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Level_Load.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Design Point Load",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Design_Point_Load.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Benefit Value",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Benefit_Value.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Example",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Example.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Effective Talent",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Effective_Talent.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Chem Design Caps",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Chem_Design_Caps.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Required Talent",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Required_Talent.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Refinement",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Refinement.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Clearance Refinement",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Clearance_Refinement.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Addiction Roll",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Addiction_Roll.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Addiction Divisor",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Addiction_Divisor.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Addiction Penalty",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Addiction_Penalty.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Production Cost",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Production_Cost.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Prototype Skill and Margin",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Prototype_Skill_and_Margin.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Base Cost",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Base_Cost.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Cost Refinement results",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Cost_Refinement_results.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Duration and Clearance",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Duration_and_Clearance.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Counteragents and Formula Interactions",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Counteragents_and_Formula_Interactions.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Chem Capacity and Overdose",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Chem_Capacity_and_Overdose.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Exceeding Capacity",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Exceeding_Capacity.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Integrated and Separate Chems",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Integrated_and_Separate_Chems.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Separate Effects",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Separate_Effects.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Integrated Formula",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Integrated_Formula.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Formula Record",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Formula_Record.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Chem Design Rules — Design Summary",
+    "path": "tiddlers/Content/Technology/Chem_Design_Rules_Design_Summary.tid",
+    "audience": "player",
+    "kind": "technology-rule",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Commercial Jet",
+    "path": "tiddlers/Content/Technology/Commercial_Jet.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Commercial Jet — Profile",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Profile.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Delivery",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Delivery.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Effect",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Duration",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Duration.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Side effect",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Side_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Clearance",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Clearance.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Addiction",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Addiction.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Overdose effect",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Overdose_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Normal market cost",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Normal_market_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Production cost",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Production_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Commercial Jet — Formula",
+    "path": "tiddlers/Content/Technology/Commercial_Jet_Formula.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Commercial Jet"
+  },
+  {
+    "title": "Stimpak",
+    "path": "tiddlers/Content/Technology/Stimpak.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Stimpak — Profile",
+    "path": "tiddlers/Content/Technology/Stimpak_Profile.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Delivery",
+    "path": "tiddlers/Content/Technology/Stimpak_Delivery.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Effect",
+    "path": "tiddlers/Content/Technology/Stimpak_Effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Duration",
+    "path": "tiddlers/Content/Technology/Stimpak_Duration.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Side effect",
+    "path": "tiddlers/Content/Technology/Stimpak_Side_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Clearance",
+    "path": "tiddlers/Content/Technology/Stimpak_Clearance.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Addiction",
+    "path": "tiddlers/Content/Technology/Stimpak_Addiction.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Overdose effect",
+    "path": "tiddlers/Content/Technology/Stimpak_Overdose_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Normal market cost",
+    "path": "tiddlers/Content/Technology/Stimpak_Normal_market_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Production cost",
+    "path": "tiddlers/Content/Technology/Stimpak_Production_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Stimpak — Formula",
+    "path": "tiddlers/Content/Technology/Stimpak_Formula.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Stimpak"
+  },
+  {
+    "title": "Mentats",
+    "path": "tiddlers/Content/Technology/Mentats.tid",
+    "audience": "player",
+    "kind": "equipment",
+    "parent": "Chem Design Rules"
+  },
+  {
+    "title": "Mentats — The classic corporate nootropic",
+    "path": "tiddlers/Content/Technology/Mentats_The_classic_corporate_nootropic.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Delivery",
+    "path": "tiddlers/Content/Technology/Mentats_Delivery.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Effect",
+    "path": "tiddlers/Content/Technology/Mentats_Effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Duration",
+    "path": "tiddlers/Content/Technology/Mentats_Duration.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Side effect",
+    "path": "tiddlers/Content/Technology/Mentats_Side_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Clearance",
+    "path": "tiddlers/Content/Technology/Mentats_Clearance.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Addiction",
+    "path": "tiddlers/Content/Technology/Mentats_Addiction.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Overdose effect",
+    "path": "tiddlers/Content/Technology/Mentats_Overdose_effect.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Normal market cost",
+    "path": "tiddlers/Content/Technology/Mentats_Normal_market_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Production cost",
+    "path": "tiddlers/Content/Technology/Mentats_Production_cost.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Mentats — Formula",
+    "path": "tiddlers/Content/Technology/Mentats_Formula.tid",
+    "audience": "player",
+    "kind": "equipment-component",
+    "parent": "Mentats"
+  },
+  {
+    "title": "Starbucks Adventuring Division",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division.tid",
+    "audience": "player",
+    "kind": "campaign",
+    "parent": null
+  },
+  {
+    "title": "Starbucks Adventuring Division — Field Operator Ranks",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Field_Operator_Ranks.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Mission Progression",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Mission_Progression.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Rank Tests",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Rank_Tests.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Expected Combat",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Expected_Combat.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Teams and Rank Maintenance",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Teams_and_Rank_Maintenance.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Accepting Missions",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Accepting_Missions.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Badges and Conduct",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Badges_and_Conduct.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Accounts and Benefits",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Accounts_and_Benefits.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks Adventuring Division — Source Pay Schedule",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Adventuring_Division_Source_Pay_Schedule.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual.tid",
+    "audience": "player",
+    "kind": "field-guide",
+    "parent": "Starbucks Adventuring Division"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — ⚠️ Legal Notice",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Legal_Notice.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — ☕ What Counts as a Vampire?",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_What_Counts_as_a_Vampire.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — 🧛 Field Identification & Known Weaknesses",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Field_Identification_Known_Weaknesses.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — 🪖 Starbucks Contractor Response Protocol",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Starbucks_Contractor_Response_Protocol.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — 🔫 Recommended Equipment",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Recommended_Equipment.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — 🩸 Local Field Note: Nocthollow Vampires",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Local_Field_Note_Nocthollow_Vampires.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — 📋 Post-Encounter Reporting",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Post-Encounter_Reporting.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Starbucks — Vampire Field Manual — ☕ Remember",
+    "path": "tiddlers/Content/Campaigns/Starbucks_Vampire_Field_Manual_Remember.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Starbucks — Vampire Field Manual"
+  },
+  {
+    "title": "Fall of Tokyo",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo.tid",
+    "audience": "player",
+    "kind": "campaign",
+    "parent": null
+  },
+  {
+    "title": "Fall of Tokyo — City Baseline",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_City_Baseline.tid",
+    "audience": "player",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — INITIATING INCIDENT",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_INITIATING_INCIDENT.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — DISASTER FOOTPRINTS",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_DISASTER_FOOTPRINTS.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — SPAA ESCALATION",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_SPAA_ESCALATION.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — PARTY ARRIVAL AND FIRST-DAY RESPONSE",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_PARTY_ARRIVAL_AND_FIRST-DAY_RESPONSE.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — CASUALTY MODEL",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_CASUALTY_MODEL.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — GATE RESISTANCE AND MAINTENANCE",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_GATE_RESISTANCE_AND_MAINTENANCE.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — TWELVE MAINTAINED GATES: CURRENT ROSTER",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_TWELVE_MAINTAINED_GATES_CURRENT_ROSTER.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — FRONT-BY-FRONT SOLUTION TYPES",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_FRONT-BY-FRONT_SOLUTION_TYPES.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — CURRENT STRATEGIC PRIORITIES",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_CURRENT_STRATEGIC_PRIORITIES.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — Waaagh, because it is militarily destructive but comparatively direct and understandable.",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_Waaagh_because_it_is_militarily_destructive_but_comparatively_direct_and_understandable..tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — JAMES: LEGAL CONSEQUENCE",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_JAMES_LEGAL_CONSEQUENCE.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — SETTING CONSEQUENCES",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_SETTING_CONSEQUENCES.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — OPEN DEVELOPMENT QUEUE",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_OPEN_DEVELOPMENT_QUEUE.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Fall of Tokyo — PRIMARY PROJECT SOURCES",
+    "path": "tiddlers/Content/Campaigns/Fall_of_Tokyo_PRIMARY_PROJECT_SOURCES.tid",
+    "audience": "gm",
+    "kind": "campaign-component",
+    "parent": "Fall of Tokyo"
+  },
+  {
+    "title": "Godmath",
+    "path": "tiddlers/Content/System/Godmath.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "Godmath — Godhood and Choice",
+    "path": "tiddlers/Content/System/Godmath_Godhood_and_Choice.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Godsoul and Divine Ranks",
+    "path": "tiddlers/Content/System/Godmath_Godsoul_and_Divine_Ranks.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Unfinished Divine Ranks",
+    "path": "tiddlers/Content/System/Godmath_Unfinished_Divine_Ranks.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Afterlife Capacity",
+    "path": "tiddlers/Content/System/Godmath_Afterlife_Capacity.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Demon Lords",
+    "path": "tiddlers/Content/System/Godmath_Demon_Lords.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Great Demon Lord Draft",
+    "path": "tiddlers/Content/System/Godmath_Great_Demon_Lord_Draft.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Divine Servitors",
+    "path": "tiddlers/Content/System/Godmath_Divine_Servitors.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Demonic Minions",
+    "path": "tiddlers/Content/System/Godmath_Demonic_Minions.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Champions",
+    "path": "tiddlers/Content/System/Godmath_Champions.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Seedlings",
+    "path": "tiddlers/Content/System/Godmath_Seedlings.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Clergy",
+    "path": "tiddlers/Content/System/Godmath_Clergy.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Priests",
+    "path": "tiddlers/Content/System/Godmath_Priests.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Clerics",
+    "path": "tiddlers/Content/System/Godmath_Clerics.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Prophets",
+    "path": "tiddlers/Content/System/Godmath_Prophets.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Summoners",
+    "path": "tiddlers/Content/System/Godmath_Summoners.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Archivists",
+    "path": "tiddlers/Content/System/Godmath_Archivists.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Channels",
+    "path": "tiddlers/Content/System/Godmath_Channels.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Paladins",
+    "path": "tiddlers/Content/System/Godmath_Paladins.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Heroes Draft",
+    "path": "tiddlers/Content/System/Godmath_Heroes_Draft.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Soul Identity",
+    "path": "tiddlers/Content/System/Godmath_Soul_Identity.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Creating and Classifying Souls",
+    "path": "tiddlers/Content/System/Godmath_Creating_and_Classifying_Souls.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Divine Experience",
+    "path": "tiddlers/Content/System/Godmath_Divine_Experience.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Demon Lord Worked Example",
+    "path": "tiddlers/Content/System/Godmath_Demon_Lord_Worked_Example.tid",
+    "audience": "gm",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Death and Fetters",
+    "path": "tiddlers/Content/System/Godmath_Death_and_Fetters.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Wraiths and the Shadow",
+    "path": "tiddlers/Content/System/Godmath_Wraiths_and_the_Shadow.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Godmath — Destruction and Recoalescence",
+    "path": "tiddlers/Content/System/Godmath_Destruction_and_Recoalescence.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Godmath"
+  },
+  {
+    "title": "Supernatural Power Abundance",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "Supernatural Power Abundance — Basic Scaling",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Basic_Scaling.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "Supernatural Power Abundance — Martial and Psionic Scope",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Martial_and_Psionic_Scope.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "Supernatural Power Abundance — Calculation Order",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Calculation_Order.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "Supernatural Power Abundance — Bane Bridge",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Bane_Bridge.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "Supernatural Power Abundance — Worked Comparisons",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Worked_Comparisons.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "Supernatural Power Abundance — Weakness and Vulnerability",
+    "path": "tiddlers/Content/System/Supernatural_Power_Abundance_Weakness_and_Vulnerability.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "Supernatural Power Abundance"
+  },
+  {
+    "title": "GATES Drive and Mark Framework",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework.tid",
+    "audience": "player",
+    "kind": "rule-hub",
+    "parent": null
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Overview",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Overview.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Authority and Core Principles",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Authority_and_Core_Principles.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Drive",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Drive.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Drive Mark",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Drive_Mark.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Drive Source",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Drive_Source.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Drive Set",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Drive_Set.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Active Source",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Active_Source.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Secondary Choice",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Secondary_Choice.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Campaign Drive",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Campaign_Drive.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Old Marks",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Old_Marks.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Mark Value",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Mark_Value.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Starting Character Value",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Starting_Character_Value.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Prestige Reset Value",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Prestige_Reset_Value.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Campaign Configuration",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Campaign_Configuration.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Required Reusable Drive Sets",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Required_Reusable_Drive_Sets.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Character Drive Sheet Assembly",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Character_Drive_Sheet_Assembly.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — End-of-Session Mark Procedure",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_End-of-Session_Mark_Procedure.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Voluntary Source and Secondary-Choice Changes",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Voluntary_Source_and_Secondary-Choice_Changes.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Converting Marks to Character Points",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Converting_Marks_to_Character_Points.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Drive-Set Construction Baseline",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Drive-Set_Construction_Baseline.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Optional Isekai Prestige Module",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Optional_Isekai_Prestige_Module.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Campaign Prestige Settings",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Campaign_Prestige_Settings.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Prestige Count and Cost",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Prestige_Count_and_Cost.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Prestige Reset",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Prestige_Reset.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Legacy Isekai Caliber Integration",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Legacy_Isekai_Caliber_Integration.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Finalized GATES Scaffolding Rules",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Finalized_GATES_Scaffolding_Rules.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "GATES Drive and Mark Framework — Minimum Drive-Sheet Data",
+    "path": "tiddlers/Content/System/GATES_Drive_and_Mark_Framework_Minimum_Drive-Sheet_Data.tid",
+    "audience": "player",
+    "kind": "rule",
+    "parent": "GATES Drive and Mark Framework"
+  },
+  {
+    "title": "Setting: GATES Earth",
+    "path": "tiddlers/Content/Navigation/Setting_GATES_Earth.tid",
+    "audience": "player",
+    "kind": "setting-hub",
+    "parent": null
+  },
+  {
+    "title": "Setting: Star Wars",
+    "path": "tiddlers/Content/Navigation/Setting_Star_Wars.tid",
+    "audience": "player",
+    "kind": "setting-hub",
+    "parent": null
+  },
+  {
+    "title": "Setting: Eternal War",
+    "path": "tiddlers/Content/Navigation/Setting_Eternal_War.tid",
+    "audience": "player",
+    "kind": "setting-hub",
+    "parent": null
+  },
+  {
+    "title": "Setting: Stellar Conflict",
+    "path": "tiddlers/Content/Navigation/Setting_Stellar_Conflict.tid",
+    "audience": "player",
+    "kind": "setting-hub",
+    "parent": null
+  },
+  {
+    "title": "Setting: Perfectly Normal Earth",
+    "path": "tiddlers/Content/Navigation/Setting_Perfectly_Normal_Earth.tid",
+    "audience": "player",
+    "kind": "setting-hub",
+    "parent": null
+  }
+]

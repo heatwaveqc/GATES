@@ -1,0 +1,56 @@
+title: Cybernetics — Procedures — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Procedures
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 15688
+source-end-index: 18765
+gates-order: 0000
+gates-component: yes
+caption: Procedures — Overview
+technology-rule: overview
+
+Tech Level describes what can exist and how mature it is. Facility grade describes what can be installed or repaired locally. Advanced cybernetics can function in a low-TL setting even when proper repair is unavailable.
+
+| TL | Cybernetic Era | Typical Capabilities |
+| --- | --- | --- |
+| TL8 | Advanced prosthetics | Medical implants, powered prosthetics, early neural links |
+| TL9 | True cybernetics | Bionic limbs, cyber-eyes, chip slots, implant radios, subdermal armor |
+| TL10 | Mature cybernetics | Combat limbs, pain editors, cyberdecks, power spines, practical chassis bodies |
+| TL11 | Transhuman cybernetics | Parallel processors, self-repair, reliable full conversion, advanced nanomedicine |
+| TL12 | Miracle cybernetics | Living metal, energy-weave skin, posthuman bodies, metamorphic systems |
+| TL^ | Superscience | Antigravity, reactionless thrust, force screens, stasis, disintegrators, cyber-soul systems |
+
+| Procedure | Typical Work | Base Time | Typical Recovery | Minimum Facility |
+| --- | --- | --- | --- | --- |
+| Simple | Surface port, small monitor, identification implant | About 15 minutes | Hours | 1 |
+| Minor | Datajack, injector, simple cyber-ear, small interface | About 1 hour | About 1 day | 2 |
+| Major | Limb, cyber-eye, organ, chip slot, subdermal armor | About 2 hours | About 1 week | 3 |
+| Radical | Full-body integration, major brain work, Class III conversion | About 4 hours or more | Several weeks | 4 |
+| Metamorphic | TL12 reconstruction, divine body work, cyber-soul transfer | Varies | Hours to weeks | 5 |
+
+| Grade | Facility | Can Usually Install | Can Usually Repair |
+| --- | --- | --- | --- |
+| 0 | No cyberclinic | Nothing; stabilization only | Crude bracing and biological first aid |
+| 1 | Emergency cyber-med station | Simple procedures | Diagnostics, recharge, temporary patches |
+| 2 | Frontier clinic | Minor procedures and basic restoration | Common hands, ports, organs, and standard cells |
+| 3 | Standard cyberclinic | Major procedures and common performance ware | Limbs, chip slots, subdermal armor, neural interfaces |
+| 4 | Advanced center | Radical surgery, military suites, Class III bodies | Warbodies, complex neural systems, prototypes |
+| 5 | Nanofac / divine forge / miracle laboratory | TL12, total conversion, living-machine and cyber-soul work | Miracle reconstruction and source-specific systems |
+
+| Improvised Help | What It Can Do | What It Usually Cannot Do |
+| --- | --- | --- |
+| Healer or physician | Treat infection, shock, tissue damage, and rejection | Repair actuators, firmware, or processors |
+| Blacksmith or machinist | Brace a limb, replace simple metal parts | Calibrate neural interfaces |
+| Material Mage | Repair casing, structure, or living metal | Restore software or medical integration without relevant skill |
+| Lightning Mage | Recharge a power cell | Safely regulate voltage or repair damage |
+| Alchemist | Provide coolant, anti-rejection drugs, or nanite feedstock substitutes | Rebuild complex electronics |
+| Divine forge | Repair compatible sacred or soul-attuned systems | Automatically understand unrelated corporate cyberware |
+
+MINIMUM VS. MATURE TL
+
+Minimum TL permits prototypes or rare systems. Mature TL means compact, reliable, supportable, and reasonably available.

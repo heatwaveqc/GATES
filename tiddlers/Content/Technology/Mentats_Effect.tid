@@ -1,0 +1,16 @@
+title: Mentats — Effect
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Mentats
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 16154
+source-end-index: 16168
+gates-order: 0003
+gates-component: yes
+caption: Effect
+
+Effect: IQ +2.

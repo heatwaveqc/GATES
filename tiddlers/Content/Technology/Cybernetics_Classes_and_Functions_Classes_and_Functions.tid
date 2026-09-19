@@ -1,0 +1,53 @@
+title: Cybernetics — Classes and Functions — Classes and Functions
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Classes and Functions
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 8308
+source-end-index: 10849
+gates-order: 0001
+gates-component: yes
+caption: Classes and Functions — Classes and Functions
+technology-rule: classes-and-functions
+
+Class measures visibility and body-plan impact. Category measures the role of the modification in the character build. These are separate decisions.
+
+| Class | Definition | Quick Test | Examples |
+| --- | --- | --- | --- |
+| I - Internal / Covert | Hidden, internal, or natural-looking. | Can you pass casual inspection? | Datajack, artificial heart, natural cyber-eye, subdermal armor |
+| II - Obvious / Anatomical | Visible, but preserves normal species anatomy. | Are you still shaped like your species? | Chrome arm, cyberlegs, visible eye, power spine |
+| III - Transformative / Chassis | Changes body plan or makes the body a platform. | Has your body become a chassis? | Tracks, spider body, turret, total conversion |
+
+| Category | What It Does | Typical Point Treatment | Example |
+| --- | --- | --- | --- |
+| Restorative | Restores lost or damaged function. | Mitigator or net trait difference. | Replacement hand or artificial heart |
+| Practical | Adds tools, communication, or convenience. | Accessory, perk, small advantage, or equipment. | Datajack or biomonitor |
+| Performance | Improves combat, survival, senses, movement, or cognition. | Full point cost after real limitations. | Subdermal armor or reflex governor |
+| Transformative | Changes body assumptions, scale, or identity. | Template, lens, Alternate Form, or rebuild. | Spider chassis or total cyborg body |
+
+| Edge Case | Usual Class | Reason |
+| --- | --- | --- |
+| Natural-looking cyberarm | I apparent / II functional | It may pass visually but is still a replaceable limb system. |
+| Cyber-tail on a tailed species | II | It preserves species anatomy. |
+| Heavy scorpion tail added to a human | III | It changes body plan and combat reach. |
+| Mechanical wings on a winged species | II | Replacement of expected anatomy. |
+| Reactionless flight pack built into a human torso | III | The body becomes a flight platform. |
+| Wrist gun | II | Fits within an anatomical limb. |
+| Shoulder turret | III | Mounted like a vehicle weapon. |
+
+| Cybernetic | Base Function | Added Function | Controlling Category |
+| --- | --- | --- | --- |
+| Normal bionic hand | Restores a hand | None | Restorative |
+| Strong bionic hand | Restores a hand | Arm ST and local DR | Restorative + Performance |
+| Datajack | Direct interface | None | Practical |
+| Datajack with cyberdeck | Direct interface | Hacking and defense suite | Practical + Performance |
+| Artificial lung | Restores breathing | Filter Lungs and reserve air | Restorative + Performance |
+| Rescue chassis | Saves a life | New machine body | Transformative |
+
+APPARENT VS. FUNCTIONAL CLASS
+
+A human-looking total body may pass as Class I while remaining functional Class III for repair, damage, and templates.

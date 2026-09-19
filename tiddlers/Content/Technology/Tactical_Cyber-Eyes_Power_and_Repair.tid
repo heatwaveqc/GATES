@@ -1,0 +1,16 @@
+title: Tactical Cyber-Eyes — Power and Repair
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Tactical Cyber-Eyes
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 73639
+source-end-index: 73756
+gates-order: 0004
+gates-component: yes
+caption: Power and Repair
+
+POWER AND REPAIR Power: Body heat or internal cell. Repair: Surgery for interface; Electronics Repair for components.

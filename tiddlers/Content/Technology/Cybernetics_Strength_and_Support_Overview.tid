@@ -1,0 +1,41 @@
+title: Cybernetics — Strength and Support — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Strength and Support
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 29516
+source-end-index: 31425
+gates-order: 0000
+gates-component: yes
+caption: Strength and Support — Overview
+technology-rule: overview
+
+Every strong part needs enough structure, power, cooling, and control behind it.
+
+Arm ST, Striking ST, Lifting ST, full ST, and chassis ST are separate. A strong limb does not automatically strengthen the entire body. Support caps are permissions, not free points.
+
+| Trait | Base Cost | What It Improves | Minimum Support |
+| --- | --- | --- | --- |
+| Arm ST | 3/level for one arm; 5/level for both | Strength of arms for striking, gripping, grappling, and arm tasks | Local anchoring and reinforced joints |
+| Striking ST | 5/level | Thrust and swing damage from body attacks | Reinforced striking limbs, joints, and shock absorption |
+| Lifting ST | 3/level | Basic Lift, carrying, bracing, dragging, and whole-body labor | Spine, hips, bracing legs, and frame |
+| Full ST | 10/level | All normal ST functions and HP unless separated | Full anatomical cyberframe |
+| Chassis ST | Template value | Machine-body or vehicle-scale strength | Class III body template |
+
+| Support Element | What It Does | Common Traits It Enables |
+| --- | --- | --- |
+| Frame / skeleton | Carries force and prevents self-injury. | Arm ST, Lifting ST, full ST, HP, heavy DR |
+| Power source | Runs actuators, processors, sensors, armor, weapons, and life support. | Energy Reserve, high ST, active defenses, weapons |
+| Heat management | Sheds waste heat from movement, processors, and weapons. | Sustained output, reduced recharge, sealed systems |
+| Neural control | Lets the user control the hardware safely. | Combat Reflexes, Enhanced Tracking, CM, complex locomotion |
+| Maintenance access | Allows service without dismantling the body. | Reduced downtime, field repair, reliable operation |
+| Software security | Protects networked systems. | Cyberdecks, drone control, remote diagnostics |
+| Legal/social tolerance | Determines whether the body can operate openly. | Licenses, permits, social access, public use |
+
+ONE ARM IS NOT A FORKLIFT
+
+Add spine, hip, and leg support before buying significant Lifting ST or full ST.

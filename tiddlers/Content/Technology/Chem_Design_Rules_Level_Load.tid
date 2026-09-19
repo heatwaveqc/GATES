@@ -1,0 +1,50 @@
+title: Chem Design Rules — Level Load
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 8082
+source-end-index: 9396
+gates-order: 0011
+gates-component: yes
+caption: Level Load
+technology-rule: level-load
+
+Level Load measures how many levels of beneficial traits are contained in the integrated package.
+
+Add:
+
+One per level of a leveled advantage.
+
+One per +1 to an attribute.
+
+One per +1 to a secondary characteristic.
+
+One for each nonleveled advantage.
+
+One for each perk.
+
+The Level Load of leveled Exotic, Supernatural, and Cinematic advantages is doubled. Nonleveled traits still count as one level.
+
+For a leveled advantage costing at least 75 points per level before modifiers, double its effective Level Load again. This stacks with the Exotic, Supernatural, or Cinematic multiplier.
+
+Regardless of these multipliers, a chem may always include one actual level of a leveled advantage if its effective DPL fits the package’s DPL Cap. If that first level’s multiplied Level Load exceeds the package’s Level Cap, it fills the entire Level Cap. Additional levels use their full multiplied Level Load. This exception affects Level Load only; it never reduces DPL, Benefit Value, or the actual trait granted.
+
+Examples:
+
+| Benefits | Level Load |
+| --- | --- |
+| ST +3 | 3 |
+| High Pain Threshold | 1 |
+| Altered Time Rate 2 | 8 |
+| ST +1 and HT +1 | 2 |
+| ST +1, DX +1, IQ +1, and HT +1 | 4 |
+| Altered Time Rate 2 and High Pain Threshold | 9 |
+
+Limitations and enhancements do not change Level Load.
+
+Negative traits and Backlash effects do not add Level Load.

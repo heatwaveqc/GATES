@@ -1,0 +1,16 @@
+title: Commercial Jet — Duration
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Commercial Jet
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 1925
+source-end-index: 1945
+gates-order: 0004
+gates-component: yes
+caption: Duration
+
+Duration: 6 seconds.

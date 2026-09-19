@@ -1,0 +1,17 @@
+title: Cybernetics — GATES Setting Rules — GATES Attribute Augmentation Caps
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 118120
+source-end-index: 118421
+gates-order: 0007
+gates-component: yes
+caption: GATES Setting Rules — GATES Attribute Augmentation Caps
+technology-rule: gates-attribute-augmentation-caps
+
+GATES cybernetics use the following setting-specific ceilings for cybernetic increases to IQ, DX, and HT. These are technological ceilings, not free levels; the character must still pay the normal character-point cost and meet all structural, power, cooling, control, and Cybernetic Load requirements.

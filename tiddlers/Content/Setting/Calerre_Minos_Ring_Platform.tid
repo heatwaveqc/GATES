@@ -1,0 +1,27 @@
+title: Calerre — Minos Ring Platform
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Calerre
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 4088
+source-end-index: 4531
+gates-order: 0007
+gates-component: yes
+caption: Minos Ring Platform
+setting-component: minos-ring-platform
+
+Type: Low orbit mining & refining platform
+
+Population: ~300
+
+Operator: GigaProspect Corp., under contract to Starbucks Logistics Division (surplus alloy resold for infrastructure use)
+
+Exports: Exotic metals for Starbucks' bulk packaging, anti-thermal components
+
+Imports: Food (Halor), bulk chemical tanks (from Jevin), magnetic anchoring parts (Asteroid Alpha)
+
+Security Rating: Medium – pirates unlikely but internal sabotage has occurred

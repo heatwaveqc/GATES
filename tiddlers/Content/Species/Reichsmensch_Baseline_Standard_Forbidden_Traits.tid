@@ -1,0 +1,23 @@
+title: Reichsmensch Baseline — Standard Forbidden Traits
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 4543
+source-end-index: 4809
+gates-order: 0054
+gates-component: yes
+caption: Standard Forbidden Traits
+species-rule: forbidden-traits
+
+- Genetic defects prohibited by the Reich’s genefixing package.
+
+- Unattractive-or-worse Appearance and other conditions directly excluded by the Unattractiveness genefix.
+
+- Very Unfit.
+
+- Other hereditary defects explicitly incompatible with the engineered phenotype.

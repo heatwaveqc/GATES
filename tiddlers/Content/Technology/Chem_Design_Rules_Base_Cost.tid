@@ -1,0 +1,47 @@
+title: Chem Design Rules — Base Cost
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 16521
+source-end-index: 17352
+gates-order: 0027
+gates-component: yes
+caption: Base Cost
+technology-rule: base-cost
+
+Let:
+
+D = Design Point Load.
+
+M = margin of success on the successful Prototype roll.
+
+R_C = Cost Refinement.
+
+The Cost Factor is a percentage of baseline cost.
+
+If R_C = 0:
+
+Cost Factor = max(25, 100 - M)
+
+If R_C >= 1:
+
+Cost Floor = max(5, 25 - 5 * R_C)
+
+Cost Factor = max(Cost Floor, 100 - 5 * R_C * M)
+
+Normal Market Cost (normal or cinematic) = D * Cost Factor / 100
+
+Normal Market Cost (supernatural) = D * Cost Factor
+
+Production Cost = Normal Market Cost / 2
+
+Production Cost = D * Cost Factor / 200
+
+At a Cost Factor of 100, Normal Market Cost is $1 per DPL and Production Cost is $0.50 per DPL.
+
+Round final Normal Market Cost and Production Cost to the nearest cent unless the campaign uses a coarser currency unit. Use the second, higher Normal Market Cost for any chem where any of the traits have an Origin other than Cinematic.

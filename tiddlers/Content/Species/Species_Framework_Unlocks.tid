@@ -1,0 +1,17 @@
+title: Species Framework — Unlocks
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Species Framework
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.0
+source-start-index: 4484
+source-end-index: 4977
+gates-order: 0003
+gates-component: yes
+caption: Unlocks
+species-rule: unlocks
+
+Any Mature member of a Species may purchase anything listed under Unlocks, subject to any additional condition written on that Unlock. Unlocks cost normal character points unless explicitly granted for free. Mature qualification is therefore the universal gate for Species Unlocks and does not need to be repeated on each Unlock. Losing Mature qualification does not change Species membership, but already purchased Unlocks remain on the sheet and are inactive until qualification is restored.

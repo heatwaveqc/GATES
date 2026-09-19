@@ -1,0 +1,16 @@
+title: Stimpak — Clearance
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Stimpak
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 9454
+source-end-index: 9476
+gates-order: 0006
+gates-component: yes
+caption: Clearance
+
+Clearance: 30 minutes.

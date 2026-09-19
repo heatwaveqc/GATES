@@ -1,0 +1,31 @@
+title: Cybernetics — GATES Setting Rules — Cybernetic Load
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 115512
+source-end-index: 116385
+gates-order: 0003
+gates-component: yes
+caption: GATES Setting Rules — Cybernetic Load
+technology-rule: cybernetic-load
+
+Cybernetic Load measures the positive character-point value of enhanced capabilities supplied by permanent cybernetics.
+
+Apply legitimate location and functional limitations, such as One Arm, One Eye, or a restriction intrinsic to the ability's actual operation.
+
+Do not reduce Cybernetic Load for Electrical, Maintenance, Unhealing, or similar drawbacks that arise merely because the system is cybernetic.
+
+Replacement-only function has Cybernetic Load 0.
+
+Each built-in Accessory normally has Cybernetic Load 1.
+
+Equipment used with ordinary equipment statistics should be converted to an equivalent advantage solely for calculating Cybernetic Load.
+
+Discounts used on the character sheet do not reduce Cybernetic Load unless they reduce the actual enhanced capability.
+
+In GATES, total Cybernetic Load counts as a Permanent Physical buff for the campaign's augmentation limits.

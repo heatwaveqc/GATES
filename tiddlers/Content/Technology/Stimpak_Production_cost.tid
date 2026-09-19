@@ -1,0 +1,16 @@
+title: Stimpak — Production cost
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Stimpak
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 9564
+source-end-index: 9596
+gates-order: 0010
+gates-component: yes
+caption: Production cost
+
+Production cost: $9.00 per dose.

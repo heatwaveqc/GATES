@@ -1,0 +1,30 @@
+title: GATES Earth — Communications in the Gate Age
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: GATES Earth
+source-drive-id: 1zk6aHWu3EybLwSeriF_d2EV5DsiQHrVMuw_ZoAzihVA
+source-drive-title: Setting
+source-tab-id: t.0
+source-start-index: 2077
+source-end-index: 6377
+gates-order: 0001
+gates-component: yes
+caption: Communications in the Gate Age
+
+The communications problem created by the Gates is not primarily that they absorb radio waves. Ordinary terrain, weather, trees, structures, and distance already attenuate signals. The larger problem is that a Gate can become a new apparent source for whatever electromagnetic environment exists on the other side. A Gate opening near a pulsar, a flaring star, a machine civilization with millions of transmitters, or some equally extreme source can pour that signal into the local environment at the intensity experienced by the far side of the Gate. From the receiving world's perspective, the Gate mouth itself is effectively the source.
+
+This interference is not limited to conventional radio. Gates can pass electromagnetic radiation across the spectrum, and individual Gates vary in exactly what they transmit. Radio, microwave, infrared, visible, ultraviolet, X-rays, and other bands can all become noisy or dangerous. Narrow-beam line-of-sight laser communications are generally less vulnerable than broadcast radio because they can exploit directionality and tight filtering, but they are still subject to atmospheric conditions, Gate-borne optical noise, path obstruction, and the possibility that a new Gate suddenly opens into an absurdly bright environment.
+
+Gate interference is inherently unstable because Gates themselves are random. A frequency may remain clean for milliseconds, hours, or weeks and then become unusable without warning. A channel that worked all morning may suddenly be filled by an alien network or an astrophysical source and remain that way for two weeks. Spectrum surveys and adaptive frequency hopping help, but they do not create a permanently safe band.
+
+Brute-force transmission can sometimes overcome the noise. High power, directional antennas, spread-spectrum techniques, relay networks, aggressive error correction, and advanced signal processing all improve the odds of getting a message through. They do not guarantee success, and high-power transmission carries a special danger: some creatures, machines, and other Gate-borne threats actively hunt strong or conspicuous signals. A transmitter powerful enough to make itself heard may also be powerful enough to tell something dangerous exactly where it is.
+
+Physical communications infrastructure is therefore extremely valuable. Fiber and other guided links are usually reliable against ambient radio interference, although some Gate-borne radiation and stranger phenomena can couple into or damage transmission lines, long copper runs also behave as antennas, and Gate fauna routinely chew, cut, infest, steal, or otherwise destroy exposed cable. Shorter relay hops can improve wireless reliability, but repeaters themselves are exposed infrastructure and can accidentally amplify or retransmit Gate noise unless they filter and authenticate what they receive.
+
+The noise is sometimes information. Gate-borne signals can contain alien television, robot-machine traffic, navigation beacons, military telemetry, distress calls, automated advertisements, alternate-Earth broadcasts, transmissions from civilizations at radically different technological levels, or signals whose originating society has no relationship to the local world. Recording and interpreting interference is therefore a form of intelligence work, archaeology, and salvage as well as communications engineering.
+
+Most Gates are electromagnetically transparent in both directions, but this is not universal. Individual Gates differ in what matter, energy, radiation, magic, or information can cross them. When conditions permit, an open Gate can accidentally or deliberately function as a communications path to its destination.
+
+The practical result is that dense settlements can maintain excellent local wired and short-range networks while long-range wireless communication remains intermittent and situational. Maintained cable corridors, hardened directional stations, short-hop relay chains, message caching, repeated transmission attempts, and physical data couriers all remain important even in technologically advanced societies. Communities commonly treat the electromagnetic environment as a kind of Gate weather: something to monitor, forecast, exploit when favorable, and distrust whenever a critical message depends on it.

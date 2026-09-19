@@ -1,0 +1,21 @@
+title: Goldblood — Features — Required
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-component
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 6075
+source-end-index: 6623
+gates-order: 0003
+gates-component: yes
+caption: Features — Required
+species-component: required-features
+
+- All Required Features of Standard Reichsmensch.
+
+- Does Not Breed True: Goldblood reproductive cells are deliberately or structurally normalized. Two Goldblood parents naturally produce Standard Reichsmensch offspring unless the embryo is separately engineered as Goldblood. This is a 0-point Feature.
+
+- Auric Blood: fresh Goldblood blood is visibly metallic gold rather than red, darkening toward bronze or amber as it dries. The coloration is an engineered biological feature and has no independent mechanical effect. This is a 0-point Feature.

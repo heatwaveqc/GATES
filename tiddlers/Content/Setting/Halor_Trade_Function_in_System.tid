@@ -1,0 +1,19 @@
+title: Halor — 🗺 Trade Function in System
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Halor
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 13146
+source-end-index: 13431
+gates-order: 0009
+gates-component: yes
+caption: 🗺 Trade Function in System
+setting-component: trade-function-in-system
+
+Feeds: Jevin (coffee beans, bio-reagents), Rostro (seeds, custom plant strains), Asteroid Alpha (worker food, air-purifying mycelia), Chagar (high-calorie nutrient pastes for refinery crews)
+
+Depends On: Jevin (fertilizer, processors), Asteroid Alpha (drones and tools), Chagar (fuel)

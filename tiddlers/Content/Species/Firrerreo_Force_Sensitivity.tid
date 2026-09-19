@@ -1,0 +1,17 @@
+title: Firrerreo — Force Sensitivity
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Firrerreo
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.qw1tk4c64t3c
+source-start-index: 2880
+source-end-index: 3080
+gates-order: 0011
+gates-component: yes
+caption: Force Sensitivity
+species-component: special-rules
+
+Force Sensitive and Jedi development use the separate Star Wars Force framework rather than the GATES Class framework. Firrerreo may become Force-sensitive normally; this does not add a Species Class.

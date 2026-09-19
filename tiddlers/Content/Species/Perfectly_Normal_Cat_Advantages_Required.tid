@@ -1,0 +1,25 @@
+title: Perfectly Normal Cat — Advantages — Required
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Perfectly Normal Cat
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.20gokb9zqe73
+source-start-index: 1229
+source-end-index: 1328
+gates-order: 0004
+gates-component: yes
+caption: Advantages — Required
+species-component: required-advantages
+
+- Catfall [10].
+
+- Combat Reflexes [15].
+
+- Night Vision 5 [5].
+
+- Sharp Claws [5].
+
+- Sharp Teeth [1].

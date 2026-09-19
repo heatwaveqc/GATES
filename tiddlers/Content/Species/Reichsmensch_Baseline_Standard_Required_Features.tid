@@ -1,0 +1,25 @@
+title: Reichsmensch Baseline — Standard Required Features
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-rule
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 3615
+source-end-index: 3914
+gates-order: 0034
+gates-component: yes
+caption: Standard Required Features
+species-rule: required-features
+
+- Reich-standard phenotype: controlled pigmentation and morphology, normally fair skin, blond hair, blue or gray eyes, and the regime’s preferred facial and body proportions.
+
+- Taboo Trait: Genetic Defects.
+
+- Taboo Trait: Unattractiveness.
+
+- Taboo Trait: Mental Instability.
+
+- Taboo Trait: Laziness.

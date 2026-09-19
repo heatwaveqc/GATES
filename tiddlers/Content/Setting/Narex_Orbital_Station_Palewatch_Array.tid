@@ -1,0 +1,25 @@
+title: Narex — Orbital Station: Palewatch Array
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Narex
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 31154
+source-end-index: 31480
+gates-order: 0006
+gates-component: yes
+caption: Orbital Station: Palewatch Array
+setting-component: orbital-station-palewatch-array
+
+Type: Low-orbit surveillance and nav-control station
+
+Population: ~16,000
+
+Function: Controls interplanetary nav-beacon sync and mission timing protocols for most Veltrass ships
+
+Controlled By: Elgari and Joint Civil-Logistics Oversight
+
+Notes: Maintains the system’s "temporal net," used in antimatter precision applications

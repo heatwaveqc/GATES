@@ -1,0 +1,17 @@
+title: Cybernetics — Sensory Access
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: rule-hub
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Shared cybernetics sensory access.
+gates-component: yes
+caption: Sensory Access
+gates-order: 1025
+
+Shared cybernetics sensory access.
+
+{{||$:/GATES/Assembly}}

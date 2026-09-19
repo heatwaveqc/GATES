@@ -1,0 +1,37 @@
+title: Chem Design Rules — Integrated Formula
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 21874
+source-end-index: 22324
+gates-order: 0035
+gates-component: yes
+caption: Integrated Formula
+technology-rule: integrated-formula
+
+An integrated formula granting all four increases has:
+
+Level Load 4.
+
+One shared modifier package.
+
+One addiction roll.
+
+One point of Chem Capacity.
+
+One Clearance Interval.
+
+One production cost.
+
+The unmodified package has:
+
+DPL = 10 + 20 + 20 + 10 = 60
+
+It therefore requires Talent 3.
+
+Integration makes the chem safer to combine with other buffs, but raises its Required Talent and leaves less Refinement available to reduce addiction, cost, or clearance.

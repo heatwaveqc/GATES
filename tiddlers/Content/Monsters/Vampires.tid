@@ -1,0 +1,15 @@
+title: Vampires
+type: text/vnd.tiddlywiki
+gates-audience: gm
+gates-section: Monsters
+gates-kind: monster
+gates-parent: Undead
+source-drive-id: 11QeSCcOb0yhCk71NWp43sPZ3uYGxtRyj1W4LIe2RvCo
+source-drive-title: Undead
+gates-index: yes
+gates-description: The selected source lists this name but supplies no usable profile. Needs source completion.
+gates-stage: concept
+
+The selected source lists this name but supplies no usable profile. Needs source completion.
+
+{{||$:/GATES/Assembly}}

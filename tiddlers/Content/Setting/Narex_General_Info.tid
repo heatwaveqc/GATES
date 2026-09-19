@@ -1,0 +1,33 @@
+title: Narex — 📄 General Info
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Narex
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 29088
+source-end-index: 29448
+gates-order: 0000
+gates-component: yes
+caption: 📄 General Info
+setting-component: general-info
+
+Type: Ice Giant
+
+Orbital Distance: 13.9 AU
+
+Radius: ~4x Earth
+
+Atmosphere: Hydrogen, helium, ammonia, methane; high radiation zones near equator
+
+Gravity: 1.4 G
+
+Rings: Thin, composed of ionized dust and shattered satellite debris
+
+Temperature: ~60 K
+
+Moons: 8 natural (4 large), 3 major orbital stations
+
+Population: ~130,000 (entirely orbital or moon-based)

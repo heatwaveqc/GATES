@@ -1,0 +1,16 @@
+title: Combat Bionic Arm — Power and Repair
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Combat Bionic Arm
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 79230
+source-end-index: 79348
+gates-order: 0004
+gates-component: yes
+caption: Power and Repair
+
+POWER AND REPAIR Power: Internal cell or power spine. Repair: Mechanic (Robotics) for hardware; Surgery for interface.

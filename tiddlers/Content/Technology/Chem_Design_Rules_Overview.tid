@@ -1,0 +1,17 @@
+title: Chem Design Rules — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 19
+source-end-index: 311
+gates-order: 0000
+gates-component: yes
+caption: Overview
+technology-rule: overview
+
+Chems are technological drugs that temporarily grant advantages, attribute increases, or other beneficial traits. They are designed using the normal GURPS invention rules. Every Chem counts as a Temporary Physical buff, regardless of any supernatural origin assigned to its granted abilities.

@@ -1,0 +1,42 @@
+title: Chem Design Rules — Duration and Clearance
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 18251
+source-end-index: 19557
+gates-order: 0029
+gates-component: yes
+caption: Duration and Clearance
+technology-rule: duration-and-clearance
+
+A chem remains in the user’s system after its benefits end.
+
+The Clearance Interval is:
+
+Clearance Interval = Effect Duration * Clearance Multiplier
+
+At R_Cl 0, the multiplier is 300. The following examples use the default R_Cl 0 formula:
+
+A dose occupies Chem Capacity from activation until its residual Clearance Interval ends. Total occupancy time is Effect Duration + Clearance Interval.
+
+| Effect duration | Clearance interval |
+| --- | --- |
+| 1 second | 5 minutes |
+| 2 seconds | 10 minutes |
+| 6 seconds | 30 minutes |
+| 20 seconds | 100 minutes |
+| 1 minute | 5 hours |
+| 3 minutes | 15 hours |
+| 10 minutes | 50 hours |
+| 30 minutes | 150 hours |
+
+Each dose clears independently.
+
+Each formula must state its Redosing behavior. The normal profile is Refresh: a new dose resets the remaining benefit duration without increasing the effect’s level. Other permitted profiles are Extend, which adds duration; Stack, which adds effect levels up to a stated cap; Independent, in which each dose maintains its own active effect; No Additional Benefit; or a formula-specific Special rule.
+
+Regardless of how the benefits interact, every physical dose has its own addiction roll, Clearance Interval, and Chem Capacity occupancy unless the formula explicitly establishes an integrated multi-dose mechanism. A Stack formula must state its maximum stack.

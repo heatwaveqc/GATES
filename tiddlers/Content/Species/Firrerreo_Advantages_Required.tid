@@ -1,0 +1,29 @@
+title: Firrerreo — Advantages — Required
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Firrerreo
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.qw1tk4c64t3c
+source-start-index: 1546
+source-end-index: 1709
+gates-order: 0003
+gates-component: yes
+caption: Advantages — Required
+species-component: required-advantages
+
+- Regeneration (Fast) [50].
+
+- Hard to Kill 5 [10].
+
+- Nictitating Membrane 1 [1].
+
+- Protected Vision [5].
+
+- Ultravision [10].
+
+- Ultrahearing [5].
+
+- Sharp Teeth [1].

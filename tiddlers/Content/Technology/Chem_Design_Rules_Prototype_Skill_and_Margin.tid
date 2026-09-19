@@ -1,0 +1,49 @@
+title: Chem Design Rules — Prototype Skill and Margin
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 15074
+source-end-index: 16509
+gates-order: 0026
+gates-component: yes
+caption: Prototype Skill and Margin
+technology-rule: prototype-skill-and-margin
+
+Unless the designer’s actual skill is specified, use the following Raw Skill:
+
+Talent 0: 14.
+
+Talent 1: 16.
+
+Talent 2: 20.
+
+Talent 3 or higher: 8 × Talent.
+
+These benchmark skills use Actual Talent, not Effective Talent. They are defaults for unspecified or off-screen designers, not caps; a character with a recorded design skill uses that actual skill.
+
+For Actual Talent 5 or higher, the benchmark assumes Will at least 5 × Actual Talent and at least 2 × Actual Talent purchased levels in the specialized design skill above its controlling attribute. A designer who does not meet those assumptions uses their actual skill instead.
+
+Determine complexity from DPL, treating DPL as the formula’s unmodified dollar cost before the Prototype roll or Cost Refinement:
+
+Simple (DPL up to 100): -6.
+
+Average (DPL 101 to 10,000): -10.
+
+Complex (DPL 10,001 to 1,000,000): -14.
+
+Amazing (DPL over 1,000,000): -22.
+
+A good laboratory gives +4. Apply other relevant invention modifiers normally.
+
+Effective Prototype Skill = Raw Skill + Complexity Modifier + Laboratory Modifier + Other Modifiers
+
+Make the Prototype roll. The formula’s invention margin is:
+
+M = Effective Prototype Skill - Prototype Roll
+
+Resolve the Concept roll normally. It determines whether the theory is sound but does not affect cost. A successful Prototype roll produces the reproducible formula. The Prototype roll’s margin, not the Concept roll, fixes the formula’s Cost Factor.

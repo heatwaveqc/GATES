@@ -1,0 +1,21 @@
+title: Chem Design Rules — Step 1: Select the Benefits
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 3243
+source-end-index: 4044
+gates-order: 0004
+gates-component: yes
+caption: Step 1: Select the Benefits
+technology-rule: step-1-select-the-benefits
+
+Choose the advantages, attribute increases, secondary characteristic increases, perks, or other positive traits granted by the chem.
+
+A medication that maintains, suppresses, or mitigates another trait uses the normal GURPS construction for that advantage, disadvantage, Dependency, Maintenance requirement, or Mitigator. It is not a separate chem-design category.
+
+Chems cannot grant social traits whose value depends primarily on external recognition, institutional authority, or owned resources. Wealth, Status, Rank, Reputation, Legal Enforcement Powers, Legal Immunity, Security Clearance, Clerical Investment, and similar traits are forbidden. Personal traits such as Charisma, Voice, Appearance, and Empathy may be allowed when the formula has a plausible physiological or neurological mechanism.

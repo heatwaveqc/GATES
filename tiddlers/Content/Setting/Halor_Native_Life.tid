@@ -1,0 +1,27 @@
+title: Halor — 🐛 Native Life
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Halor
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 10715
+source-end-index: 11278
+gates-order: 0003
+gates-component: yes
+caption: 🐛 Native Life
+setting-component: native-life
+
+Flora:
+
+Thorned Starvines: Genetically aggressive vine species that compete with human crops and regenerate from cuttings. Dangerous in monsoon season.
+
+Cradle Moss: Absorbs ambient toxins and releases spore clouds once per year; used in air purification and biofilter tech.
+
+Fauna:
+
+Gleamshrews: Semi-sapient rodent species with iridescent fur; considered a pest but have potential for biotech data storage (being studied).
+
+Sister Wasps: Symbiotic wasps introduced by early biotech firms to control insect populations. Swarm dangerously if hives are disrupted.

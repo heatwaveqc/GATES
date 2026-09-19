@@ -1,0 +1,53 @@
+title: Chem Design Rules — Formula Record
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 22342
+source-end-index: 23112
+gates-order: 0036
+gates-component: yes
+caption: Formula Record
+technology-rule: formula-record
+
+Every completed chem formula should record the following:
+
+Name:
+Tech Level:
+Intended Species or Substrate:
+Standard Dose and Scaling:
+Design and Manufacturing Skills:
+Delivery Method:
+Onset:
+Positive Effects:
+Origin Modifier:
+Shared Modifiers:
+Duration:
+Redosing Behavior:
+Backlash and Lasting Harm:
+Level Load:
+Design Point Load:
+Benefit Value:
+Required Talent:
+Designer’s Actual Talent:
+Designer’s Effective Talent:
+Raw Skill:
+Complexity and Modifier:
+Laboratory Modifier:
+Other Invention Modifiers:
+Effective Prototype Skill:
+Prototype Roll:
+Invention Margin:
+Addiction Refinement:
+Cost Refinement:
+Clearance Refinement:
+Addiction Roll:
+Normal Market Cost per Dose:
+Production Cost per Dose:
+Clearance Interval:
+Counteragents or Formula Interactions:
+Overdose Effect:

@@ -1,0 +1,51 @@
+title: Cybernetics — Armor and Survivability — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Armor and Survivability
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 41997
+source-end-index: 43961
+gates-order: 0000
+gates-component: yes
+caption: Armor and Survivability — Overview
+technology-rule: overview
+
+Use covert, anatomical, chassis, and vehicle scales consistently. Local armor protects only its location.
+
+Local DR protects only its location. Hardened is appropriate when armor is designed to resist armor divisors. Reserve dDR for genuinely vehicle-scale bodies.
+
+| TL | Class I - Covert Armor | Class II - Anatomical Armor | Class III - Chassis Armor |
+| --- | --- | --- | --- |
+| TL8 | DR 1-2 | DR 5-15 | DR 20-40 bulky prototype |
+| TL9 | DR 4 general or DR 12 vs cutting/piercing | Up to DR 50/30 | DR 70/50 to DR 200/120 |
+| TL10 | DR 6 general or DR 18 vs cutting/piercing | Up to DR 75/45 | DR 105/75 to DR 150/100+ |
+| TL11 | DR 8-12 general or DR 24-36 narrow | Up to DR 100/60 | DR 200/150+ |
+| TL12 | DR 20 living metal; DR 30 energy weave; DR 50 if effectively an integrated suit layer | Up to DR 150/90 | DR 300+, vehicle DR, or dDR |
+
+| Armor Source | Typical Hardened Access |
+| --- | --- |
+| TL8 ordinary cyber-plate | Usually none |
+| TL9 military laminate or electromagnetic layer | Hardened 1 |
+| TL10 advanced tactical shell | Hardened 1-2 |
+| TL11 diamondoid, exotic matter, or nanolaminate | Hardened 2-3 |
+| TL12 living metal, energy armor, or miracle laminate | Hardened 3-4 |
+| Force screen | Hardened 2-5 |
+| Divine or artifact armor | Hardened 1-6 |
+| Superscience super-armor | Hardened 5+ with campaign approval |
+
+| Situation | Rule |
+| --- | --- |
+| Subdermal armor under normal clothing | Stacks normally if both cover the location. |
+| Class I dermis under worn armor | Normally stacks, but the GM may enforce heat, flexibility, or medical consequences. |
+| Class II integrated shell | May prevent ordinary armor; take Can't Wear Armor when appropriate. |
+| Class III chassis | Uses body-specific armor modules rather than human clothing or suits. |
+| Force screen | Usually stacks as a separate layer and may have Hardened or Force Field. |
+| Vehicle-scale body | Use vehicle or Spaceships damage scale when the body is large enough. |
+
+DAMAGE SCALE
+
+Human-scale bodies use normal DR and damage. Large warbodies and mecha may use vehicle rules and dDR.

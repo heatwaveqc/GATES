@@ -1,0 +1,30 @@
+title: Cybernetics — Sensory Access — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Sensory Access
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 36742
+source-end-index: 38155
+gates-order: 0000
+gates-component: yes
+caption: Sensory Access — Overview
+technology-rule: overview
+
+| Advantage (base cost) | Earliest / mature TL | Suggested maximum by TL | Support and ^ status |
+| --- | --- | --- | --- |
+| Acute Sense (2/level) | TL8 / TL9 | TL8 +1; TL9 +3; TL10 +5; TL11 +8; TL12 +10 | Sensor quality and processing cap. |
+| Night Vision (1/level) | TL8 / TL9 | TL8 3; TL9 5; TL10-12 9 | Natural-looking eyes may remain Class I. |
+| Dark Vision (25) | TL9 prototype / TL10 | Available TL10 | Multispectral reconstruction; ordinary. |
+| Infravision or Ultravision (10) | TL8 prototype / TL9 | Available TL9 | Thermal or UV sensor. |
+| Hyperspectral Vision (25) | TL9 prototype / TL10 | Available TL10; mature TL11 | Advanced multispectral suite. |
+| Telescopic or Microscopic Vision (5/level) | TL8 / TL9 | TL8 1; TL9 2; TL10 4; TL11 6; TL12 8+ | Optics, stabilization, and display. |
+| Protected Vision or Hearing (5 each) | TL8 / TL9 | Available TL8; common TL9 | Hardened sensory organs. |
+| Discriminatory Hearing (15) | TL9 / TL10 | Available TL9; mature TL10 | Audio-analysis processor. |
+| 360 Degree Vision (25) | TL9 chassis / TL10 | Visible TL10; compact TL11; covert TL12 | Distributed sensors; often Class II or III. |
+| Enhanced Tracking (5/level) | TL9 / TL10 | TL9 1; TL10 1; TL11 2; TL12 3+ | Tracks targets; does not grant extra attacks. |
+| Scanning Sense (varies) | TL9 gear / TL10 | Radar/lidar/sonar TL10; advanced TL11 | Gravitic or exotic scanning requires ^. |
+| Vibration Sense (10) | TL9 prototype / TL10 | Available TL10 | Tactile or seismic sensor network. |

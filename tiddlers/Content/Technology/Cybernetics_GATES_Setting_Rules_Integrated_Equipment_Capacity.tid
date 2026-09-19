@@ -1,0 +1,25 @@
+title: Cybernetics — GATES Setting Rules — Integrated Equipment Capacity
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 117344
+source-end-index: 118085
+gates-order: 0006
+gates-component: yes
+caption: GATES Setting Rules — Integrated Equipment Capacity
+technology-rule: integrated-equipment-capacity
+
+These are default mass and support ceilings for equipment installed in addition to the replacement mechanism itself. Physical fit, power, heat, recoil, access, and TL still apply.
+
+Class I covert systems: internal equipment up to 5% of Basic Lift per modified region; no external mount without changing apparent Class.
+
+Class II anatomical systems: internal equipment up to 50% of Basic Lift per modified region; external equipment up to Basic Lift per reinforced mount.
+
+Class III extensive anatomical systems: internal equipment up to Basic Lift per modified region; external equipment up to twice Basic Lift per reinforced mount.
+
+Class III full chassis systems: use the chassis's Payload, hardpoints, and vehicle or robot construction rules.

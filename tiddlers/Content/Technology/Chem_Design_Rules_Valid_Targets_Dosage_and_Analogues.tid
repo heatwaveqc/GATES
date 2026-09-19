@@ -1,0 +1,29 @@
+title: Chem Design Rules — Valid Targets, Dosage, and Analogues
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 349
+source-end-index: 2367
+gates-order: 0001
+gates-component: yes
+caption: Valid Targets, Dosage, and Analogues
+technology-rule: valid-targets-dosage-and-analogues
+
+Standard chems require a target that is subject to Metabolic Hazards and susceptible to pharmaceuticals. They are technically resistible at HT-1, although a willing target may waive or deliberately fail that resistance roll.
+
+A listed dose is calibrated for the formula’s intended species, physiology, and approximate body mass. Dosage generally scales with body weight, but the exact relationship is formula- and species-specific. Some chems ignore body weight almost entirely; others become weaker, shorter-lived, or ineffective without proportionally larger doses. The formula should state its intended physiology, standard dose, and any unusual scaling rule.
+
+Unusual Biochemistry may alter onset, potency, duration, side effects, dosage, addiction, clearance, or overdose behavior, usually to the user’s detriment. The GM determines the interaction unless a version has been designed specifically for that physiology.
+
+Immunity to Metabolic Hazards makes ordinary chems completely ineffective. A character whose Immunity has been Improved through Cyber Soldier may be affected as specified by that improvement.
+
+Boost Sticks are electronic, chem-like consumables designed for targets with both Immunity to Metabolic Hazards and Electrical, including robots and computers. A Boost Stick plugs into the target and uses the same DPL, BV, Talent, Refinement, addiction, clearance, capacity, and overdose framework, but uses the technological design and manufacturing skills appropriate to electronics rather than Pharmacy or other biological sciences.
+
+Equivalent products may be designed for non-biological species whenever the target has a substrate sufficiently analogous to biology to manipulate. They use the same mechanical framework, but their design, production, and treatment skills depend on the substrate. For example, a golem drug might be designed and manufactured with Alchemy. The GM decides whether a target has an affectable substrate and what skills apply.
+
+These rules assume TL9 unless otherwise stated.

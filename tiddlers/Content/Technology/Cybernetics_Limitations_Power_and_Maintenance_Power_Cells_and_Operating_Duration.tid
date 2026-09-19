@@ -1,0 +1,33 @@
+title: Cybernetics — Limitations, Power, and Maintenance — Power Cells and Operating Duration
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Limitations, Power, and Maintenance
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 26792
+source-end-index: 28637
+gates-order: 0001
+gates-component: yes
+caption: Limitations, Power, and Maintenance — Power Cells and Operating Duration
+technology-rule: power-cells-and-operating-duration
+
+Ultra-tech power cells are standardized energy stores, but cell size alone does not determine operating time. Each device lists its own cells and duration. Cybernetic implants are normally assumed to draw low power from body heat and motion unless their description states otherwise; high-output systems need cells, an Energy Reserve, or a generator.
+
+| Cell | Mass | Typical Uses | Replacement Time |
+| --- | --- | --- | --- |
+| AA | 0.0005 lb. | Brain implants, tiny sensors, negligible-load devices | 5 seconds |
+| A | 0.005 lb. | Clothing, consumer implants, low-power electronics | 3 seconds |
+| B | 0.05 lb. | Wearable computers, radios, small tools | 3 seconds |
+| C | 0.5 lb. | High-power tools, personal beam weapons, heavy electronics | 3 seconds |
+| D | 5 lb. | Military weapons and heavy portable equipment | 5 seconds |
+| E | 20 lb. | Battlesuits, small vehicles, support weapons | 5 seconds |
+| F | 200 lb. | Large vehicles and cannon-scale systems | 20 seconds |
+| Example Device | Hardware Benchmark | Listed Endurance | Cybernetic Interpretation |
+| Tiny computer, TL9 | Complexity 3; 2 A cells | 20 hours | A compact computer halves cell count and operating duration. Standard implant functions may instead use the general body-powered cybernetic assumption. |
+| Small computer, TL9 | Complexity 4; 2 B cells | 20 hours | Appropriate to a large cranial implant, torso processor, or chassis control core. |
+| Bionic limb | Device-specific internal cell | Recharge or replacement about monthly | Ultra-Tech treats this as part of the limb's maintenance requirement. |
+| Active camouflage or jump system | C/D cell, ER, or generator | Device-specific | Use Limited Use, Costs ER, or Takes Recharge only when the limitation matters in play. |
+| Life-support cyberbody | Redundant cells or generator | Mission-scale or ongoing | Use Dependency only when power loss threatens health or survival, not merely an optional feature. |

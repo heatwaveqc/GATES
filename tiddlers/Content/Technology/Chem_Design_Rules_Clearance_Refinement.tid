@@ -1,0 +1,35 @@
+title: Chem Design Rules — Clearance Refinement
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 12888
+source-end-index: 13361
+gates-order: 0020
+gates-component: yes
+caption: Clearance Refinement
+technology-rule: clearance-refinement
+
+Clearance Refinement reduces residual clearance without changing effect duration, DPL, BV, or the addiction roll. Residual clearance begins when the beneficial effect ends.
+
+R_Cl 0: ×300.
+
+R_Cl 1: ×100.
+
+R_Cl 2: ×30.
+
+R_Cl 3: ×10.
+
+R_Cl 4: ×3.
+
+R_Cl 5: ×1.
+
+R_Cl 6: ×0.3.
+
+R_Cl 7: ×0.1.
+
+Seven points is the hard cap. A formula cannot reduce residual clearance below 10% of its effective duration. If Clearance Refinement is omitted from an older formula record, treat it as R_Cl 0.

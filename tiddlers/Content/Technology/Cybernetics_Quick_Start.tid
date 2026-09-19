@@ -1,0 +1,17 @@
+title: Cybernetics — Quick Start
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: rule-hub
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Shared cybernetics quick start.
+gates-component: yes
+caption: Quick Start
+gates-order: 0091
+
+Shared cybernetics quick start.
+
+{{||$:/GATES/Assembly}}

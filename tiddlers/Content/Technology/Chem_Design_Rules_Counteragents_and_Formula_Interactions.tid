@@ -1,0 +1,19 @@
+title: Chem Design Rules — Counteragents and Formula Interactions
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 19597
+source-end-index: 20158
+gates-order: 0030
+gates-component: yes
+caption: Counteragents and Formula Interactions
+technology-rule: counteragents-and-formula-interactions
+
+A formula may name a specific antagonist, purge agent, deactivation signal, treatment, or other early-termination method. The counteragent is built and priced separately. It does not reduce the original formula’s DPL unless susceptibility to it is explicitly taken as a limitation.
+
+A formula may explicitly modify the duration, clearance, addiction, overdose behavior, or effects of another named formula. Such interactions are special properties of the involved formulas; shared ingredients, brand families, or simultaneous use create no automatic interaction.

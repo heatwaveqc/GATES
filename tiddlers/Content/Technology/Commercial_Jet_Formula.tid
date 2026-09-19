@@ -1,0 +1,16 @@
+title: Commercial Jet — Formula
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Commercial Jet
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 2200
+source-end-index: 2407
+gates-order: 0011
+gates-component: yes
+caption: Formula
+
+Formula: TL9; Talent 2 (Effective 3); Required Talent 3; raw skill 20; Simple complexity (-6); good laboratory +4; effective skill 18; prototype roll 7; MoS 11; Refinement A0/C0; Level Load 4; DPL 80; BV 60.

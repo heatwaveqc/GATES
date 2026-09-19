@@ -1,0 +1,19 @@
+title: Jevin — 🗺 Trade Function in System
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Jevin
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 17462
+source-end-index: 17659
+gates-order: 0010
+gates-component: yes
+caption: 🗺 Trade Function in System
+setting-component: trade-function-in-system
+
+Feeds: The entire system. Jevin is the choke point for processed and bulk agri exports
+
+Receives From: Halor (specialty goods), Rostro (exotics), Asteroid Alpha (tools), Chagar (fuel), Narex (data)

@@ -1,0 +1,33 @@
+title: Asteroid Belt Beta — 🏭 Production Output
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Asteroid Belt Beta
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 21870
+source-end-index: 22483
+gates-order: 0001
+gates-component: yes
+caption: 🏭 Production Output
+setting-component: production-output
+
+Primary (Illicit) Exports:
+
+Weapons-grade isotope cores (extracted from ancient reactor debris and illegal mining)
+
+Smuggled goods: black-market implants, encrypted comms gear, banned biotech
+
+Salvage: derelict drone parts, off-grid AI cores, historic data caches
+
+Historic Export: None; originally tagged as “non-viable” by Elgari Authority
+
+Current Use: Smuggler base, black-market hub, pirate hideouts, and occasionally rebel staging ground
+
+Potential Resources:
+
+Deep-ice cores with cometary signatures (water export potential)
+
+Possible crashed pre-Gate probes or ancient tech lost during early colonization

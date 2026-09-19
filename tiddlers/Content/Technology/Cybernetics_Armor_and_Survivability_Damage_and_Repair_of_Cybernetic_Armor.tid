@@ -1,0 +1,17 @@
+title: Cybernetics — Armor and Survivability — Damage and Repair of Cybernetic Armor
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Armor and Survivability
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 44002
+source-end-index: 44366
+gates-order: 0001
+gates-component: yes
+caption: Armor and Survivability — Damage and Repair of Cybernetic Armor
+technology-rule: damage-and-repair-of-cybernetic-armor
+
+Passive armor does not shut down merely because another powered system loses electricity. Active armor, force screens, and living materials should list their own power, maintenance, and repair rules. When an implant is crippled, apply the normal hit-location and gadget rules that actually fit its construction rather than inventing a universal cybernetic failure.

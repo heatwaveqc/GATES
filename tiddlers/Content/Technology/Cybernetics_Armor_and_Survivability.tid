@@ -1,0 +1,17 @@
+title: Cybernetics — Armor and Survivability
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: rule-hub
+gates-parent: Cybernetics
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+gates-index: yes
+gates-description: Shared cybernetics armor and survivability.
+gates-component: yes
+caption: Armor and Survivability
+gates-order: 1204
+
+Shared cybernetics armor and survivability.
+
+{{||$:/GATES/Assembly}}

@@ -1,0 +1,36 @@
+title: Chem Design Rules — Addiction Penalty
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 13944
+source-end-index: 14740
+gates-order: 0024
+gates-component: yes
+caption: Addiction Penalty
+technology-rule: addiction-penalty
+
+The addiction penalty is:
+
+Penalty = -ceil(BV / Addiction Divisor)
+
+Round fractions up. Every chem therefore imposes at least Will-1.
+
+| Benefit Value relative to divisor | Will roll |
+| --- | --- |
+| Up to 1 divisor | Will-1 |
+| Over 1 and up to 2 divisors | Will-2 |
+| Over 2 and up to 3 divisors | Will-3 |
+| Over 3 and up to 4 divisors | Will-4 |
+
+On a failed roll, the character becomes addicted to that exact chem formula.
+
+An addiction to an integrated chem is an addiction to the entire integrated state. Its individual effects do not satisfy the addiction separately.
+
+Separate chems create separate possible addictions.
+
+Once a character is already addicted to a formula, further doses do not require additional rolls to acquire the same addiction. Use the normal campaign rules for maintaining and overcoming Addiction.

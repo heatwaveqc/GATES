@@ -1,0 +1,27 @@
+title: Asteroid Belt Alpha — 🛰 Rockhome Hub
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Asteroid Belt Alpha
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 6545
+source-end-index: 6889
+gates-order: 0004
+gates-component: yes
+caption: 🛰 Rockhome Hub
+setting-component: rockhome-hub
+
+Type: Central administrative station, spin gravity torus
+
+Population: ~12,000
+
+Operator: Elgari Authority Industrial Oversight Office
+
+Exports: Contracts, dock time, system permits, regulatory tech
+
+Imports: Luxury food (Halor), alcohol, labor
+
+Notes: Acts as the “capital” of the belt; heavy surveillance, black market tolerated within limits

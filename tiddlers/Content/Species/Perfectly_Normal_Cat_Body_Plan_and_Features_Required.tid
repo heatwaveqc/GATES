@@ -1,0 +1,27 @@
+title: Perfectly Normal Cat — Body Plan and Features — Required
+type: text/x-markdown
+gates-audience: player
+gates-section: Species
+gates-kind: species-component
+gates-parent: Perfectly Normal Cat
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.20gokb9zqe73
+source-start-index: 1364
+source-end-index: 2520
+gates-order: 0005
+gates-component: yes
+caption: Body Plan and Features — Required
+species-component: required-features
+
+- SM -3; a typical adult weighs about 10 lbs.
+
+- Feline Quadruped (Manual Forepaws) [-5]: Extra Legs (Four Legs) [5] and Horizontal [-10]. Unlike the published Quadruped meta-trait, this does not include No Fine Manipulators.
+
+- Manual Forepaws [0]: The forepaws are ordinary fine manipulators. A Perfectly Normal Cat may pick up objects, operate tools, type, fire appropriately sized weapons, open containers, and otherwise use its paws as hands without a manipulation penalty merely for being a cat. The forepaws are not additional limbs; a forepaw being used as a hand is not simultaneously supporting quadrupedal locomotion. A cat using both forepaws normally sits, rears up, lies down, or otherwise braces itself.
+
+- Articulate Speech [0]: Perfectly Normal Cats possess feline vocal anatomy capable of normal spoken language.
+
+- Sapient Feline [0]: Their cognition is fully sapient rather than animal intelligence despite an otherwise ordinary feline nervous system.
+
+- Domestic-cat physiology [0]: They have the ordinary dietary, respiratory, thermal, and other mundane biological requirements of domestic cats unless another purchased trait changes them.

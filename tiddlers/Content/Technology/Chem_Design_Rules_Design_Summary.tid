@@ -1,0 +1,45 @@
+title: Chem Design Rules — Design Summary
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 23130
+source-end-index: 24141
+gates-order: 0037
+gates-component: yes
+caption: Design Summary
+technology-rule: design-summary
+
+Choose the intended species or substrate, standard dose and scaling, and applicable design and manufacturing skills.
+
+Choose the positive effects.
+
+Assign one allowed origin modifier to every supernatural advantage.
+
+Give every integrated effect the same onset, duration, and common modifiers.
+
+Calculate Level Load.
+
+Calculate Design Point Load.
+
+Calculate Benefit Value without harmful side-effect discounts.
+
+Determine Required Talent.
+
+Calculate Effective Talent from actual Talent and TL.
+
+Allocate excess Talent as Refinement.
+
+Calculate the addiction roll.
+
+Make the Concept roll normally; it determines whether the theory works but does not affect cost.
+
+Determine complexity, calculate Effective Prototype Skill, and make the Prototype roll.
+
+Calculate Normal Market Cost and Production Cost from DPL, Cost Refinement, and margin of success.
+
+Record the intended species or substrate, standard dose and scaling, clearance time, Redosing behavior, counteragents or special formula interactions, and overdose behavior.

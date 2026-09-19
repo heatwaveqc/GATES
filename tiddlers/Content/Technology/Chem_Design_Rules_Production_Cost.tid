@@ -1,0 +1,19 @@
+title: Chem Design Rules — Production Cost
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 14759
+source-end-index: 15044
+gates-order: 0025
+gates-component: yes
+caption: Production Cost
+technology-rule: production-cost
+
+The cost formula establishes the formula’s ordinary market price and production cost. Actual sale prices may vary with scarcity, legality, mass production, local infrastructure, monopoly control, salvage value, and merchant markup.
+
+Normal Market Cost is normally twice Production Cost.

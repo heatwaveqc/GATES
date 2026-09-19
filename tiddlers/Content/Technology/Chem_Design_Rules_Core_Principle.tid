@@ -1,0 +1,35 @@
+title: Chem Design Rules — Core Principle
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 2383
+source-end-index: 3195
+gates-order: 0002
+gates-component: yes
+caption: Core Principle
+technology-rule: core-principle
+
+Each chem grants one integrated buff package.
+
+Every positive effect within that package:
+
+Activates at the same time.
+
+Has the same duration.
+
+Uses the same delivery method.
+
+Has the same common enhancements and limitations.
+
+Produces the same Backlash and other shared side effects.
+
+A chem cannot integrate effects with different durations, crashes, or activation conditions.
+
+For example, simply mixing Psycho and Jet does not create an integrated PsychoJet. The user has taken two separate chems and receives two separate buffs. A true PsychoJet formula must be designed as a new integrated package with one common duration and modifier suite. Its final effects may differ significantly from either Psycho or Jet.
+
+Physically mixing several chems has no special mechanical significance. Resolve each chem separately.

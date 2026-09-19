@@ -1,0 +1,27 @@
+title: Chem Design Rules — Design Point Load
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 9415
+source-end-index: 10103
+gates-order: 0012
+gates-component: yes
+caption: Design Point Load
+technology-rule: design-point-load
+
+Design Point Load, or DPL, is the final modified character-point value of the package.
+
+Calculate each positive trait with all applicable enhancements and limitations, then add their final costs together. For Design Point Load only, double the effective character-point value of Exotic, Supernatural, and Cinematic advantages. This design multiplier does not increase Benefit Value.
+
+DPL determines:
+
+Whether the formula fits within the designer’s Talent cap.
+
+The base production cost of the chem.
+
+Harmful side effects reduce DPL normally. This means that a short-lived, unreliable, or dangerous chem can be easier and cheaper to create than a clean version granting the same raw advantages.

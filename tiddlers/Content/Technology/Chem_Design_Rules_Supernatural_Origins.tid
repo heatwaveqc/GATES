@@ -1,0 +1,47 @@
+title: Chem Design Rules — Supernatural Origins
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 4066
+source-end-index: 5761
+gates-order: 0005
+gates-component: yes
+caption: Supernatural Origins
+technology-rule: supernatural-origins
+
+Any supernatural advantage granted by a chem must include exactly one GATES origin modifier: Force, Psi, Magic, Divine, Cinematic, or Super. Each origin modifier is worth -10%.
+
+Apply the origin modifier normally when calculating Design Point Load and Benefit Value. The origin modifier does not remove or reduce the extraordinary-trait multipliers to Design Point Load or Level Load.
+
+All supernatural components of one integrated Chem normally share the same origin. Mixed-origin packages require explicit GM approval.
+
+Each major technological tradition or central technology hub should define one or two native Chem origins. A designer may create Chems using those native origins normally. Creating a Chem with any other origin requires Weird Science in addition to the normal design skills. For example, Fallout-derived pharmaceutical technology natively supports Cinematic Chems, while BioShock-derived technology natively supports Super Chems.
+
+A supernatural origin affects SPAA, suppression, Neutralize, Static, countermeasures, and similar interactions. It never changes the Chem's classification as a Temporary Physical buff.
+
+The origin determines which setting-specific countermeasures, suppressors, Neutralize effects, Static effects, and similar defenses can affect the chem-granted ability.
+
+The default duration is one minute.
+
+The designer may select an appropriate onset and delivery method, such as:
+
+Injection
+
+Inhaler
+
+Pill or capsule
+
+Dermal patch
+
+Contact agent
+
+Aerosol
+
+Implant reservoir
+
+At TL9, onset and delivery method are normally design choices rather than point modifiers. Particularly advantageous or restrictive forms may require GM approval or appropriate GURPS modifiers.

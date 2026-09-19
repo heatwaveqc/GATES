@@ -1,0 +1,31 @@
+title: Chagar — ⚙️ Production Output
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Chagar
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 25360
+source-end-index: 25902
+gates-order: 0001
+gates-component: yes
+caption: ⚙️ Production Output
+setting-component: production-output
+
+Primary Exports:
+
+Fusion Fuel: Refined deuterium and helium-3 from upper atmosphere skimming
+
+Antimatter: Produced in high-orbit fusion facilities using massive power loops
+
+Methane: Skimmed and processed for agricultural machinery and station backup fuel
+
+Historic Export: Originally just hydrogen; antimatter production began ~60 years ago
+
+Byproducts:
+
+3g of standard matter (hydrogen slurry, carbon ash) per 1g of antimatter produced
+
+Plasma waste vented into magnetically shielded drift stations or used in experimental reactor research

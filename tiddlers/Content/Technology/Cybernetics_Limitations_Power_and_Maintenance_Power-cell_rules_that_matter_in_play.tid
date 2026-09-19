@@ -1,0 +1,25 @@
+title: Cybernetics — Limitations, Power, and Maintenance — Power-cell rules that matter in play
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Limitations, Power, and Maintenance
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 28679
+source-end-index: 29481
+gates-order: 0002
+gates-component: yes
+caption: Limitations, Power, and Maintenance — Power-cell rules that matter in play
+technology-rule: power-cell-rules-that-matter-in-play
+
+| Rule | Practical Effect |
+| --- | --- |
+| Rechargeable is standard | Ordinary cells can be recharged and have indefinite shelf life when unused. |
+| Non-rechargeable cells | Last twice as long or provide twice as many shots, but cannot be recharged. |
+| Redundant cells | Life-support and flight systems often use two or more cells so one can take over without interruption. |
+| Emergency substitution | Ten cells of one size replace one cell of the next larger size; jury-rigging normally calls for Electrician and time. |
+| Cross-cultural incompatibility | Different voltages, connectors, or mana standards may require Electrician, Armoury, or a source-specific skill. |
+
+Rules basis: GURPS Ultra-Tech, pp. 18-22 and 207-208. Treat the listed durations as equipment benchmarks, not as a universal conversion from cell size to hours.

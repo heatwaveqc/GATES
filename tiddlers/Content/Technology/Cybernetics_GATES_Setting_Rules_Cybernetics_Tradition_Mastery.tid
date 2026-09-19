@@ -1,0 +1,19 @@
+title: Cybernetics — GATES Setting Rules — Cybernetics Tradition Mastery
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 120110
+source-end-index: 120697
+gates-order: 0010
+gates-component: yes
+caption: GATES Setting Rules — Cybernetics Tradition Mastery
+technology-rule: cybernetics-tradition-mastery
+
+A character who has mastered the Tier 1 Cybernetics Tradition may treat cybernetic IQ and DX enhancement as requiring the equivalent of a Non-Volitional AI rather than a Volitional AI. For that character, the maximum bonus to IQ or DX is 2 × (Effective Implant Computer Complexity − 2), minimum +0.
+
+With an unmodified Tiny implant computer, the ordinary/mastered caps are TL9 +0/+2, TL10 +4/+6, TL11 +8/+10, and TL12 +12/+14. With the strongest normally available options, the caps are TL9 Genius +4/+6, TL10 Genius +8/+10, TL11 Genius plus FTL +14/+16, and TL12 Genius plus FTL +18/+20.

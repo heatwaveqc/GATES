@@ -1,0 +1,82 @@
+title: Cybernetics — Access and Facilities — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Access and Facilities
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 10902
+source-end-index: 15649
+gates-order: 0000
+gates-component: yes
+caption: Access and Facilities — Overview
+technology-rule: overview
+
+Separate character points from price, ownership, clinical access, law, and cultural reaction.
+
+Money buys clinics, parts, licenses, maintenance, and faster service. Points pay for reliable personal capability. Legality Class, availability, registration, and cultural reaction are separate fields.
+
+| Ownership Mode | Point Treatment | World Treatment | Can It Be Removed? |
+| --- | --- | --- | --- |
+| Character Trait | Pay points. | Part of the character build. | Only by damage, surgery, or listed weakness. |
+| Possession / Gear | Usually no points beyond gear traits. | Owned, issued, rented, or borrowed hardware. | Yes; can be stolen, recalled, or confiscated. |
+| Hybrid - Recommended | Pay points and money/access. | Balanced permanent cyberwear. | Not casually, but it still needs repairs and service. |
+| Point Debt | Receive the trait now; future points repay it. | Emergency surgery, patron reward, or story transformation. | Normally permanent once accepted. |
+
+| Event | Suggested Point Debt |
+| --- | --- |
+| Minor practical implant | 1-10 points |
+| Serious medical restoration | 5-25 points |
+| Moderate performance upgrade | 10-50 points |
+| Major combat suite | 50-100 points |
+| Full conversion or chassis body | Agreed character arc and template |
+
+| Access Tag | Meaning | Typical Examples |
+| --- | --- | --- |
+| Common | Routine at the appropriate TL. | Biomonitor, basic medical prosthetic |
+| Licensed | Requires registration, medical approval, or professional need. | Implant radio, industrial arm |
+| Restricted | Controlled by government, corporation, guild, or temple. | Subdermal armor, combat chips, stealth ware |
+| Military | Issued to armed services or approved champions. | Assault frames, hardpoints, tactical reflex systems |
+| Illegal | Possession or concealment is criminal. | Poison injector, slave chip, unlicensed military weapon |
+| Unique | Not normally sold; requires a patron, quest, or singular facility. | Divine limb, TL12 posthuman body, precursor relic |
+
+| Cost Band | Typical TL9-Equivalent Price | Use |
+| --- | --- | --- |
+| A - Minor | Under $1,000 | Small utility and diagnostic implants |
+| B - Professional | $1,000-$10,000 | Datajacks, sensory upgrades, medical systems |
+| C - Major | $10,000-$100,000 | Limbs, organs, chip slots, modest armor |
+| D - Advanced | $100,000-$1,000,000 | Combat suites, power spines, radical neural systems |
+| E - Conversion | $1,000,000-$10,000,000 | Chassis bodies, total conversion, major nanotech |
+| F - Unique | No stable market price | Artifacts, divine work, TL12 miracles |
+
+| LC | Classification | Typical Cybernetic Examples |
+| --- | --- | --- |
+| LC4 | Open | Biomonitor, ordinary medical prosthetic, passive tool implant, nonlethal utility system |
+| LC3 | Licensed | Implant radio, encrypted datajack, industrial lift arm, ordinary cyberdeck, civilian full conversion |
+| LC2 | Restricted | Subdermal armor, combat chips, reflex governor, stealth skin, surveillance implants |
+| LC1 | Military | Combat frames, hardpoints, autonomous turrets, heavy integrated armor, military sensor suites |
+| LC0 | Banned | Weapons of mass destruction, coercive slave systems, strategic antimatter or unrestricted disintegrator bodies |
+
+| Field | Question It Answers | Example |
+| --- | --- | --- |
+| Access Tag | Can the character find or commission it? | Unique divine limb |
+| Legality Class | Who may lawfully possess it? | LC2 restricted armor |
+| Registration | Must authorities know who has it? | Licensed implant radio |
+| Concealment Rule | Is hiding it a separate offense? | Unregistered subdermal weapon |
+| Social Reaction | How does the culture respond? | A feared but legal total cyborg |
+
+| World Type | Restorative | Performance | Transformative | Unregistered / Hidden Weapons |
+| --- | --- | --- | --- | --- |
+| Corporate Cyberpunk City | Normal or positive | Normal if paid and registered | Status marker or corporate property | Strong legal penalty and tracking |
+| Military Colony | Accepted | Respected if service-approved | Licensed specialist body | Treated as espionage or mutiny |
+| Low-Tech Fantasy Kingdom | Miracle or unsettling | Feared as sorcery or golemcraft | Often treated as monster or divine sign | Execution, exorcism, or royal seizure |
+| Cultivation Society | Accepted if harmonious | Viewed as external power unless chi-compatible | Sect-specific or spiritually suspect | Dishonorable or demonic |
+| Post-Apocalyptic Mercenary State | Common among mercenaries | Often admired | Powerful but feared | Danger is expected more than legality |
+| Humanitarian Reconstruction Facility | Supported when chosen and humane | Accepted with consent and ethical purpose | Evaluated for dignity and agency | Coercive systems and secret assassination ware condemned |
+| Authoritarian Empire | Accepted when registered | Closely controlled | State property or weapon classification | Severe penalties and remote shutdown |
+
+POINT DEBT
+
+Use by agreement when an upgrade arrives before the character has enough unspent points. Future points pay the difference.

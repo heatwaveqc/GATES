@@ -1,0 +1,16 @@
+title: Firrerreo
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Species
+gates-kind: species
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+gates-index: yes
+gates-description: Natural Species; traits cost their normal character points.
+gates-inherits: [[Species Framework]]
+tags: [[Setting: Star Wars]]
+species-type: Natural
+
+Natural Species; traits cost their normal character points.
+
+{{||$:/GATES/Assembly}}

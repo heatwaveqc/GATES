@@ -1,0 +1,14 @@
+title: Barbarian Gods
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Gods
+gates-kind: pantheon
+source-drive-id: 1IRwsCixEUUTV9yfmF5zjTGoK0kwjqF6cIH9Gs4WU80k
+source-drive-title: Barbarian Gods
+gates-index: yes
+gates-description: Go out. Settle lands. Do stuff.
+gates-inherits: [[Godmath]]
+
+Go out. Settle lands. Do stuff.
+
+{{||$:/GATES/Assembly}}

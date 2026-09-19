@@ -1,0 +1,13 @@
+title: Chem Design Rules
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-framework
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+gates-index: yes
+gates-description: Chem targets, effects, duration, addiction, production, clearance, and overdose.
+
+Chem targets, effects, duration, addiction, production, clearance, and overdose.
+
+{{||$:/GATES/Assembly}}

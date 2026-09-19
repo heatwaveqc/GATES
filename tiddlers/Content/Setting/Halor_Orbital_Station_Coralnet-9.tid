@@ -1,0 +1,23 @@
+title: Halor — Orbital Station: Coralnet-9
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Halor
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 12224
+source-end-index: 12477
+gates-order: 0007
+gates-component: yes
+caption: Orbital Station: Coralnet-9
+setting-component: orbital-station-coralnet-9
+
+Type: Former research station, now a communications relay and restricted biotech zone
+
+Population: ~3,000
+
+Use: Analyzes genetic drift in Halor biosphere and coordinates gene-patent licensing for export
+
+Controlled By: Elgari Science Oversight Division

@@ -1,0 +1,23 @@
+title: Chem Design Rules — Addiction Roll
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 13389
+source-end-index: 13706
+gates-order: 0022
+gates-component: yes
+caption: Addiction Roll
+technology-rule: addiction-roll
+
+Each time a character uses a chem, roll Will.
+
+An integrated chem causes one addiction roll.
+
+Using several separate chems causes one roll for each chem, even if they were mixed into one syringe, inhaler, pill, or other physical dose.
+
+Luck and other abilities that normally affect Will rolls may affect addiction rolls.

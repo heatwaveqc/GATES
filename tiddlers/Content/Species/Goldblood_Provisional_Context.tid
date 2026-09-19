@@ -1,0 +1,37 @@
+title: Goldblood — Provisional Context
+type: text/x-markdown
+gates-audience: gm
+gates-section: Species
+gates-kind: species-component
+gates-parent: Goldblood
+source-drive-id: 1al1svM0dKcm4E150iH6LuwUuoPcSZY1LdSZBgy61_C0
+source-drive-title: GATES Species
+source-tab-id: t.wk4jrwbyi1in
+source-start-index: 15
+source-end-index: 2808
+gates-order: 0000
+gates-component: yes
+caption: Provisional Context
+species-component: special-rules
+
+Status: Provisional working draft.
+
+Scope: Engineered human Species used by the Übermensch Reich. This tab defines the Reichsmensch biological chassis and the standard military Physical Metaspecies overlays. Branch-specific social institutions, service policy, population frequencies, and personnel-production rules are governed by the Übermensch Reich setting document.
+
+### Design Premise
+
+Reich ideology presents these procedures as “unlocking Aryan potential” or “removing dirty blood.” Mechanically and biologically, the Reich is manufacturing improved humans; the ideological explanation is propaganda rather than a discovery of a pre-existing master race.
+
+The family currently has three mutually exclusive Natural Species variants: Standard Reichsmensch, Goldblood, and the experimental Firstborn Pattern. They do not stack with one another. All traits and attributes remain fully point-paid under the normal GATES Species rules.
+
+The listed Attribute Modifier is the Species modifier used for GATES minimums and natural caps. The Adult Reference is the intended fully expressed adult phenotype used when pricing the published-style racial package; it is not free. The Reich normally attempts to bring every developing citizen to that reference phenotype.
+
+### Provisional Species Development Allowance
+
+Expensive Species may require more point investment than a normal child could plausibly possess before adulthood. As a provisional rule, a developing character gains 1 Species Development character point per month from birth until they fully qualify for their adult Species. These points may be spent only on attributes and traits required for Species qualification.
+
+Early Development: During the first four years of life, the Species Development rate is doubled to 2 points per month. This gives 96 developmental points by the fourth birthday: 48 from the normal 1/month progression plus 48 additional early-development points. Thereafter the rate returns to 1 point per month. A character who receives the allowance continuously therefore has 264 Species Development points available by age 18, enough to reach the Standard Reichsmensch reference phenotype without a separate starting-point grant.
+
+This allowance does not stack with Adventuring experience. For each month, use the greater of (a) the Species Development allowance for that month or (b) the Adventuring experience actually earned that month; do not add both. Species Development ends when the character fully qualifies for the adult Species. Points already spent are ordinary character points and remain on the sheet. Formal training and other independently earned point sources remain governed by their own rules.
+
+This rule is provisional and is being tested here before being promoted to the general Species framework.

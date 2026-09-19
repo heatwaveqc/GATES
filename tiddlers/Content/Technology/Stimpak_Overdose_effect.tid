@@ -1,0 +1,16 @@
+title: Stimpak — Overdose effect
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Stimpak
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 9504
+source-end-index: 9526
+gates-order: 0008
+gates-component: yes
+caption: Overdose effect
+
+Overdose effect: Both.

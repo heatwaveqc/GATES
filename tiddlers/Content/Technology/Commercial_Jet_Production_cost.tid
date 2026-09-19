@@ -1,0 +1,16 @@
+title: Commercial Jet — Production cost
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: equipment-component
+gates-parent: Commercial Jet
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.uxewtfahvzie
+source-start-index: 2166
+source-end-index: 2199
+gates-order: 0010
+gates-component: yes
+caption: Production cost
+
+Production cost: $35.60 per dose.

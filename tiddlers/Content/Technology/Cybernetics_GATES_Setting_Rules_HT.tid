@@ -1,0 +1,19 @@
+title: Cybernetics — GATES Setting Rules — HT
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 120701
+source-end-index: 121366
+gates-order: 0011
+gates-component: yes
+caption: GATES Setting Rules — HT
+technology-rule: ht
+
+The soft cap on HT added to an existing biological character by ordinary cybernetics is 2 × (TL − 8): +2 at TL9, +4 at TL10, +6 at TL11, and +8 at TL12. Reaching this cap requires systemic reinforcement or replacement of the body’s load-bearing, circulatory, respiratory, thermal-control, waste-handling, organ, immune, endocrine, and repair systems as appropriate.
+
+This HT cap does not necessarily limit a full machine-body racial template or total-conversion chassis, which uses the chassis and template rules instead of adding HT to an otherwise biological body. Superscience, supernatural sources, and explicit Tradition permissions may exceed the ordinary cap.

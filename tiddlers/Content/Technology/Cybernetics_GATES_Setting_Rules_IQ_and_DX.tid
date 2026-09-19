@@ -1,0 +1,21 @@
+title: Cybernetics — GATES Setting Rules — IQ and DX
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 118911
+source-end-index: 120079
+gates-order: 0009
+gates-component: yes
+caption: GATES Setting Rules — IQ and DX
+technology-rule: iq-and-dx
+
+The maximum bonus to IQ or DX from ordinary cybernetics is 2 × (Effective Implant Computer Complexity − 3), minimum +0. This limits the bonus supplied by cybernetics, not the character’s final attribute. Determine each attribute separately.
+
+Use the effective Complexity of the primary implant computer controlling the enhancement. Other internally networked computers may provide local processing, redundancy, sensor fusion, and actuator control, but their Complexity ratings do not add together unless a separate technology explicitly permits distributed processing to do so.
+
+Full-body DX requires an internal high-speed network connecting the primary implant computer to the user’s motor pathways, balance and proprioception systems, every limb receiving the bonus, compatible actuators or enhanced musculature, and sensors fast enough to close the control loop. Partial integration may justify narrower traits such as High Manual Dexterity, improved Basic Speed, Enhanced Tracking, or limited skill bonuses, but not unrestricted full-body DX. Cybernetic IQ requires a direct neural interface and cognitive co-processing capable of supporting the purchased increase.

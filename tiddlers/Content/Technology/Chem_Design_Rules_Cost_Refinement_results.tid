@@ -1,0 +1,35 @@
+title: Chem Design Rules — Cost Refinement results
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 17379
+source-end-index: 18226
+gates-order: 0028
+gates-component: yes
+caption: Cost Refinement results
+technology-rule: cost-refinement-results
+
+R_C 0: cost falls 1 percentage point per MoS; minimum Cost Factor 25.
+
+R_C 1: cost falls 5 percentage points per MoS; minimum Cost Factor 20.
+
+R_C 2: cost falls 10 percentage points per MoS; minimum Cost Factor 15.
+
+R_C 3: cost falls 15 percentage points per MoS; minimum Cost Factor 10.
+
+R_C 4: cost falls 20 percentage points per MoS; minimum Cost Factor 5.
+
+R_C 5: cost falls 25 percentage points per MoS; minimum Cost Factor 5.
+
+Additional Cost Refinement beyond four does not lower the hard floor below 5. It allows the designer to reach that floor with a smaller invention margin.
+
+The Prototype roll fixes the costs of that formula. Manufacturing the same formula later does not recalculate its Cost Factor.
+
+A formula may be optimized later as a new invention.
+
+Separate chems have separate costs. Mixing them costs the sum of the component doses.

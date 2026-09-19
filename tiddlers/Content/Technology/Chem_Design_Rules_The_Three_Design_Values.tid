@@ -1,0 +1,23 @@
+title: Chem Design Rules — The Three Design Values
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 7989
+source-end-index: 8070
+gates-order: 0010
+gates-component: yes
+caption: The Three Design Values
+technology-rule: the-three-design-values
+
+Every chem has three important values:
+
+Level Load
+
+Design Point Load
+
+Benefit Value

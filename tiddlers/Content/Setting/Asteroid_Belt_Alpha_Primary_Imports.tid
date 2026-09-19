@@ -1,0 +1,23 @@
+title: Asteroid Belt Alpha — 📥 Primary Imports
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Asteroid Belt Alpha
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 6241
+source-end-index: 6483
+gates-order: 0002
+gates-component: yes
+caption: 📥 Primary Imports
+setting-component: primary-imports
+
+From Jevin: Bulk food, air tanks, spare parts, low-wage workers
+
+From Halor: Fresh food, fungal antibiotics, low-g refinement enzymes
+
+From Chagar: Fuel, reactor coolant
+
+From Calerre: Exotic materials for reinforcement or containment alloys

@@ -1,0 +1,46 @@
+title: Cybernetics — Classes and Functions — Overview
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — Classes and Functions
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 6526
+source-end-index: 8283
+gates-order: 0000
+gates-component: yes
+caption: Classes and Functions — Overview
+technology-rule: overview
+
+Define what the modification is before deciding how much it costs.
+
+Cybernetics include hard bionics, artificial organs, neural interfaces, implanted computers, biotech replacements, living metal, magitech grafts, and full machine bodies. The source changes repair and vulnerability; the GURPS traits define reliable capability.
+
+The framework is setting-neutral. Use the same build logic whether the system comes from a corporate clinic, battlefield workshop, divine forge, or nanofactory.
+
+| Design Question | Example Answers |
+| --- | --- |
+| What does it grant? | Arm ST, DR, Night Vision, Resistant, Flight, Payload |
+| What does it replace? | A lost limb, damaged eye, failing organ, biological body |
+| What disables it? | EMP, power loss, hacking, anti-magic, disease, corruption |
+| Who repairs it? | Cyberclinic, robotics bay, biotech lab, divine forge, artificer |
+| What does society call it? | Medicine, military hardware, golemcraft, miracle, curse |
+
+| Society | Common Interpretation |
+| --- | --- |
+| High-cyber city | Medicine, fashion, professional equipment, corporate class. |
+| Military state | Licensed hardware, service marker, controlled equipment. |
+| Low-tech fantasy realm | Miracle, curse, golemcraft, demonwork, or divine sign. |
+| Cultivation society | External strength unless harmonized with cultivation. |
+| Post-apocalyptic mercenary state | Power purchased through sacrifice, debt, or lost humanity. |
+| Humanitarian reconstruction facility | Ethical medicine when chosen, dignified, and protective. |
+
+REPLACE BEFORE YOU STACK
+
+Price the net improvement. A replacement system normally substitutes for the natural function before added advantages stack.
+
+PLAYER PROMISE
+
+A paid trait works reliably under normal conditions. Only listed, meaningful limitations should disable it.

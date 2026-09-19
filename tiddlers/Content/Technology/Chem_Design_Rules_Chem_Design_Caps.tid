@@ -1,0 +1,42 @@
+title: Chem Design Rules — Chem Design Caps
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 11576
+source-end-index: 12042
+gates-order: 0017
+gates-component: yes
+caption: Chem Design Caps
+technology-rule: chem-design-caps
+
+Find the lowest Talent whose Level Cap and DPL Cap can contain the package.
+
+| Required Talent | Level Cap | DPL Cap |
+| --- | --- | --- |
+| 1 | 1 | 20 |
+| 2 | 3 | 60 |
+| 3 | 5 | 100 |
+| 4 | 7 | 140 |
+| 5 | 10 | 200 |
+| 6 | 12 | 240 |
+| 7 | 14 | 280 |
+| 8 | 16 | 320 |
+| 9 | 18 | 360 |
+| 10 | 20 | 400 |
+
+For Talent 1-4: Level Cap = 2T - 1
+
+For Talent 5 or higher: Level Cap = 2T
+
+The DPL Cap is:
+
+DPL Cap = 20 * Level Cap
+
+A formula must fit both limits.
+
+Mastery is required to design any chem whose Required Talent is 5 or greater.

@@ -1,0 +1,17 @@
+title: Cybernetics — GATES Setting Rules — Computer Progression and Effective Complexity
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 118468
+source-end-index: 118900
+gates-order: 0008
+gates-component: yes
+caption: GATES Setting Rules — Computer Progression and Effective Complexity
+technology-rule: computer-progression-and-effective-complexity
+
+In GATES, computers advance faster after TL9. A Tiny implant computer has base Complexity 3 at TL9, 5 at TL10, 7 at TL11, and 9 at TL12. Fast adds +1 Complexity and multiplies cost by 20. Genius adds +2 Complexity and multiplies cost by 500. Fast and Genius are mutually exclusive. FTL adds +1 Complexity and multiplies cost by 100; it may combine with Fast or Genius, but it is normally TL11^ and is not available early by default.

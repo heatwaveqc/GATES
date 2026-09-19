@@ -1,0 +1,17 @@
+title: Cybernetics — GATES Setting Rules — Size Modifier
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Cybernetics — GATES Setting Rules
+source-drive-id: 1NTr6GTV4QI3BIeH-oShuHraa6VoGIyJLdhcLl3EsWgg
+source-drive-title: GATES Cybernetics Framework
+source-tab-id: t.0
+source-start-index: 116765
+source-end-index: 117313
+gates-order: 0005
+gates-component: yes
+caption: GATES Setting Rules — Size Modifier
+technology-rule: size-modifier
+
+Increase Size Modifier when permanent augmentation changes the character's normal combat profile enough to qualify under the ordinary SM rules. As a rough guide, +1 SM is appropriate when the modification increases the longest dimension by about 50%, roughly triples occupied volume or mass, adds substantial permanent structures routinely targeted as part of the character, or prevents use of spaces, vehicles, seating, or combat hexes appropriate to the former SM. Retractable systems need not affect resting SM, but may affect SM while deployed.

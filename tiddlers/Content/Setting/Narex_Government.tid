@@ -1,0 +1,29 @@
+title: Narex — 🏛 Government
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Narex
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 32103
+source-end-index: 32551
+gates-order: 0009
+gates-component: yes
+caption: 🏛 Government
+setting-component: government
+
+Control: Elgari Authority's Signal Integrity Division (SID) and Orbital Security Bureau (OSB)
+
+Enforcement:
+
+All traffic logs routed through Palewatch Array
+
+No unregistered ships permitted within 2 AU of Narex without SID authorization
+
+Starbucks Role:
+
+Officially operates 12 repeater nodes for internal Starbucks mission timing and encrypted packet delivery
+
+Suspected of leasing Valtor subnodes from rogue SID agents for black-ops coordination

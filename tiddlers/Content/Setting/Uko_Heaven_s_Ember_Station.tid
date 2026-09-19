@@ -1,0 +1,29 @@
+title: Uko — Heaven’s Ember Station
+type: text/x-markdown
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-component
+gates-parent: Uko
+source-drive-id: 1vhe-wZrvUWA8Ow0jvSvGSiSGq9vqVkz9msUYfKFwyLM
+source-drive-title: The Veltrass System
+source-tab-id: t.0
+source-start-index: 1266
+source-end-index: 1653
+gates-order: 0006
+gates-component: yes
+caption: Heaven’s Ember Station
+setting-component: heaven-s-ember-station
+
+Type: Orbital refinery and crew platform
+
+Status: Derelict, Class III orbital hazard
+
+Historic Pop: Up to 200 during peak; abandoned 12 years ago
+
+Import/Export Model:
+
+Imports: All life support, maintenance bots
+
+Exports: Canisters of filtered He-3, offloaded to automated skiffs
+
+Current Use: Occasional hideout for scavengers or cults; orbit expected to decay fully within 9–11 years

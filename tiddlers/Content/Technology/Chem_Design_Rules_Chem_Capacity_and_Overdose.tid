@@ -1,0 +1,27 @@
+title: Chem Design Rules — Chem Capacity and Overdose
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 20188
+source-end-index: 20581
+gates-order: 0031
+gates-component: yes
+caption: Chem Capacity and Overdose
+technology-rule: chem-capacity-and-overdose
+
+Chems are Temporary Physical buffs.
+
+A character’s Chem Capacity is equal to their Temporary Physical buff limit:
+
+Chem Capacity = max(1, floor(HT / 5) + Highest Relevant Physical Talent)
+
+Each uncleared integrated chem occupies one point of Chem Capacity.
+
+Separate chems each occupy one point, even if physically mixed.
+
+Repeated doses of the same chem each occupy another point until they clear.

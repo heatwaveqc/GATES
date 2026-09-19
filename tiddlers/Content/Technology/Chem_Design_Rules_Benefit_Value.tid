@@ -1,0 +1,53 @@
+title: Chem Design Rules — Benefit Value
+type: text/x-markdown
+gates-audience: player
+gates-section: Technology
+gates-kind: technology-rule
+gates-parent: Chem Design Rules
+source-drive-id: 1yP4YxCaRRroUsORJ-LpOMSEzlGSmLLD2kjMEJxoewe0
+source-drive-title: Chems
+source-tab-id: t.0
+source-start-index: 10118
+source-end-index: 10777
+gates-order: 0013
+gates-component: yes
+caption: Benefit Value
+technology-rule: benefit-value
+
+Benefit Value, or BV, measures how rewarding and useful the chem’s positive effect is.
+
+Calculate BV like DPL, except that limitations representing harm to the user do not reduce Benefit Value.
+
+The following normally reduce both DPL and BV:
+
+Reduced Duration
+
+Accessibility restrictions
+
+Situational limitations
+
+Unreliable effects
+
+Limited scope
+
+Restrictions on what the benefit can accomplish
+
+The following normally reduce DPL but not BV:
+
+Backlash
+
+Temporary Disadvantages
+
+Pain
+
+Nausea
+
+Post-use attribute penalties
+
+Crashes
+
+Harmful withdrawal-like effects
+
+Enhancements such as Extended Duration increase both values.
+
+The GM decides how to classify unusual modifiers.
