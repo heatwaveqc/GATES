@@ -1,0 +1,10 @@
+title: System
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: System
+gates-kind: section-index
+gates-index: yes
+
+Browse system.
+
+{{||$:/GATES/SectionIndex}}

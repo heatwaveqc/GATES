@@ -1,0 +1,11 @@
+title: $:/GATES/SettingIndex
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: System
+gates-kind: template
+
+<$let setting=<<currentTiddler>>>
+<$list filter="[all[tiddlers]tag<setting>field:gates-index[yes]!field:gates-component[yes]sort[gates-section]]">
+<p><$text text={{!!gates-section}}/>: <$link/> — <$text text={{!!gates-description}}/></p>
+</$list>
+</$let>

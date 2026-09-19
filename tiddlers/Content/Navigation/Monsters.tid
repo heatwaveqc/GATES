@@ -1,0 +1,10 @@
+title: Monsters
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Monsters
+gates-kind: section-index
+gates-index: yes
+
+Browse monsters.
+
+{{||$:/GATES/SectionIndex}}

@@ -1,0 +1,11 @@
+title: $:/GATES/JutsuTree
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: System
+gates-kind: template
+
+<$let tree=<<currentTiddler>>>
+<$list filter="[all[tiddlers]field:gates-parent<tree>field:gates-kind[jutsu]sort[tree-order]]">
+<section><h2><$link/></h2><$transclude/></section>
+</$list>
+</$let>

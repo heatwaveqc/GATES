@@ -1,0 +1,10 @@
+title: Setting
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Setting
+gates-kind: section-index
+gates-index: yes
+
+Browse setting.
+
+{{||$:/GATES/SectionIndex}}

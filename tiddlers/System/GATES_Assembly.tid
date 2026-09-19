@@ -1,0 +1,27 @@
+title: $:/GATES/Assembly
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: System
+gates-kind: template
+
+<$let owner=<<currentTiddler>>>
+<$list filter="[<owner>has[gates-parent]]" variable="entity">
+<p>Parent: <$link to={{!!gates-parent}}><$text text={{!!gates-parent}}/></$link></p>
+</$list>
+<$list filter="[<owner>get[gates-inherits]enlist-input[]]" variable="inherited">
+<$list filter="[<inherited>is[tiddler]]" variable="available">
+<details><summary>Shared rules: <$link to=<<inherited>>><$text text=<<inherited>>/></$link></summary>
+<$tiddler tiddler=<<inherited>>><$transclude/></$tiddler>
+</details>
+</$list>
+</$list>
+<$list filter="[all[tiddlers]field:gates-parent<owner>field:gates-component[yes]sort[gates-order]]">
+<section class="gates-component">
+<h2><$link><$text text={{!!caption}}/></$link></h2>
+<$transclude/>
+</section>
+</$list>
+<$list filter="[all[tiddlers]field:gates-parent<owner>field:gates-index[yes]!field:gates-component[yes]sort[gates-order]]">
+<p><$link/> — <$text text={{!!gates-description}}/></p>
+</$list>
+</$let>

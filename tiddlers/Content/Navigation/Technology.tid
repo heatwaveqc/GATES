@@ -1,0 +1,10 @@
+title: Technology
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Technology
+gates-kind: section-index
+gates-index: yes
+
+Browse technology.
+
+{{||$:/GATES/SectionIndex}}

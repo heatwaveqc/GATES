@@ -1,0 +1,10 @@
+title: Setting: Stellar Conflict
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Setting
+gates-kind: setting-hub
+gates-index: yes
+
+Browse Stellar Conflict.
+
+{{||$:/GATES/SettingIndex}}

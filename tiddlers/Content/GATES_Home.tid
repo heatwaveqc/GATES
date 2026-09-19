@@ -1,16 +1,19 @@
 title: GATES Home
-tags: [[GATES]] [[Index]]
-type: text/x-markdown
-created: 20260919000000000
-modified: 20260919000000000
+type: text/vnd.tiddlywiki
 gates-audience: player
 gates-section: System
-gates-kind: index
+gates-kind: navigation
 
-# GATES
+Welcome to GATES: worlds, character options, and rules for play.
 
-Player-facing GATES wiki foundation.
+* [[Domains]]
+* [[Species]]
+* [[Setting]]
+* [[Gods]]
+* [[Monsters]]
+* [[Technology]]
+* [[Campaigns]]
+* [[System]]
 
-This wiki is being rebuilt around small, modular tiddlers. Only material that has been explicitly classified for the Player audience is included here.
-
-As migration proceeds, section, kind, parent, and tag metadata will generate increasingly rich navigation.
+! Browse by setting
+<$list filter="[field:gates-kind[setting-hub]sort[title]]"><p><$link/></p></$list>

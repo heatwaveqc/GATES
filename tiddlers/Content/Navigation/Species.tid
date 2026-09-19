@@ -1,0 +1,10 @@
+title: Species
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Species
+gates-kind: section-index
+gates-index: yes
+
+Browse species.
+
+{{||$:/GATES/SectionIndex}}

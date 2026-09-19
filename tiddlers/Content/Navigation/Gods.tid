@@ -1,0 +1,10 @@
+title: Gods
+type: text/vnd.tiddlywiki
+gates-audience: player
+gates-section: Gods
+gates-kind: section-index
+gates-index: yes
+
+Browse gods.
+
+{{||$:/GATES/SectionIndex}}
